@@ -1,0 +1,31 @@
+# This is the CD file I use to deploy my notes site
+# Like a normal GH Action you will place this in `.github/workflows` to use
+
+name: Build and Deploy MkDocs Site
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: '3.10'
+
+      - name: Install MkDocs and Plugins
+        run: |
+          pip install -r requirements.txt
+
+      # Step 6: Build and Deploy MkDocs Site
+      - name: Deploy MkDocs to GitHub Pages
+        run: |
+          mkdocs gh-deploy --force --config-file mkdocs.yml
