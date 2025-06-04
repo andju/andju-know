@@ -28,6 +28,8 @@ There are plenty of sights as well as guide books, blogs and websites describing
 ### Food and accommodation
 Even though there are plenty of eating places in the city, there are many tourist traps (multi-language menus are a bad sign). A good restaurant in the city is *Restaurace Pod Petřínem*. You can also head out to the neighborhood of Žižkov which is less-touristy. Here you will find e.g. the restaurant *U Sadu*.
 
+The *Exe City Park* hotel is conveniently located across the street from the main station, offers nice rooms and good breakfast. Bicycle storage: In an empty (locked) conference room.
+
 ## Day 1: Český Šternberk - Chocerady
 East of the train station you have to bypass a bar gate. For the next kilometer, the way is quite rocky - but still manageable with regular bikes. If you still want to avoid this stretch (or shorten the route) you can exit the train at Rataje n.Sáz.zast or Rataje n.Sáz.-Ivaň.
 
