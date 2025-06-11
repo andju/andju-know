@@ -4,7 +4,7 @@ published: true
 # Document management
 Even with more and more (electronic) paper coming in, I was initially skeptical whether I need a document management: I actually was happy with sorting pdfs into a folder structure. I had to try [paperless-ngx](https://docs.paperless-ngx.com/) to understand how much faster (especially searching and checking documents) and easier it is.
 
-I especially like:
+I especially like that:
 1. The documents are stored in the file system - and are also available if paperless-ngx is not running or in case it should be discontinued.
 2. It "learns" which correspondent, document type and tags to assign to new documents.
 
@@ -41,12 +41,18 @@ To get started, copy a document into the folder `consume`. It will be added to t
 You can find further advice in this [this article 🇩🇪](https://itv4.de/paperless-ngx-mithilfe-von-docker-unter-windows-installieren/#Kurze_Einfuehrung_in_Paperless-ngx) .
 
 ## Features
+Configure advanced features to make document handling and usage even simpler.
+### Document splitting
+If your scanner has an automatic document feeder (ADF) to scan multiple pages at once, you can scan multiple pages and let paperless-ngx "split" them into separate documents.
 
-### Batch scan
-
-Barcode:
+You need a barcode that represents a certain text (by default: `PATCHT`) that will signal paperless-ngx where a new document starts. The most robust solution is to use the following QR-Code:
 
 ![PATCHT QR Code](patcht.png)
+
+> [!hint] Shrink QR-code before printing
+> The QR code has a large resolution, but that doesn't mean you need to print it that large. Depending on the resolution of your scanner, 25% of the size should be fine.
+
+Print-out the code - I recommend double-sided, so you can scan double-sided documents.
 
 Add the following entries to `docker-compose.env`:
 ```
@@ -54,20 +60,45 @@ PAPERLESS_CONSUMER_ENABLE_BARCODES=true
 PAPERLESS_CONSUMER_BARCODE_SCANNER=ZXING
 ```
 
+When you scan documents, put the QR-code page(s) where you want to split the documents.
 ### Double-sided documents
+If your scanner has an automatic document feeder (ADF) but does not support duplex-scanning, you can scan multiple documents on both sides and let paperless-ngx handle the merging.
 
-Add the following entries to `docker-compose.env`:
+Create the folder `double-sided` in your folder `consume` and add the following entries to `docker-compose.env`:
 ```
 PAPERLESS_CONSUMER_ENABLE_COLLATE_DOUBLE_SIDED=true
 PAPERLESS_CONSUMER_RECURSIVE=true
 ```
 
+The process is the following:
+1. Scan one side of the documents into the folder `double-sided` (hint: Scan it into a different folder and check it, before moving it)
+2. Wait for paperless-ngx to consume the document (once it disappears from the folder)
+3. Turn the documents around (don't change the order) and scan them in to the folder `double-sided`
+4. Once paperless consumes the second scan, the new document will appear.
+
+> [!hint] Split double-sided documents
+> You can combine the functionality with [document splitting](#document-splitting).
+
+You can find more information on [paperless-ngx.com](https://docs.paperless-ngx.com/advanced_usage/#collate).
 ### Auto-login
+
+If you want to avoid typing user name and password every time you open paperless-ngx, you can configure automatic login.
+
+> [!danger] paperless-ngx server
+> Do not use this setting when running paperless-ngx on a server.
+
+Add the following entry to `docker-compose.env`:
+```
+PAPERLESS_AUTO_LOGIN_USERNAME=<your username>
+```
+
 ### Other
 
 - [This article](https://piep.tech/posts/automatic-password-removal-in-paperless-ngx/) describes how to automatically remove passwords while consuming new documents
 
 ## Maintenance
+Administrative tasks and advanced access.
+
 ### Backup and restore
 Include the entire paperless-ngx folder in your backup strategy. The documents (subfolder: media) and the classification model (subfolder: data) are automatically included.
 
