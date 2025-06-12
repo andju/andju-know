@@ -52,7 +52,7 @@ There are not many options for food along the route - I recommend to have breakf
 
 *VALLA penzión & reštaurácia*[^6] has super-friendly staff, modern rooms and fantastic food. Highly recommend! Bicycle storage: Shelter in the locked courtyard.
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
-
+The tour continues along the March until it reaches the Danube near Bratislava. From there it continues over (mostly) flat land to Lake Neusiedl.
 
 ### Sights
 
@@ -65,8 +65,9 @@ There are not many options for food along the route - I recommend to have breakf
 ### Food and accommodation
 Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-Hager*[^7] offers good, traditional food. The *Stadtgasthaus am Nyikospark*[^8] also serves Austrian food - a bit more expensive, but very good.
 
-
+*25h SPA-Residenz*[^9] offers a spacious, clean room with two pools (out- and indoor). Book ahead! Bicycle storage: Parking space in the garage.
 ## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
+
 
 ### Sights
 
@@ -88,3 +89,5 @@ Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-H
 [^7]: Gasthaus Nagel-Hager, Hauptstraße 30, 2293 Marchegg
 
 [^8]: Das Stadtgasthaus am Nyikospark, u. Hauptstraße 59, 7100 Neusiedl am See
+
+[^9]: 25h SPA-Residenz, Seestraße 37, 7100 Neusiedl am See
