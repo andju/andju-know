@@ -13,7 +13,7 @@ Ich nutze für die ETF-Suche normalerweise [justETF](https://www.justetf.com/de/
 1. Replikation: Full oder Sampling (mit synthetischen ETFs hat man ein zusätzliches Kontrahentenrisiko ins Portfolio)
 2. Ausschüttung: Thesaurierend (die Gewinne werden wieder angelegt und man profitiert vom Zinseszinseffekt)
 3. Größe: Möglichst groß (je mehr gehandelt wird desto sicherer kann man sein, dass man jederzeit kaufen/verkaufen kann)
-4. TER: Möglichst gering (um wenige Gebühren zu zahlen)
+4. Total expense ratio (TER): Möglichst gering (um wenige Gebühren zu zahlen)
 
 ## Diversifikation
 
