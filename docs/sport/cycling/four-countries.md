@@ -6,9 +6,9 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 3 days 🇨🇿 Czech Republic 🇦🇹 Austria 🇸🇰 Slovakia 🇭🇺 Hungary 📅 May 2024
 > 
-> From [Břeclav train station](https://www.openstreetmap.org/#map=16/48.75398/16.89325) 🇨🇿 (30 minutes by [train](https://www.cd.cz/)  from Brno)
+> From [Břeclav train station 🇨🇿](https://www.openstreetmap.org/#map=16/48.75398/16.89325) (30 minutes by [train](https://www.cd.cz/)  from Brno)
 > 
-> To [Vasegerszeg train station](https://www.openstreetmap.org/#map=16/47.37165/16.92413) 🇭🇺 (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
+> To [Vasegerszeg train station 🇭🇺](https://www.openstreetmap.org/#map=16/47.37165/16.92413) (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
 
 More than a 2 500 km journey through remote and scenic landscapes, it is a ride through the layered history of Central Europe. After the countries were united for over a hundred years, most of the 20. century was about their borders: First between fascism and democracy then between democracy and communism.
 
@@ -32,14 +32,14 @@ You can find an exhaustive list of sights on [gotobrno.cz](https://www.gotobrno.
 - [Freedom Square (Náměstí Svobody)](https://www.gotobrno.cz/en/place/freedom-square-namesti-svobody/)
 
 ### Food and accommodation
-There are lots of restaurants. *Stopkova Plzeňská Pivnice* offers good food and beer.
+There are lots of restaurants. *Stopkova Plzeňská Pivnice*[^1] offers good food and beer.
 
-If you want a unique "hotel" experience I recommend staying in the *10-Z Bunker*. [websteiner.com](https://www.websteiner.com/brno23_10zbunker.html) has a lot of impressions and a perfect summary. Personally I am glad I spent one night there - though I wouldn't spend another one. Bicycle storage: Behind the locked fence, in front of the bunker.
+If you are looking for a unique experience I recommend staying in the *10-Z Bunker*[^2]. [websteiner.com 🇩🇪](https://www.websteiner.com/brno23_10zbunker.html) has a lot of impressions and a perfect summary. Personally I am glad I spent one night there - though I wouldn't spend another one. Bicycle storage: Behind the locked fence, in front of the bunker.
 
 ## Day 1: Břeclav 🇨🇿 - Malacky 🇸🇰
-The route follows the river March until it turns east towards Malacky.
+The route passes through countryside and villages before it follows the river March and turns east towards Malacky.
 
-If you are looking for a more sporty route that includes a church on an island, try [this one](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm). Just exit the train from Brno a few stations earlier in [Pouzdřany](https://www.openstreetmap.org/#map=16/48.94205/16.63045).
+A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm) includes a church on an island. Just exit the train from Brno a few stations earlier in [Pouzdřany](https://www.openstreetmap.org/#map=16/48.94205/16.63045).
 
 ### Sights
 
@@ -48,7 +48,7 @@ If you are looking for a more sporty route that includes a church on an island, 
 - [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): ⚠️ I couldn't find any information whether it is forbidden, allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
 ### Food and accommodation
-
+There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. You can also have good coffee and a sandwich at *Bäckerei Karl Bauer*[^4] in Hohenau an der March.
 
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
 
@@ -58,3 +58,11 @@ If you are looking for a more sporty route that includes a church on an island, 
 - [Hof Palace](https://en.wikipedia.org/wiki/Schloss_Hof)
 
 ## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
+
+[^1]: Stopkova Plzeňská Pivnice, 5, Česká 163, 602 00 Brno
+
+[^2]: 10-Z Bunker, Husova, 602 00 Brno
+
+[^3]: Dobrota kafe, J. Palacha 2921/3 690 02, Břeclav 2
+
+[^4]: Bäckerei Karl Bauer, Hauptstraße 6, 2273 Hohenau an der March
