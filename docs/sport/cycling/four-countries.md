@@ -48,16 +48,30 @@ A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWM
 - [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): ⚠️ I couldn't find any information whether it is forbidden, allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
 ### Food and accommodation
-There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. You can also have good coffee and a sandwich at *Bäckerei Karl Bauer*[^4] in Hohenau an der March.
+There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. You can also have good coffee and a sandwich at *Bäckerei Karl Bauer*[^4] in Hohenau an der March. *Kaviareň Lavazza*[^5]
 
+*VALLA penzión & reštaurácia*[^6] has super-friendly staff, modern rooms and fantastic food. Highly recommend! Bicycle storage: Shelter in the locked courtyard.
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
+
 
 ### Sights
 
 - [Marchegg Palace](https://de.wikipedia.org/wiki/Schloss_Marchegg)
 - [Hof Palace](https://en.wikipedia.org/wiki/Schloss_Hof)
+- [Freedom Cycling Bridge](https://de.wikipedia.org/wiki/Fahrradbr%C3%BCcke_der_Freiheit)
+- [Devín Castle](https://en.wikipedia.org/wiki/Dev%C3%ADn_Castle)
+- [New Palace in Kittsee](https://de.wikipedia.org/wiki/Neues_Schloss_Kittsee)
+
+### Food and accommodation
+Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-Hager*[^7] offers good, traditional food. The *Stadtgasthaus am Nyikospark*[^8] also serves Austrian food - a bit more expensive, but very good.
+
 
 ## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
+
+### Sights
+
+### Food and accommodation
+
 
 [^1]: Stopkova Plzeňská Pivnice, 5, Česká 163, 602 00 Brno
 
@@ -66,3 +80,11 @@ There are not many options for food along the route - I recommend to have breakf
 [^3]: Dobrota kafe, J. Palacha 2921/3 690 02, Břeclav 2
 
 [^4]: Bäckerei Karl Bauer, Hauptstraße 6, 2273 Hohenau an der March
+
+[^5]: Kaviareň Lavazza, Malé námestie 5000, 901 01 Malacky
+
+[^6]: VALLA penzión & reštaurácia, Družstevná 2053/26, 901 01 Malacky
+
+[^7]: Gasthaus Nagel-Hager, Hauptstraße 30, 2293 Marchegg
+
+[^8]: Das Stadtgasthaus am Nyikospark, u. Hauptstraße 59, 7100 Neusiedl am See
