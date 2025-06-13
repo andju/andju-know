@@ -52,7 +52,11 @@ There are not many options for food along the route - I recommend to have breakf
 
 *VALLA penzión & reštaurácia*[^6] has super-friendly staff, modern rooms and fantastic food. Highly recommend! Bicycle storage: Shelter in the locked courtyard.
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
-The tour continues along the March until it reaches the Danube near Bratislava. From there it continues over (mostly) flat land to Lake Neusiedl.
+The route continues along the March until it reaches the Danube near Bratislava. From there it continues over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
+
+At the road between Malacky and Jakubov, cars drive quite fast. In order to avoid it, you can use [this route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLV9n2lLxO5uF5OAe.39nO9kxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=1135718320&ri=136213864&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=17.0816153&y=48.2080174&z=10) (110 km | 79 hm | -50 hm) along the river or a direct [route](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO1WvxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.7979100&y=48.1863334&z=10) (86.1 km | 66 hm | -50 hm). Please note: By default, neither does pass by Hof Palace (you can include it though).
+
+Instead of seeing Devín Castle, you can also take a more sporty route through Hainburg an der Donau. There is an [option](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLVg3-f4c9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwUEx6COffY6eSU2cxNl1E&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=1130588824&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.9209503&y=48.2153283&z=10) along the river (106 km | 144 hm | -49 hm) and a [direct](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwTtx6COme-fdeRgqXxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=23356665&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.8921112&y=48.2494576&z=10) (92.7 km | 155 hm | -49 hm) one.
 
 ### Sights
 
@@ -65,7 +69,7 @@ The tour continues along the March until it reaches the Danube near Bratislava. 
 ### Food and accommodation
 Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-Hager*[^7] offers good, traditional food. The *Stadtgasthaus am Nyikospark*[^8] also serves Austrian food - a bit more expensive, but very good.
 
-*25h SPA-Residenz*[^9] offers a spacious, clean room with two pools (out- and indoor). Book ahead! Bicycle storage: Parking space in the garage.
+*25h SPA-Residenz*[^9] offers a spacious, clean room with two pools (out- and indoor). You need to book ahead! Bicycle storage: Parking space in the garage.
 ## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
 
 
