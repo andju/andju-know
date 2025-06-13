@@ -39,8 +39,6 @@ If you are looking for a unique experience I recommend staying in the *10-Z Bunk
 ## Day 1: Břeclav 🇨🇿 - Malacky 🇸🇰
 The route passes through countryside and villages before it follows the river March and turns east towards Malacky.
 
-A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm) includes a church on an island. Just exit the train from Brno a few stations earlier in [Pouzdřany](https://www.openstreetmap.org/#map=16/48.94205/16.63045).
-
 ### Sights
 
 - [Břeclav Castle](https://en.wikipedia.org/wiki/B%C5%99eclav#Sights)
@@ -51,12 +49,15 @@ A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWM
 There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. You can also have good coffee and a sandwich at *Bäckerei Karl Bauer*[^4] in Hohenau an der March. *Kaviareň Lavazza*[^5]
 
 *VALLA penzión & reštaurácia*[^6] has super-friendly staff, modern rooms and fantastic food. Highly recommend! Bicycle storage: Shelter in the locked courtyard.
+
+### Alternative route
+A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm) includes a church on an island. Just exit the train from Brno a few stations earlier in [Pouzdřany](https://www.openstreetmap.org/#map=16/48.94205/16.63045).
+
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
 The route continues along the March until it reaches the Danube near Bratislava. From there it continues over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
 
-At the road between Malacky and Jakubov, cars drive quite fast. In order to avoid it, you can use [this route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLV9n2lLxO5uF5OAe.39nO9kxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=1135718320&ri=136213864&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=17.0816153&y=48.2080174&z=10) (110 km | 79 hm | -50 hm) along the river or a direct [route](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO1WvxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.7979100&y=48.1863334&z=10) (86.1 km | 66 hm | -50 hm). Please note: By default, neither does pass by Hof Palace (you can include it though).
-
-Instead of seeing Devín Castle, you can also take a more sporty route through Hainburg an der Donau. There is an [option](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLVg3-f4c9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwUEx6COffY6eSU2cxNl1E&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=1130588824&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.9209503&y=48.2153283&z=10) along the river (106 km | 144 hm | -49 hm) and a [direct](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwTtx6COme-fdeRgqXxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=23356665&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.8921112&y=48.2494576&z=10) (92.7 km | 155 hm | -49 hm) one.
+> [!warning] Malacky to Jakubov
+> The cars drive quite fast on the road between Malacky and Jakubov.
 
 ### Sights
 
@@ -70,12 +71,31 @@ Instead of seeing Devín Castle, you can also take a more sporty route through H
 Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-Hager*[^7] offers good, traditional food. The *Stadtgasthaus am Nyikospark*[^8] also serves Austrian food - a bit more expensive, but very good.
 
 *25h SPA-Residenz*[^9] offers a spacious, clean room with two pools (out- and indoor). You need to book ahead! Bicycle storage: Parking space in the garage.
-## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
 
+### Alternative routes
+You can avoid the road between Malacky and Jakubov by taking [this route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLV9n2lLxO5uF5OAe.39nO9kxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=1135718320&ri=136213864&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=17.0816153&y=48.2080174&z=10) (110 km | 79 hm | -50 hm) along the river or a direct [route](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO1WvxOCz09ncs5x69vi3aJx6e8a9mvivxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015108530&ri=1005953902&ri=12076879&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.7979100&y=48.1863334&z=10) (86.1 km | 66 hm | -50 hm). Please note: By default, neither does pass by Hof Palace (you can include it though).
+
+Instead of seeing Devín Castle, you can also take a more sporty route through Hainburg an der Donau. There is an [option](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLVg3-f4c9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwUEx6COffY6eSU2cxNl1E&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=1130588824&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.9209503&y=48.2153283&z=10) along the river (106 km | 144 hm | -49 hm) and a [direct](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwTtx6COme-fdeRgqXxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=23356665&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.8921112&y=48.2494576&z=10) (92.7 km | 155 hm | -49 hm) one.
+
+## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
+Along the eastern shore of Lake Neusiedl the route cross the border to Hungary. There it sees small villages in a beautiful countryside.
+
+Keep an eye on the schedule of the Vasegerszeg train station.
+
+> [!warning] Ivàn to Nemesládony
+> Road 84 short before Nemesládony is a main road. While it is only a short stretch, you might encounter lots of fast cars. Alternative routes would be via Csáfordjánosfa in the east or Lócs and Sajtoskál in the east.
+> The direct way (south of Ivàn) contains a path through the woods that was impassable by bicycle (and most cars).
 
 ### Sights
 
+- [Lake Neusiedl](https://en.wikipedia.org/wiki/Lake_Neusiedl)
+- [Hufnaglhaus](https://www.burgenland.info/dc/detail/POI/hufnaglhaus-4)
+- [Eszterháza Palace](https://en.wikipedia.org/wiki/Eszterh%C3%A1za)
+
 ### Food and accommodation
+Grab a great breakfast at *Bäckerei Naglreiter*[^10] in Neusiedl am See. *Mexikópusztai Betérő*[^11] offers - despite the name - solid Hungarian food. *Vadvirág Csárda*[^12] is an excelent restaurant - and worth considering a detour.
+
+### Alternative routes
 
 
 [^1]: Stopkova Plzeňská Pivnice, 5, Česká 163, 602 00 Brno
@@ -95,3 +115,9 @@ Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-H
 [^8]: Das Stadtgasthaus am Nyikospark, u. Hauptstraße 59, 7100 Neusiedl am See
 
 [^9]: 25h SPA-Residenz, Seestraße 37, 7100 Neusiedl am See
+
+[^10]: Bäckerei Naglreiter, Hauptpl. 5, 7100 Neusiedl am See
+
+[^11]: Mexikópusztai Betérő, Sarród, Fő u. 4-5, 9434 Hungary
+
+[^12]: Vadvirág Csárda, Bük, Termál krt. 1, 9740 Hungary
