@@ -26,9 +26,9 @@ The "Golden City" became one of the most important cities under Charles IV. Toda
 There are plenty of sights as well as guide books, blogs and websites describing them.
 
 ### Food and accommodation
-Even though there are plenty of eating places in the city, there are many tourist traps (multi-language menus are a bad sign). A good restaurant in the city is *Restaurace Pod Petřínem*. You can also head out to the neighborhood of Žižkov which is less-touristy. Here you will find e.g. the restaurant *U Sadu*.
+Even though there are plenty of eating places in the city, there are many tourist traps (multi-language menus are a bad sign). A good restaurant in the city is *Restaurace Pod Petřínem*[^1]. You can also head out to the neighborhood of Žižkov which is less-touristy. Here you will find e.g. the restaurant *U Sadu*[^2].
 
-The *Exe City Park* hotel is conveniently located across the street from the main station, offers nice rooms and good breakfast. Bicycle storage: In an empty (locked) conference room.
+The *Exe City Park*[^3] hotel is conveniently located across the street from the main station, offers nice rooms and good breakfast. Bicycle storage: In an empty (locked) conference room.
 
 ## Day 1: Český Šternberk - Chocerady
 East of the train station you have to bypass a bar gate. For the next kilometer, the way is quite rocky - but still manageable with regular bikes. If you still want to avoid this stretch (or shorten the route) you can exit the train at Rataje n.Sáz.zast or Rataje n.Sáz.-Ivaň.
@@ -47,9 +47,9 @@ If you want to do a day-trip, take a train from Chocerady back to Prague (1.5 ho
 	- Church of Saint John of Nepomuk: Stands on the site of the former castle
 
 ### Food and accommodation
-While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna* near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h.
+While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna*[^4] near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h (e.g. in *Hospůdka Pod Hrádkem*[^5]).
 
-Also accommodations are sparse - but fortunately *Hotel Ostende* offers good value for the price. Bicycle storage: In the courtyard.
+Also accommodations are sparse - but fortunately *Hotel Ostende*[^6] offers good value for the price. Bicycle storage: In the courtyard.
 
 ## Day 2: Chocerady - Týnec nad Sázavou
 
@@ -101,3 +101,14 @@ Translated from [hradec1.cz🇨🇿](https://www.hradec1.cz/minulost-zanikle-osa
 > 
 > As can be seen from the list of data, we have not preserved much about this extinct medieval village, later the settlement and recently in solitude, so it is necessary to constantly remember these fragments. If you would like to learn more about Přibyslavice, get the publication Sázavsko number 13, where the above-mentioned article by Soni Hendrychová is published, or visit the current Přibyslavice straight away. One never knows whether he will see what he sees today in a few years. An example is the experience of the author of the article, who did the first prospection of Přibyslavice in 2006, when it could be noticed in the field disproportionately more than a year later, when the forest road passing through the settlement was extended from two to four meters and objects a year ago buried.
 
+[^1]: Restaurace Pod Petřínem, Hellichova 5, 118 00 Malá Strana
+
+[^2]: U Sadu, Škroupovo nám. 1282/5, 130 00 Praha 3-Žižkov
+
+[^3]: Exe City Park, Opletalova 960/33, 110 00 Nové Město
+
+[^4]: Sázavská Kozlovna, Gen. Vedrala Sázavského 420, 285 06 Sázava
+
+[^5]: Hospůdka Pod Hrádkem, Chocerady 4, 257 24 Chocerady
+
+[^6]: Hotel Ostende, Chocerady 83, 257 24 Chocerady
