@@ -22,6 +22,7 @@ Castles and caves, picturesque half-timbered villages, beautiful countryside and
 ### Sights
 
 ### Food and accommodation
+The ibis budget[^1] offers small and functional, but clean rooms. It also has a great breakfast and is conveniently located near the main station.
 
 ## Day 1: Pegnitz - Mengersdorf
 
@@ -36,9 +37,9 @@ The beautiful landscape and three major climbs will take your breath away. The w
 - [Waischenfeld](https://www.fraenkische-schweiz.com/detail/id=5f5772b65f7f9b38066ee666)
 
 ### Food and accommodation
-The breweries along the way offer Franconian dishes and unique, fresh beer. I can recommend *Brauerei Mager* in Pottenstein and *Gasthof Polsterbräu* in Nankendorf.
+The breweries along the way offer Franconian dishes and unique, fresh beer. I can recommend *Brauerei Mager*[^2] in Pottenstein and *Gasthof Polsterbräu*[^3] in Nankendorf.
 
-*Gutshof Mengersdorf* offers comfortable and clean rooms in a historic building, great breakfast and friendly personnel: Clear recommendation! Bicycle storage: In a barn (locked).
+*Gutshof Mengersdorf*[^4] offers comfortable and clean rooms in a historic building, great breakfast and friendly personnel: Highly recommended! Bicycle storage: In a (locked) barn.
 
 ## Day 2: Mengersdorf - Bamberg
 
@@ -55,7 +56,7 @@ If you are looking for a more sporty route, try [this one](https://brouter.m11n.
 ### Food and accommodation
 Like on day one, you will find many breweries and restaurants along the way.
 
-*Gasthaus Grasser* in Huppendorf has excellent beer and food, *Brauerei Hönig* in Litzendorf offers cold beer in a beautiful beer garden and *Brauerei und Gaststätte Hölzlein* in Lohndorf a cozy inner courtyard.
+*Gasthaus Grasser*[^5] in Huppendorf has excellent beer and food, *Brauerei Hönig*[^6] in Litzendorf offers cold beer in a beautiful beer garden and *Brauerei und Gaststätte Hölzlein* in Lohndorf a cozy inner courtyard.
 
 There are many hotels in Bamberg. *Hotel Andres* offers clean rooms and good breakfast for a reasonable price. Bicycle storage: In the hotel garage.
 
@@ -64,3 +65,17 @@ Initially I planned to overnight in Hollfeld, but had to change due to a lack of
 
 - Day 1: [Pegnitz - Hollfeld](https://brouter.m11n.de/#map=11/49.8651/11.3873/standard,Waymarked_Trails-Cycling&lonlats=11.548288,49.758993;11.412327,49.77193;11.36025,49.788556;11.370206,49.82284;11.291553,49.936279&profile=trekking)
 - Day 2: [Hollfeld - Bamberg](https://brouter.m11n.de/#map=12/49.9301/11.1171/standard,Waymarked_Trails-Cycling&lonlats=11.291596,49.936102;11.218972,49.927135;10.892022,49.891608&profile=trekking)
+
+[^1]: ibis budget Bayreuth
+
+[^2]: Brauerei und Gaststätte Mager, Hauptstraße 17, 91278 Pottenstein
+
+[^3]: Gasthaus Polsterbräu, Nankendorf 45, 91344 Waischenfeld
+
+[^4]: Gutshof Mengersdorf, Mengersdorf 26, 95490 Mistelgau
+
+[^5]: Gasthaus Grasser, Huppendorf 25, 96167 Königsfeld
+
+[^6]: Brauerei Hönig, Ellerbergstraße 15, 96123 Litzendorf
+
+
