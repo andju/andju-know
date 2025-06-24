@@ -46,7 +46,7 @@ The route passes through countryside and villages before it follows the river Ma
 - [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): ⚠️ I couldn't find any information whether it is forbidden, allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
 ### Food and accommodation
-There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. You can also have a sandwich at *Bäckerei Karl Bauer*[^4] in Hohenau an der March or a coffee at *Kaviareň Lavazza*[^5] in Malacky.
+There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. *Bäckerei Karl Bauer*[^4] in Hohenau an der March has a breakfast menu or you can have a coffee at *Kaviareň Lavazza*[^5] in Malacky.
 
 *VALLA penzión & reštaurácia*[^6] has super-friendly staff, modern rooms and fantastic food. Highly recommend! Bicycle storage: Shelter in the locked courtyard.
 
