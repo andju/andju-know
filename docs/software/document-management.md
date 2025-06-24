@@ -5,6 +5,7 @@ published: true
 Even with more and more (electronic) paper coming in, I was initially skeptical whether I need a document management: I actually was happy with sorting pdfs into a folder structure. I had to try [paperless-ngx](https://docs.paperless-ngx.com/) to understand how much faster (especially searching and checking documents) and easier it is.
 
 I especially like that:
+
 1. The documents are stored in the file system - and are also available if paperless-ngx is not running or in case it should be discontinued.
 2. It "learns" which correspondent, document type and tags to assign to new documents.
 
