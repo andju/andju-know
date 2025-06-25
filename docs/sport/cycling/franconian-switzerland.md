@@ -18,14 +18,21 @@ Castles and caves, picturesque half-timbered villages, beautiful countryside and
 | Day 2: Bamberg     | [bikerouter.de](https://brouter.m11n.de/#map=12/49.9139/11.1290/standard&lonlats=11.375114,49.905387;11.291692,49.938573;11.218972,49.927135;11.149819,49.932321;11.056173,49.916412;11.048185,49.915827;11.032956,49.915801;11.010052,49.912565;11.006096,49.925866;10.947275,49.928944;10.946197,49.929224;10.942436,49.927953;10.895562,49.899168&pois=11.149986,49.932377,Brewery%3A%20Grasser;11.074101,49.918582,Brewery%3A%20H%C3%B6nig;11.044875,49.91646,2%20Breweries;11.006198,49.926172,Brewery%3A%20Knoblach;11.031679,49.899654,Brewery%3A%20Melkendorf;11.013075,49.881191,2%20Breweries;10.947919,49.927,Chateau%3A%20Seehof;11.009846,49.85939,Chateau%3A%20Wernsdorf;11.254721,49.960302,Chateau%3A%20Freienfels;11.218146,49.956527,Chateau%3A%20Wiesentfels;11.086954,49.919941,Cave%3A%20Tiefenellern;11.293001,49.938475,View%20point%3A%20St.%20Gangolf;11.223221,49.906574,View%20point%3A%20Himmelssteuberer;11.23557,49.914053,Brewery%3A%20Stadter;11.083456,49.921521,View%20point%3A%20Eulenstein;11.009974,49.912782,Church%3A%20Litzendorf;10.95382,49.933048,Church%3A%20Memmelsdorf&profile=trekking) | [GPX](Mengersdorf%20-_%20Bamberg%20-%2049.3%20km,%20403%20hm.gpx)  | 45.9 km  | 354 hm | -140 hm             |
  
 ## Day 0: Bayreuth
+You can use the opportunity to see Bayreuth - where history, art, and music meet.
 
 ### Sights
+You can find many things to see on [bayreuth-tourismus.de](https://www.bayreuth-tourismus.de/en/places-of-interest/). Here are the most important ones:
+
+- [New Palace and Park](https://www.bayreuth-tourismus.de/en/places-of-interest/stage-set-for-margravine-wilhelmine/new-palace-and-park/)
+- [Margravial Opera House](https://www.bayreuth-tourismus.de/en/the-margravial-opera-house/)
+- [The Festival Opera House](https://www.bayreuth-tourismus.de/en/places-of-interest/stage-set-for-richard-wagner/the-festival-opera-house/)
 
 ### Food and accommodation
-The ibis budget[^1] offers small and functional, but clean rooms. It also has a great breakfast and is conveniently located near the main station.
+There are plenty of restaurants in Bayreuth. *Metzgerei Rauch*[^1] offers small dishes to-go. *Manns Bräu*[^2] is a traditional brewery-restaurant. At *TortenSchmiede*[^3] you can find good coffee and cakes. The *Herzogkeller*[^4] is a classic Bavarian beer garden on a small hill. *Oskar*[^5] also offers Bavarian classics in a central location.
+
+The *ibis budget*[^6] offers small and functional, but clean rooms. It also has a great breakfast and is conveniently located near the main station.
 
 ## Day 1: Pegnitz - Mengersdorf
-
 The beautiful landscape and three major climbs will take your breath away. The way from the Castle Pottenstein down into the village is very steep - make sure your breaks are working.
 ### Sights
 
@@ -37,12 +44,11 @@ The beautiful landscape and three major climbs will take your breath away. The w
 - [Waischenfeld](https://www.fraenkische-schweiz.com/detail/id=5f5772b65f7f9b38066ee666)
 
 ### Food and accommodation
-The breweries along the way offer Franconian dishes and unique, fresh beer. I can recommend *Brauerei Mager*[^2] in Pottenstein and *Gasthof Polsterbräu*[^3] in Nankendorf.
+The breweries along the way offer Franconian dishes and unique, fresh beer. I can recommend *Brauerei Mager*[^7] in Pottenstein and *Gasthof Polsterbräu*[^8] in Nankendorf.
 
-*Gutshof Mengersdorf*[^4] offers comfortable and clean rooms in a historic building, great breakfast and friendly personnel: Highly recommended! Bicycle storage: In a (locked) barn.
+*Gutshof Mengersdorf*[^9] offers comfortable and clean rooms in a historic building, great breakfast and friendly personnel: Highly recommended! Bicycle storage: In a (locked) barn.
 
 ## Day 2: Mengersdorf - Bamberg
-
 A low but steady rise until 3 km before Tiefenellern is rewarded with a speedy downhill. Landscape and villages remain beautiful - except for the outskirts of Bamberg.
 
 If you are looking for a more sporty route, try [this one](https://brouter.m11n.de/#map=12/49.9138/11.1310/standard&lonlats=11.375034,49.905435;11.218972,49.927135;11.166143,49.866511;10.895766,49.898969&pois=11.235634,49.914064,Brewery%3A%20Stadter;11.228993,49.88388,Brewery%3A%20Rothenbach;11.244754,49.879296,Brewery%3A%20Kathibr%C3%A4u;11.170435,49.863773,Brewery%3A%20Drei%20Krohnen;11.129462,49.882732,Brewery%3A%20Ott;11.074111,49.918585,Brewery%3A%20H%C3%B6nig;11.04701,49.916015,2%20Breweries;11.006176,49.926183,Brewery%3A%20Knoblach;11.031636,49.899665,Brewery%3A%20Melkendorf;11.228328,49.882756,Chateau%3A%20Unteraufse%C3%9F;11.172087,49.874275,Chateau%3A%20Greifenstein;10.94779,49.926896,Chateau%3A%20Seehof;11.009846,49.859433,Chateau%3A%20Wernsdorf;11.254882,49.960327,Chateau%3A%20Freienfels;11.218146,49.956523,Chateau%3A%20Wiesentfels;11.086954,49.919951,Cave%3A%20Tiefenellern;11.292572,49.938668,View%20point%3A%20St.%20Gangolf;11.223232,49.906585,View%20point%3A%20Himmelssteuberer;11.083467,49.921506,View%20point%3A%20Eulenstein;11.009996,49.912796,Church%3A%20Litzendorf;10.953841,49.933065,Church%3A%20Memmelsdorf&profile=trekking) (54.3 km | 553 hm | -139 hm).
@@ -56,9 +62,9 @@ If you are looking for a more sporty route, try [this one](https://brouter.m11n.
 ### Food and accommodation
 Like on day one, you will find many breweries and restaurants along the way.
 
-*Gasthaus Grasser*[^5] in Huppendorf has excellent beer and food, *Brauerei Hönig*[^6] in Litzendorf offers cold beer in a beautiful beer garden and *Brauerei und Gaststätte Hölzlein* in Lohndorf a cozy inner courtyard.
+*Gasthaus Grasser*[^10] in Huppendorf has excellent beer and food, *Brauerei Hönig*[^11] in Litzendorf offers cold beer in a beautiful beer garden and *Brauerei und Gaststätte Hölzlein*[^12] in Lohndorf a cozy inner courtyard. In Bamberg you will find plenty of restaurants. A particularly good one is the *Kachelofen*[^13].
 
-There are many hotels in Bamberg. *Hotel Andres* offers clean rooms and good breakfast for a reasonable price. Bicycle storage: In the hotel garage.
+There are also many hotels in Bamberg. *Hotel Andres*[^14] offers clean rooms and good breakfast for a reasonable price. Bicycle storage: In the hotel garage.
 
 ## Alternative route
 Initially I planned to overnight in Hollfeld, but had to change due to a lack of accommodations.
@@ -66,16 +72,30 @@ Initially I planned to overnight in Hollfeld, but had to change due to a lack of
 - Day 1: [Pegnitz - Hollfeld](https://brouter.m11n.de/#map=11/49.8651/11.3873/standard,Waymarked_Trails-Cycling&lonlats=11.548288,49.758993;11.412327,49.77193;11.36025,49.788556;11.370206,49.82284;11.291553,49.936279&profile=trekking)
 - Day 2: [Hollfeld - Bamberg](https://brouter.m11n.de/#map=12/49.9301/11.1171/standard,Waymarked_Trails-Cycling&lonlats=11.291596,49.936102;11.218972,49.927135;10.892022,49.891608&profile=trekking)
 
-[^1]: ibis budget Bayreuth
+[^1]: Metzgerei Rauch, Munckerstraße 3, 95444 Bayreuth
 
-[^2]: Brauerei und Gaststätte Mager, Hauptstraße 17, 91278 Pottenstein
+[^2]: Manns Bräu, Friedrichstraße 23, 95444 Bayreuth
 
-[^3]: Gasthaus Polsterbräu, Nankendorf 45, 91344 Waischenfeld
+[^3]: TortenSchmiede, Ludwigstraße 10, 95444 Bayreuth
 
-[^4]: Gutshof Mengersdorf, Mengersdorf 26, 95490 Mistelgau
+[^4]: Biergarten Herzogkeller, Hindenburgstraße 9, 95445 Bayreuth
 
-[^5]: Gasthaus Grasser, Huppendorf 25, 96167 Königsfeld
+[^5]: Oskar - Das Wirtshaus am Markt, Maximilianstraße 33, 95444 Bayreuth
 
-[^6]: Brauerei Hönig, Ellerbergstraße 15, 96123 Litzendorf
+[^6]: ibis budget Bayreuth
 
+[^7]: Brauerei und Gaststätte Mager, Hauptstraße 17, 91278 Pottenstein
 
+[^8]: Gasthaus Polsterbräu, Nankendorf 45, 91344 Waischenfeld
+
+[^9]: Gutshof Mengersdorf, Mengersdorf 26, 95490 Mistelgau
+
+[^10]: Gasthaus Grasser, Huppendorf 25, 96167 Königsfeld
+
+[^11]: Brauerei Hönig, Ellerbergstraße 15, 96123 Litzendorf
+
+[^12]: Brauerei und Gaststätte Hölzlein, Ellertalstraße 13, 96123 Litzendorf
+
+[^13]: Kachelofen, Ob. Sandstraße 1, 96049 Bamberg
+
+[^14]: Hotel Andres, Heiliggrabstraße 1, 96052 Bamberg
