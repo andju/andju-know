@@ -66,7 +66,7 @@ Like on day one, you will find many breweries and restaurants along the way.
 
 There are also many hotels in Bamberg. *Hotel Andres*[^14] offers clean rooms and good breakfast for a reasonable price. Bicycle storage: In the hotel garage.
 
-## Alternative route
+## Alternative tour
 Initially I planned to overnight in Hollfeld, but had to change due to a lack of accommodations.
 
 - Day 1: [Pegnitz - Hollfeld](https://brouter.m11n.de/#map=11/49.8651/11.3873/standard,Waymarked_Trails-Cycling&lonlats=11.548288,49.758993;11.412327,49.77193;11.36025,49.788556;11.370206,49.82284;11.291553,49.936279&profile=trekking)
