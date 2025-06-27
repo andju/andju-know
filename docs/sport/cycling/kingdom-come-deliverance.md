@@ -61,8 +61,8 @@ The route continues along the river Sazava.
 ### Food
 With more populated places along the route, the number of restaurants increases. Be aware though, that your favorite might be closed.
 
-## Alternative route
-Initially I planned to overnight in Rataje nad Sázavou, but had to change due to a lack of accommodations. To extend the route to Týnec nad Sázavou was a spontaneous decision.
+## Alternative tour
+Initially I planned to overnight in Rataje nad Sázavou, but had to change due to a lack of accommodations.
 
 - Day 1: [Český Šternberk - Rataje nad Sázavou](https://en.mapy.cz/turisticka?planovani-trasy&x=14.9286148&y=49.8279968&z=14&rc=95Yt3xWSos5almPJeos5kbieP5Ch&rs=pubt&rs=ward&rs=coor&rs=muni&ri=15211187&ri=9225&ri=&ri=3819&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D)
 - Day 2: [Rataje nad Sázavou - Chocerady](https://en.mapy.cz/turisticka?planovani-trasy&x=14.7409118&y=49.8755735&z=14&rc=95Y3dxWT3rkJ9xWbtK59-xWkvfdqI3xj95TtdhsK95L5RxWtIrhu9dAn95EgebyO&rs=muni&rs=muni&rs=muni&rs=ward&rs=muni&rs=muni&rs=coor&rs=muni&ri=3481&ri=3819&ri=3842&ri=9665&ri=3823&ri=4800&ri=&ri=3497&mrp=%7B%22c%22%3A122%7D&xc=%5B%5D)
