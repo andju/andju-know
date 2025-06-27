@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Four countries
+# 🇪🇺 Four countries
 
 > [!SUMMARY] Profile
 > ⏱️ 3 days 🇨🇿 Czech Republic 🇦🇹 Austria 🇸🇰 Slovakia 🇭🇺 Hungary 📅 May 2024
