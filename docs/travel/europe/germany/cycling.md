@@ -7,4 +7,6 @@ published: true
 
 ### Multi-day
 
+[Along the Vils to Passau](along-the-vils-to-passau.md)
+
 [Franconian Switzerland](franconian-switzerland.md)

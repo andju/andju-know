@@ -9,7 +9,7 @@ published: true
 > 
 > From: [Międzylesie train station](https://www.openstreetmap.org/#map=16/50.14448/16.65493) (2.5 hours by [train](https://www.cd.cz/) from Prague)
 > 
-> To: Świdnica (1 hour by [train](https://kolejedolnoslaskie.pl/) from Wrocław)
+> To: [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672) (1 hour by [train](https://kolejedolnoslaskie.pl/) from Wrocław)
 
 Cycle through the Central Sudetes in the south of Lower Silesia from a little town near the Czech border to Świdnica or Wrocław. The route weaves through rolling hills, forest trails, and quiet country roads, offering a blend of natural beauty and cultural landmarks.
 
