@@ -92,7 +92,7 @@ Keep an eye on the schedule of the Vasegerszeg train station.
 - [Hufnaglhaus](https://www.burgenland.info/dc/detail/POI/hufnaglhaus-4)
 - [Eszterháza Palace](https://en.wikipedia.org/wiki/Eszterh%C3%A1za)
 
-### Food and accommodation
+### Food
 Grab a great breakfast at *Bäckerei Naglreiter*[^10] in Neusiedl am See. *Mexikópusztai Betérő*[^11] offers - despite the name - solid Hungarian food. *Vadvirág Csárda*[^12] is an excellent restaurant - and worth considering a detour.
 
 ### Alternative route
@@ -112,7 +112,7 @@ The second plan was a two day tour (without Lake Neusiedl) and three options for
 Another option for a (much less challenging) two day tour is to start in Vienna 🇦🇹 - making it two countries:
 
 - [Day 1: Neusiedl am See 🇦🇹](https://mapy.com/en/turisticka?planovani-trasy&rc=9l3-sxOFgF9m0Trx6cAa9mwdPx6CbZfYIe8of3ixNlb6&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=126989542&ri=1078329685&ri=1024758718&ri=1015353498&ri=1058642650&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.6191964&y=48.0623554&z=11) (65 km | 148 hm | -83 hm)
-- Day 2: Same as [Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺](#day-3-neusiedl-am-see-🇦🇹---vasegerszeg-🇭🇺)
+- Day 2: Same as [Day 3](#day-3-neusiedl-am-see-vasegerszeg)
 
 
 [^1]: Stopkova Plzeňská Pivnice, 5, Česká 163, 602 00 Brno
