@@ -3,9 +3,9 @@ published: true
 ---
 # Cycling in Germany
 
-## Bavaria
+[Day tours](day-tours-germany.md)
 
-### Multi-day
+## Bavaria: Multi-day
 
 [Along the Vils to Passau](along-the-vils-to-passau.md)
 

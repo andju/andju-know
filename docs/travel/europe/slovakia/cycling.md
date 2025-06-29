@@ -3,14 +3,10 @@ published: true
 ---
 # Cycling in Slovakia
 
-## Bratislava
-
-### Multi-day
+## Bratislava: Multi-day
 
 [Four countries](four-countries.md)
 
-## Trnava
-
-### Multi-day
+## Trnava: Multi-day
 
 [Four countries](four-countries.md)
