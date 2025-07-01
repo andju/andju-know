@@ -18,21 +18,19 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: custom
-      accent: custom
+      primary: indigo
+      accent: indigo
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: custom
-      accent: custom
+      primary: blue
+      accent: blue
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  # Custom color settings
-  custom_dir: .overrides
 
 nav:
  # this will generate the nav dynamically
