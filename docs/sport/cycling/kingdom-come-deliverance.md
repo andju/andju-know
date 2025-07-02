@@ -6,9 +6,9 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 1-2 days 🇨🇿 Czech Republic 📅 June 2022
 > 
-> From [Český Šternberk zast. train station](https://www.openstreetmap.org/#map=16/49.80843/14.92978) (2 hours by [train](https://www.cd.cz/)  from Prague)
+> From [Český Šternberk zastávka](https://www.openstreetmap.org/#map=16/49.80843/14.92978) (2 hours by [train](https://www.cd.cz/)  from Prague)
 > 
-> To [Týnec n. Sázavou train station](https://www.openstreetmap.org/#map=16/49.83423/14.59328) (1.5 hours by [train](https://www.cd.cz/)  from Prague)
+> To [Týnec n. Sázavou](https://www.openstreetmap.org/#map=16/49.83423/14.59328) (1.5 hours by [train](https://www.cd.cz/)  from Prague)
 
 The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. [KCD bike tour.kmz](KCD%20bike%20tour.kmz) (based on the map from [edgeoftheworld.cz](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)) shows which parts of the game world you will see.
 
@@ -31,6 +31,8 @@ Even though there are plenty of eating places in the city, there are many touris
 The *Exe City Park*[^3] hotel is conveniently located across the street from the main station, offers nice rooms and good breakfast. Bicycle storage: In an empty (locked) conference room.
 
 ## Day 1: Český Šternberk - Chocerady
+Start with a "warm-up" by cylcing up to Český Šternberk Castle before entering the game world.
+
 East of the train station you have to bypass a bar gate. For the next kilometer, the way is quite rocky - but still manageable with regular bikes. If you still want to avoid this stretch (or shorten the route) you can exit the train at Rataje n.Sáz.zast or Rataje n.Sáz.-Ivaň.
 
 If you want to do a day-trip, take a train from Chocerady back to Prague (1.5 hours).
@@ -38,10 +40,14 @@ If you want to do a day-trip, take a train from Chocerady back to Prague (1.5 ho
 ### Sights
 
 - [Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle): Great view
-- [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou): Pirkštejn Castle and Rataje Castle
+- [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou):
+	- Pirkštejn Castle
+	- Rataje Castle
 - Church of Užice: Was closed - if you want to see the inside, check for opening hours
-- Ruins of Castle [Talmberk](https://en.wikipedia.org/wiki/Talmberk): If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
-- [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town)): [Monastery](https://en.wikipedia.org/wiki/S%C3%A1zava_Monastery "Sázava Monastery") and St. Martin's church
+- Ruins of [Talmberk](https://en.wikipedia.org/wiki/Talmberk) Castle: If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
+- [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town)): 
+	- [Monastery](https://en.wikipedia.org/wiki/S%C3%A1zava_Monastery "Sázava Monastery")
+	- St. Martin's church
 - [Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)
 	- Church of Rovná: Was closed - if you want to see the inside, check for opening hours
 	- Church of Saint John of Nepomuk: Stands on the site of the former castle
@@ -52,9 +58,9 @@ While it's great that the area is untouristed, finding a place to eat can be tri
 Also accommodations are sparse - but fortunately *Hotel Ostende*[^6] offers good value for the price. Bicycle storage: In the courtyard.
 
 ## Day 2: Chocerady - Týnec nad Sázavou
-The route continues along the river Sazava.
+Continue along the river Sazava.
 ### Sights
-- [Chateau Komorní Hrádek](https://en.wikipedia.org/wiki/Komorn%C3%AD_Hr%C3%A1dek): Started as a castle built by Radzig Kobyla. You can only see the outside, since it is used by the military.
+- [Komorní Hrádek Chateau](https://en.wikipedia.org/wiki/Komorn%C3%AD_Hr%C3%A1dek): Started as a castle built by Radzig Kobyla. You can only see the outside, since it is used by the military.
 - Ruins of [Zlenice Castle](https://cs.wikipedia.org/wiki/Zlenice_(hrad))
 
 ### Food

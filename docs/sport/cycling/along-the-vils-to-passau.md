@@ -6,9 +6,9 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 July 2024
 > 
-> From: [Aufhausen train station](https://www.openstreetmap.org/#map=16/48.27410/11.89414) (45 minutes by [train](https://www.bahn.de/) from Munich)
+> From [Aufhausen (Erding)](https://www.openstreetmap.org/#map=16/48.27410/11.89414) (45 minutes by [train](https://www.bahn.de/) from Munich)
 > 
-> To: [Passau train station](https://www.openstreetmap.org/#map=16/48.57373/13.45042) (2.5 hour by [train](https://www.bahn.de/) from Munich)
+> To [Passau](https://www.openstreetmap.org/#map=16/48.57373/13.45042)
 
 Pedal through the heart of Bavaria on a scenic ride along the tranquil bends of the river Vils and the majestic Danube.
 
@@ -18,11 +18,11 @@ Pedal through the heart of Bavaria on a scenic ride along the tranquil bends of 
 | Day 2: Passau   | [bikerouter.de](https://bikerouter.de/#map=12/48.6042/13.0394/standard&lonlats=12.62843,48.571362;13.043413,48.60852;13.090073,48.594196;13.085302,48.587967;13.097312,48.590418;13.117504,48.604171;13.406563,48.578433;13.461578,48.576146;13.471352,48.574882;13.465161,48.574037;13.462404,48.575821;13.450581,48.574705;13.450793,48.574224&profile=trekking) | [:material-file-download:](Reith%20-_%20Passau%20-%2082.1%20km,%20101%20hm.gpx)  | 81 km    | 101 hm | -86 hm     |
  
 ## Day 1: Aufhausen - Reisbach
-The route runs through the rural countryside until Taufkirchen (Vils), from where it follows the river.
+Cycle through the rural countryside until you start following the river in Taufkirchen (Vils).
 
 ### Sights
 
-- [Castle Taufkirchen](https://en.wikipedia.org/wiki/Wasserschloss_Taufkirchen)
+- [Taufkirchen Palace](https://en.wikipedia.org/wiki/Wasserschloss_Taufkirchen)
 - [Velden (Vils)](https://de.wikipedia.org/wiki/Velden_(Vils)): [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_Velden_(Vils))
 - [Vilsbiburg](https://en.wikipedia.org/wiki/Vilsbiburg): Town square
 - [Reisbach](https://de.wikipedia.org/wiki/Reisbach): [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_(Reisbach))
@@ -33,7 +33,7 @@ The route runs through the rural countryside until Taufkirchen (Vils), from wher
 The *Schlappinger Hof*[^2] offers clean and cozy rooms, great food and homemade schnapps. Bicycle storage: On the pedestrian walk in front of the building.
 
 ## Day 2: Reisbach - Passau
-Continuing along the Vils (with a short detour to Aldersbach) the route reaches the Danube at Vilshofen an der Donau and follows it to Passau.
+Continue along the Vils (with a short detour to Aldersbach) until you reach the Danube at Vilshofen an der Donau and follow it to Passau.
 
 ### Sights
 

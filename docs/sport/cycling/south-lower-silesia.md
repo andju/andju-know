@@ -7,9 +7,9 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 2-3 days 🇵🇱 Poland 📅 June 2024
 > 
-> From: [Międzylesie train station](https://www.openstreetmap.org/#map=16/50.14448/16.65493) (2.5 hours by [train](https://www.cd.cz/) from Prague)
+> From [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493) (2.5 hours by [train](https://www.cd.cz/) from Prague)
 > 
-> To: [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672) (1 hour by [train](https://kolejedolnoslaskie.pl/) from Wrocław)
+> To [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672) (1 hour by [train](https://kolejedolnoslaskie.pl/) from Wrocław)
 
 Cycle through the Central Sudetes in the south of Lower Silesia from a little town near the Czech border to Świdnica or Wrocław. The route weaves through rolling hills, forest trails, and quiet country roads, offering a blend of natural beauty and cultural landmarks.
 
@@ -23,7 +23,7 @@ While staying in Prague is an option (*Café Imperial*[^1] and *Restaurace U Ban
 
 ### Sights
 
-- [Chateau Międzylesie](https://de.wikipedia.org/wiki/Schloss_Mittelwalde)
+- [Międzylesie Palace](https://de.wikipedia.org/wiki/Schloss_Mittelwalde)
 
 ### Food and accommodation
 For dinner, the castle *Zamek Międzylesie*[^3] has an excellent restaurant. The venison dishes are particularly good.
@@ -33,17 +33,19 @@ While it also offers rooms to stay, they seem to be booked out constantly.
 Another option to sleep in an historic monument is *Sukiennice Międzylesie*[^4] - which was once part of the cloth halls. On [polska-org.pl](https://polska-org.pl/515138,Miedzylesie,Zajazd_Sukiennice.html) you can find historic postcards depicting it. On [this one](https://polska-org.pl/8718979,foto.html?idEntity=515138) it is the first four windows of the large building on the left. Don't be put off by how run-down it looks outside: The rooms are modern and clean. Bicycle storage: Locked bicycle room next to the parking lot.
 
 ## Day 1: Międzylesie - Bardo
-The route traverses remote roads and villages in the [Kłodzko Valley](https://en.wikipedia.org/wiki/K%C5%82odzko_Valley), set amidst the pretty Sudetes.
+Traverse the remote roads and villages in the [Kłodzko Valley](https://en.wikipedia.org/wiki/K%C5%82odzko_Valley), set amidst the pretty Sudetes.
 
 ### Sights
 
 - [Bystrzyca Kłodzka](https://en.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka): Old town
 - [Gorzanów Castle](https://en.wikipedia.org/wiki/Gorzan%C3%B3w_Castle)
-- [Polanica-Zdrój](https://en.wikipedia.org/wiki/Polanica-Zdr%C3%B3j): Town center along the river and Spa Park
+- [Polanica-Zdrój](https://en.wikipedia.org/wiki/Polanica-Zdr%C3%B3j):
+	- Town center along the river
+	- Spa Park
 - [Kłodzko](https://en.wikipedia.org/wiki/K%C5%82odzko):
 	- [Church of the Assumption](https://en.wikipedia.org/wiki/Church_of_the_Assumption,_K%C5%82odzko)
 	- Gothic bridge
-	- [Fortress](https://en.wikipedia.org/wiki/K%C5%82odzko_Fortress)
+	- [Kłodzko Fortress](https://en.wikipedia.org/wiki/K%C5%82odzko_Fortress)
 
 ### Food and accommodation
 There are no real breakfast options in Międzylesie, but *Lody z Międzylesia Rodzinna Manufaktura*[^5] offers good coffee. *Polskie Smaki*[^6] in Polanica-Zdrój offers polish classics in good quality.  *Kavosh*[^7] in Kłodzko offers solid coffee, cakes and ice cream. The restaurant of *Hotel Bardo*[^8] offers very good dinner.
@@ -56,7 +58,7 @@ If you don't have a medical reason, you can skip the hospital in Polanica-Zdrój
 You can also skip Polanica-Zdrój completely, making it a more relaxed [route](https://bikerouter.de/#map=10/50.3249/16.7500/standard&lonlats=16.655906,50.143425;16.665123,50.145933;16.632442,50.183778;16.65199,50.29648;16.63296,50.351103;16.652382,50.438013;16.740648,50.5121&profile=trekking) (59 km | 434 hm | -110 hm).
 
 ## Day 2: Bardo - Świdnica
-Reap the rewards of yesterdays hill climb and pick up speed on the first meters downhill. Afterwards the road follows mostly the [EuroVelo 9 - Baltic-Adriatic](https://en.eurovelo.com/ev9). Despite the big name, there are still almost no other cyclists.
+Reap the rewards of yesterdays hill climb and pick up speed on the first meters downhill. Afterwards follow the [EuroVelo 9 - Baltic-Adriatic](https://en.eurovelo.com/ev9) for most of the time. Despite the big name, there are almost no other cyclists.
 
 > [!warning] Around Ząbkowice Śląskie
 > Be careful when crossing the road 8 in the south!
@@ -67,9 +69,9 @@ After leaving Pieszyce, you will share the road with increased car traffic. It d
 ### Sights
 
 - [Ząbkowice Śląskie](https://en.wikipedia.org/wiki/Z%C4%85bkowice_%C5%9Al%C4%85skie)
-	- [Castle ruins](https://pl.wikipedia.org/wiki/Zamek_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
+	- Ruins of [Ząbkowice Śląskie Palace](https://pl.wikipedia.org/wiki/Zamek_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
 	- [Leaning clock tower](https://pl.wikipedia.org/wiki/Krzywa_Wie%C5%BCa_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
-- [Ruins of Rudnica palace](https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Rudnicy)
+- Ruins of [Rudnica Palace](https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Rudnicy)
 - [Świdnica](https://en.wikipedia.org/wiki/%C5%9Awidnica)
 	- [Holy Trinity Church of Peace](https://en.wikipedia.org/wiki/Holy_Trinity_Church_of_Peace_in_%C5%9Awidnica)
 	- Old town

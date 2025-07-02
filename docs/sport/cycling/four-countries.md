@@ -6,9 +6,9 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 3 days 🇨🇿 Czech Republic 🇦🇹 Austria 🇸🇰 Slovakia 🇭🇺 Hungary 📅 May 2024
 > 
-> From [Břeclav train station 🇨🇿](https://www.openstreetmap.org/#map=16/48.75398/16.89325) (30 minutes by [train](https://www.cd.cz/)  from Brno)
+> From [Břeclav 🇨🇿](https://www.openstreetmap.org/#map=16/48.75398/16.89325) (30 minutes by [train](https://www.cd.cz/)  from Brno)
 > 
-> To [Vasegerszeg train station 🇭🇺](https://www.openstreetmap.org/#map=16/47.37165/16.92413) (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
+> To [Vasegerszeg 🇭🇺](https://www.openstreetmap.org/#map=16/47.37165/16.92413) (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
 
 More than a 2 500 km journey through remote and scenic landscapes, it is a ride through the layered history of Central Europe. After the countries were united for over a hundred years, most of the 20. century was about their borders: First between fascism and democracy then between democracy and communism.
 
@@ -37,7 +37,7 @@ There are lots of restaurants. *Stopkova Plzeňská Pivnice*[^1] offers good foo
 If you are looking for a unique experience I recommend staying in the *10-Z Bunker*[^2]. [websteiner.com 🇩🇪](https://www.websteiner.com/brno23_10zbunker.html) has a lot of impressions and a perfect summary. Personally I am glad I spent one night there - though I wouldn't spend another one. Bicycle storage: Behind the locked fence, in front of the bunker.
 
 ## Day 1: Břeclav 🇨🇿 - Malacky 🇸🇰
-The route passes through countryside and villages before it follows the river March and turns east towards Malacky.
+Pass through countryside and villages before following the river March and turning east towards Malacky.
 
 ### Sights
 
@@ -54,7 +54,7 @@ There are not many options for food along the route - I recommend to have breakf
 A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWMr1ZuxSHpR9mXme1iJ9motPxRg4rkTkhC4mxSxR8zyfh-xQ.DS9nJiPxQYOdjOUxPgGv9nVXpcN8&rs=pubt&rs=base&rs=coor&rs=base&rs=base&rs=base&rs=osm&rs=osm&rs=osm&rs=osm&ri=15212542&ri=2338468&ri=&ri=2236820&ri=1722750&ri=1701294&ri=1040841757&ri=1105217035&ri=1067194785&ri=136310013&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8607883&y=48.7149754&z=10) (92.9 km | 170 hm | -184 hm) includes a church on an island. Just exit the train from Brno a few stations earlier in [Pouzdřany](https://www.openstreetmap.org/#map=16/48.94205/16.63045).
 
 ## Day 2: Malacky 🇸🇰 - Neusiedl am See 🇦🇹
-The route continues along the March until it reaches the Danube near Bratislava. From there it continues over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
+Continue along the March until you reach the Danube near Bratislava. From there continue over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
 
 > [!warning] Malacky to Jakubov
 > The cars drive quite fast on the road between Malacky and Jakubov.
@@ -78,7 +78,7 @@ You can avoid the road between Malacky and Jakubov by taking [this route](https:
 Instead of seeing Devín Castle, you can also take a more sporty route through Hainburg an der Donau. There is an [option](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9muROxPMsZfTKfLVg3-f4c9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwUEx6COffY6eSU2cxNl1E&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136217338&ri=1105217038&ri=&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=1130588824&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.9209503&y=48.2153283&z=10) along the river (106 km | 144 hm | -49 hm) and a [direct](https://mapy.com/de/turisticka?planovani-trasy&rc=9nVXpxPcUO9nG0MxOh9j3k.h0WkaVxOOang7hx6uzT1wEx6LHj9mwTtx6COme-fdeRgqXxNl1E&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&ri=136310013&ri=136213864&ri=1135718320&ri=11998183&ri=1027438792&ri=&ri=23356665&ri=&ri=1126917096&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.8921112&y=48.2494576&z=10) (92.7 km | 155 hm | -49 hm) one.
 
 ## Day 3: Neusiedl am See 🇦🇹 - Vasegerszeg 🇭🇺
-Along the eastern shore of Lake Neusiedl the route cross the border to Hungary. There it sees small villages in a beautiful countryside.
+After cycling along the eastern shore of Lake Neusiedl you cross the border to Hungary. There you see lots of small villages in a beautiful countryside.
 
 Keep an eye on the schedule of the Vasegerszeg train station.
 
