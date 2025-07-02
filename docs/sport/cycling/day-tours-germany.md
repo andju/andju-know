@@ -10,9 +10,9 @@ published: true
 > [!SUMMARY] Profile
 > 📅 May 2024
 > 
-> From Maisach train station (30 minutes by [train](https://www.bahn.de/) from Munich)
+> From Maisach (30 minutes by [train](https://www.bahn.de/) from Munich)
 > 
-> To Petershausen train station (40 minutes by [train](https://www.bahn.de/) from Munich)
+> To Petershausen (40 minutes by [train](https://www.bahn.de/) from Munich)
 
 Beer & Bike: Experience the northeast of the Dachau region and taste the beer in 5 different breweries.
 

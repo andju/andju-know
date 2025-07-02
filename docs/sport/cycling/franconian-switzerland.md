@@ -6,7 +6,7 @@ published: true
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 July 2023 🌐 [fraenkische-schweiz.com](https://www.fraenkische-schweiz.com/)
 > 
-> From [Pegnitz train station](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (15 minutes by [train](https://www.bahn.de/)  from Bayreuth)
+> From [Pegnitz](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (15 minutes by [train](https://www.bahn.de/)  from Bayreuth)
 > 
 > To [Bamberg](https://www.openstreetmap.org/#map=16/49.89920/10.89551)
 
@@ -36,7 +36,9 @@ The *ibis budget*[^6] offers small and functional, but clean rooms. It also has 
 The beautiful landscape and three major climbs will take your breath away. The way from the Castle Pottenstein down into the village is very steep - make sure your breaks are working.
 ### Sights
 
-- [Pottenstein](https://www.fraenkische-schweiz.com/detail/id=5f5772b45f7f9b38066ee640): [Himmelsleiter](https://www.fraenkische-schweiz.com/detail/id=5f5773835f7f9b38066ef38b) and [Castle](https://www.fraenkische-schweiz.com/detail/id=5f57732c5f7f9b38066ef01b)
+- [Pottenstein](https://www.fraenkische-schweiz.com/detail/id=5f5772b45f7f9b38066ee640): 
+	- [Himmelsleiter](https://www.fraenkische-schweiz.com/detail/id=5f5773835f7f9b38066ef38b)
+	- [Castle](https://www.fraenkische-schweiz.com/detail/id=5f57732c5f7f9b38066ef01b)
 - [Tüchersfeld](https://www.fraenkische-schweiz.com/detail/id=5f5773925f7f9b38066ef40f)
 - Rabenstein
 	- [Castle](https://www.fraenkische-schweiz.com/detail/id=5f57730d5f7f9b38066eef4b)
