@@ -2,14 +2,13 @@
 published: true
 ---
 # Exchange Traded Funds (ETFs)
-Auf [heise online](https://www.heise.de/ratgeber/Die-naechste-Krise-kommt-Investitionen-in-Aktienanlagen-sicher-behalten-9848785.html) ist ein sehr unterhaltsamer Artikel zum Thema Vermögensaufbau mit Exchange Traded Funds (ETFs).
-
 
 > [!caution] Wichtiger Hinweis
 > Sämtliche Informationen stellen meine persönliche Meinung und persönliche Einschätzung dar. Finanzmärkte unterliegen nicht vorhersehbaren Volatilitäten, die den Wert des eigenen Vermögens reduzieren und sogar zum Totalverlust führen können.
 
 ## ETFs finden
 Ich nutze für die ETF-Suche normalerweise [justETF](https://www.justetf.com/de/search.html?search=ETFS). Dabei sind mir folgende Faktoren wichtig (in dieser Reihenfolge):
+
 1. Replikation: Full oder Sampling (mit synthetischen ETFs hat man ein zusätzliches Kontrahentenrisiko ins Portfolio)
 2. Ausschüttung: Thesaurierend (die Gewinne werden wieder angelegt und man profitiert vom Zinseszinseffekt)
 3. Größe: Möglichst groß (je mehr gehandelt wird desto sicherer kann man sein, dass man jederzeit kaufen/verkaufen kann)
@@ -30,3 +29,6 @@ Auch eine Kombination von 80% MSCI World und 20% Emerging Markets kann sinnvoll 
 > Time in the market beats timing the market.
 
 Besonders am Anfang sollte man nicht versuchen den "perfekten Zeitpunkt" für den Aktienkauf abzuwarten (und später auch nicht): Es ist viel wichtiger regelmäßig zu investieren. Daher empfehle ich dringend einen Sparplan bei Bank oder Broker abzuschließen um monatlich automatisch eine bestimmte Summe in ETFs zu investieren.
+
+## Weitere Informationen
+Auf [heise online](https://www.heise.de/ratgeber/Die-naechste-Krise-kommt-Investitionen-in-Aktienanlagen-sicher-behalten-9848785.html) gibt es einen sehr unterhaltsamen Artikel zum Thema Vermögensaufbau mit Exchange Traded Funds (ETFs).
