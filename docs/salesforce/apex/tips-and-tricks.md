@@ -1,0 +1,36 @@
+---
+published: true
+---
+# Tips and tricks
+Apex code snippets that provide helpful functionality.
+
+## Picklist entry: Label to API name
+Get the API name of a picklist entry by querying its label. If you are using the [Translation Workbench](https://help.salesforce.com/s/articleView?id=platform.workbench.htm&language=en_US&type=5) to set the label, keep in mind that it will depend on the users language settings.
+
+```java
+public static String picklistValue(String objectName, String fieldName, String label) {
+    // Get the object's schema and field
+    Schema.SObjectType sObjectType = Schema.getGlobalDescribe().get(objectName);
+    Schema.DescribeSObjectResult describeRes = sObjectType.getDescribe();
+    Schema.SObjectField sObjectField = describeRes.fields.getMap().get(fieldName);
+    
+    // Get picklist values for the field
+    Schema.DescribeFieldResult fieldDescribe = sObjectField.getDescribe();
+    List<Schema.PicklistEntry> picklistValues = fieldDescribe.getPicklistValues();
+
+    // Iterate through picklist values and match the label
+    for (Schema.PicklistEntry entry : picklistValues) {
+        if (entry.getLabel() == label) {
+            return entry.getValue();
+        }
+    }
+    
+    return null;
+}
+```
+
+To get the ID of the entry "Automotive" in `Account.Industry` run:
+
+```java
+String industryId = picklistValue('Account', 'Industry', 'Automotive');
+```
