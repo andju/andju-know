@@ -16,7 +16,7 @@ Ich nutze für die ETF-Suche normalerweise [justETF](https://www.justetf.com/de/
 
 ## Diversifikation
 
-> Never test depth of water with both feet.
+> Never test the depth of a river with both feet.
 
 Grundsätzlich macht man mit dem MSCI World (z.B. von [iShares](https://www.justetf.com/de/etf-profile.html?isin=IE00B4L5Y983) oder [State Street](https://www.justetf.com/de/etf-profile.html?isin=IE00BFY0GT14) ) nicht viel falsch. Er ist zwar etwas USA-lastig, was aber nicht schlecht sein muss.
 
