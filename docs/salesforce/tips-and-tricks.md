@@ -72,8 +72,19 @@ To attach a lot of files to a lot of records, you need to clarify whether they s
 
 - [Attachments](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_attachments.htm) are uploaded into the `Attachment` object
 - [Files](https://help.salesforce.com/s/articleView?id=000382372&type=1) are uploaded into the `ContentVersion` object and related through the `ContentDocumentLink` object
-## Reset security token by URL
-If the option to reset your security token is not available in your settings (e.g. in a Sandbox), you can use the following URL:
+## URL Hacks
+Functionality and tricks based on opening a specific URL in the browser. Keep in mind to replace the `<YourDomain>` part.
+
+### Reset security token
+If the option to reset your security token is not available in your settings (e.g. in a Sandbox).
+
 ```
 https://<YourDomain>.lightning.force.com/_ui/system/security/ResetApiTokenEdit?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DPersonalInfo&setupid=ResetApiToken
+```
+
+### Bypass New-button override
+If the "New" button of a specific object (e. g. Accounts) is overridden (e.g. with a Visualforce Page) and you want to use the standard record creation screen. More URL Hacks on record creation can be found in [Shivam Vishwakarma's article](https://medium.com/@vishwakarmaas27/the-art-of-url-hacking-in-salesforce-part-i-new-record-creation-f6651dae4f50).
+
+```
+https://<YourDomain>.lightning.force.com/lightning/o/Account/new?nooverride=1
 ```
