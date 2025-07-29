@@ -11,6 +11,7 @@ If your code depends on external factors (e.g. the availability of web services 
 
 ```python
 import time
+
 attempts_max = 3
 wait_between = 2.0
 denominator = [1, 2, 0, 3]
@@ -34,7 +35,10 @@ for d in denominator:
 ## While loop
 
 ```python
+import time
+
 attempts_max = 3
+wait_between = 2.0
 denominator = [1, 2, 0, 3]
 def retry_while_loop():
 i = 0
