@@ -4,7 +4,7 @@ published: true
 # Retry mechanism
 If your code depends on external factors (e.g. the availability of web services or the network connection) you may want to retry in case of failures.
 
-> [!info] Title
+> [!info] Demo scenario
 > The code on this page uses the following demo scenario: A list of numbers is iterated and used as denominators. If the number is 0 (and a `ZeroDivisionError` is raised) the code retries up to three times (in reality you would try to fix the root cause).
 
 ## For loop
