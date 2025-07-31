@@ -72,6 +72,12 @@ To attach a lot of files to a lot of records, you need to clarify whether they s
 
 - [Attachments](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_attachments.htm) are uploaded into the `Attachment` object
 - [Files](https://help.salesforce.com/s/articleView?id=000382372&type=1) are uploaded into the `ContentVersion` object and related through the `ContentDocumentLink` object
+
+## Tools
+
+- [Salesforce Data Loader](https://developer.salesforce.com/tools/data-loader): Mass update data using CSV files
+- [Salesforce Inspector reloaded](https://tprouvot.github.io/Salesforce-Inspector-reloaded/#installation): This browser add-on is like the Swiss Army Knife for Salesforce
+
 ## URL Hacks
 Functionality and tricks based on opening a specific URL in the browser. Keep in mind to replace the `<YourDomain>` part.
 
