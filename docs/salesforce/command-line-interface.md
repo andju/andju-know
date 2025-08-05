@@ -2,6 +2,8 @@
 published: true
 ---
 # Command Line Interface (CLI)
+The [Salesforce CLI (Command-Line Interface)](https://developer.salesforce.com/tools/salesforcecli) is a command-line tool for interacting with Salesforce environments, particularly in development and deployment workflows. It relies on underlying APIs to retrieve, deploy, and manage Salesforce components.
+
 ## package.xml file
 Generate the package.xml file for a specific Org:
 
@@ -16,14 +18,14 @@ Generic package.xml files:
 - [Jayakrishna Ganjikunta](https://jayakrishnasfdc.wordpress.com/2020/12/25/salesforce-metadata-xml-file-retrieve-deploy-components/)
 - [Salesforce Diaries](https://salesforcediaries.com/2019/09/09/xml-package-to-retrieve-metadata-from-org/)
 
-
-> [!caution] Extensive package.xml files
-> The number of files in the retrieve-result is limited to 10 000.
+> [!caution] Large package.xml files
+> The Metadata API [limits](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_metadata.htm) the number of files in the retrieve-result is to 10 000.
 
 ## Profiles
 If a package.xml file includes only the type Profiles, it won't download the complete profile files: Sections like `pageAccesses`, `fieldPermissions` and `tabVisibilities` will be missing. In order for these to be included, additional metadata needs to be downloaded.
 
-The following package.xml file will download the most important profile information ([source](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)):
+The following package.xml file will download the most important profile information (based on [asagarwal](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)):
+
 ```xml
 <?xml version=1.0 encoding=UTF-8 standalone=yes?>
 <Package xmlns=http://soap.sforce.com/2006/04/metadata>
