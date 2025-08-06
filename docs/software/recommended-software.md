@@ -17,12 +17,12 @@ Media player with a wide range of supported formats.
 
 ## Productivity
 
-## paperless-ngx
-see [Document management](document-management.md)
-
 ### [Obsidian](https://obsidian.md/)
 **Price:** free | **Platform:** Multiple | **Open Source:** No
 
 Knowledge management and note software, similar to Microsoft OneNote or Evernote. It is based on the open Markdown format and easily extensible by plugins.
+
+### paperless-ngx
+see [Document management](document-management.md)
 
 
