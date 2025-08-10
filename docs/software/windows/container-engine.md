@@ -23,7 +23,7 @@ Since diskspace is not released when files are deleted from volumes, this file c
 	3. Close the window : `DISKPART> exit`
 
 ## Start the Podman machine for a scripted task
-Sometimes you want to start the podman machine in order to execute a task and end it, once the task completes. However, you don't want to stop the machine (and potentially other containers) if it was already running. The following script achieves this:
+Sometimes you want to start the podman machine in order to execute a task and end it, once the task completes. However, you don't want to stop the machine (and potentially other containers) if it was already running.
 
 ```
 @echo off
