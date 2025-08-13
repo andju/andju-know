@@ -5,6 +5,8 @@ published: true
 The [Salesforce CLI (Command-Line Interface)](https://developer.salesforce.com/tools/salesforcecli) is a command-line tool for interacting with Salesforce environments, particularly in development and deployment workflows. It relies on underlying APIs to retrieve, deploy, and manage Salesforce components.
 
 ## package.xml file
+The individual type-entries are described at [developer.salesforce.com](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm).
+
 Generate the package.xml file for a specific Org:
 
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
@@ -42,7 +44,7 @@ The following package.xml file will download the most important profile informat
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>*</members>
+        <members>*</members> <!-- Works despite documentation. -->
         <name>CustomField</name>
     </types>
     <types>
@@ -51,6 +53,7 @@ The following package.xml file will download the most important profile informat
     </types>
 	<types>
 		<members>*</members>
+		<!-- Standard objects need to be named. -->
 		<members>Account</members>
 		<members>Asset</members>
 		<members>Campaign</members>
