@@ -116,7 +116,7 @@ podman compose exec -T webserver document_importer ../export --data-only
 #### Database backup (Volume)
 Another way is to backup the entire volume containing the database. Assuming the volume is named `paperless_pgdata` and you want to backup into the subfolder `backup`, you run:
 ```
-podman run --rm -v "paperless_pgdata:/data" -v "%cd%/backup:/backup-dir" ubuntu tar cvzf /backup-dir/pgdata.tar.gz /data
+podman run --rm -v "paperless_pgdata:/data" -v "%~dp0/backup:/backup-dir" ubuntu tar cvzf /backup-dir/pgdata.tar.gz /data
 ```
 
 ### Database (DB) upgrade
