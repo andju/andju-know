@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# 🇮‍🇹 South tyrol
+# 🇮🇹 South Tyrol
 
 ## Tauferer Tal
 
