@@ -1,13 +1,13 @@
 ---
 published: true
 ---
-# Südtirol
+# 🇮‍🇹 South tyrol
 
 ## Tauferer Tal
 
 ### [Rein in Taufers (Riva di Tures)](https://www.openstreetmap.org/#map=14/46.94903/12.04960)
 
-- 🔲 [Dreieckspitze](https://www.alpenvereinaktiv.com/de/tour/dreieckspitze/63680066/)
+- ◻ [Dreieckspitze](https://www.alpenvereinaktiv.com/de/tour/dreieckspitze/63680066/)
 - 🔲 [Tristennöckl](https://www.alpenvereinaktiv.com/de/tour/tristennoeckl/804012460/)
 
 ## Enneberger Tal
@@ -33,7 +33,7 @@ published: true
 		- 🔲 [Lang (6h)](https://www.alpenvereinaktiv.com/de/tour/peitlerkofel-mit-umrundung/251738735/) 🍽️
 		- 🔲 [Kurz (4:20h))](https://www.alpenvereinaktiv.com/de/tour/peitlerkofel/103398408/)
 - Campill
-	- 🔲 [Zwischenkofel (2384m, 4:20h)](https://www.alpenvereinaktiv.com/de/tour/zwoelferkofel-im-gadertal/34814511)
+	- ◻ [Zwischenkofel (2384m, 4:20h)](https://www.alpenvereinaktiv.com/de/tour/zwoelferkofel-im-gadertal/34814511)
 	- ☑ [Sobutsch (2486m, 5h)](https://www.alpenvereinaktiv.com/de/tour/malga-e-cima-medalges-da-lungiaru/296841499) 🍽️
 
 ### [Wengen (La Valle)](https://www.openstreetmap.org/#map=13/46.65203/11.91278)
