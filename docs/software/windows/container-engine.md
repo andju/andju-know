@@ -25,7 +25,7 @@ Since diskspace is not released when files are deleted from volumes, this file c
 ## Start the Podman machine for a scripted task
 Sometimes you want to start the podman machine in order to execute a task and end it, once the task completes. However, you don't want to stop the machine (and potentially other containers) if it was already running.
 
-```
+```shell
 @echo off
 rem Check if Podman machine is running
 podman machine list --format "{{.LastUp}}" | findstr /C:"Currently running" > nul
@@ -34,13 +34,13 @@ if %ERRORLEVEL% neq 0 (
     podman machine start
 
     echo Executing task...
-    REM YOUR COMMAND HERE
+    rem YOUR COMMAND HERE
 
     echo Stopping Podman machine...
     podman machine stop
 ) else (
     echo Podman machine is already running. Executing task...
-    REM YOUR COMMAND HERE
+    rem YOUR COMMAND HERE
 )
 ```
 
