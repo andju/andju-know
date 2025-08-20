@@ -7,13 +7,13 @@ The [Salesforce CLI (Command-Line Interface)](https://developer.salesforce.com/t
 ## package.xml file
 The individual type-entries are described at [developer.salesforce.com](https://developer.salesforce.com/docs/atlas.en-us.api_meta.meta/api_meta/meta_types_list.htm).
 
-Generate the package.xml file for a specific Org:
+Tools that will help you generate the package.xml file for a specific Org:
 
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
 - [Salesforce package.xml Builder](https://packagebuilder.herokuapp.com/)
 - Salesforce CLI command ([asagarwal.com](https://www.asagarwal.com/generate-package-xml-for-your-salesforce-org-with-a-single-command/)): `sf project generate manifest --from-org <salesforce-org-alias>`
 
-Generic package.xml files:
+Examples of generic package.xml files:
 
 - [asagarwal](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)
 - [iamsonal](https://gist.github.com/iamsonal/1f4a97d9bdec14248613e8675ccf5981)
@@ -23,7 +23,7 @@ Generic package.xml files:
 > [!caution] Large package.xml files
 > The Metadata API [limits](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_metadata.htm) the number of files in the retrieve-result is to 10 000.
 
-## Profiles
+### Profiles
 If a package.xml file includes only the type Profiles, it won't download the complete profile files: Sections like `pageAccesses`, `fieldPermissions` and `tabVisibilities` will be missing. In order for these to be included, additional metadata needs to be downloaded.
 
 The following package.xml file will download the most important profile information (based on [asagarwal](https://github.com/asagarwal/salesforce-package-xml/blob/main/package-all-metadata-v53.xml)):
@@ -108,4 +108,17 @@ The following package.xml file will download the most important profile informat
     </types>
     <version>64.0</version>
 </Package>
+```
+
+## Deploy all changes since a git commit
+If you need to (re-)deploy all changes since a specific git commit (e.g. in case of a sandbox refresh), you can get a list of changed files with the following Powershell command:
+
+```powershell
+git diff --name-status <commit_hash> HEAD | Select-String '^[AM]' | ForEach-Object { $_.Line.Split("`t")[1] } | Where-Object { $_ -like 'force-app/main/default/*' }
+```
+
+You can use this information to create a package.xml file for deployment. Alternatively, the CLI plugin [SFDX-Git-Delta](https://github.com/scolladon/sfdx-git-delta "https://github.com/scolladon/sfdx-git-delta") will generate a ready-to-deploy package.xml file:
+
+```shell
+sf sgd source delta --to "HEAD" --from "<commit_hash>" --output-dir "."
 ```
