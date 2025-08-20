@@ -105,17 +105,17 @@ Include the entire paperless-ngx folder in your backup strategy. The documents (
 
 #### Database backup (Document exporter)
  The easiest way to backup the database, is to use the [document exporter](https://docs.paperless-ngx.com/administration/#exporter). The following command creates the backup `pgbackup.zip` in the folder `export`:
-```
+```shell
 podman compose exec -T webserver document_exporter ../export --data-only -z -zn pgbackup
 ```
 To restore the backup, extract the file `pgbackup.zip` into the folder `export` and run:
-```
+```shell
 podman compose exec -T webserver document_importer ../export --data-only
 ```
 
 #### Database backup (Volume)
 Another way is to backup the entire volume containing the database. Assuming the volume is named `paperless_pgdata` and you want to backup into the subfolder `backup`, you run:
-```
+```shell
 podman run --rm -v "paperless_pgdata:/data" -v "%~dp0/backup:/backup-dir" ubuntu tar cvzf /backup-dir/pgdata.tar.gz /data
 ```
 
