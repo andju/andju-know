@@ -43,9 +43,13 @@ Leaving Nördlingen through the Baldinger Tor, the route continues through villa
 
 > [!info] Getting away from Dinkelsbühl
 > While Dinkelsbühl has a train station, it sees - except for a historical train - no regular service.
+> 
 > One option would be to extend the route to [Dombühl](https://www.openstreetmap.org/#map=16/49.25210/10.29855), where regular trains to **Nürnberg** are leaving. Via Ansbach also to **Würzburg** and **Augsburg**. This route provides the opportunity to see [Feuchtwangen](https://www.openstreetmap.org/#map=16/49.16781/10.33133).
+> 
 > For those **Stuttgart**-bound, [Crailsheim](https://www.openstreetmap.org/#map=16/49.13822/10.06431) is an option.
+> 
 > The route planned is extended to [Wassertrüdingen](https://www.openstreetmap.org/#map=16/49.04380/10.60732) from where **Augsburg** can be reached (via Gunzenhausen).
+> 
 > Don't forget to check the time schedule!
 
 ### Sights

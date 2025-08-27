@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# 🇩🇪 Day Tours (Germany)
+# 🇩🇪 Day Tours
 
 ## Bavaria
 

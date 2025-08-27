@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Planned tours
+# 🇪🇺 Planned Tours
 
 ## Single day
 
