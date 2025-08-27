@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# 🇩🇪 Along the Vils to Passau
+# 🇩🇪 Along the Vils
 
 > [!SUMMARY] Profile
 > ⏱️ 2 days 🇩🇪 Germany 📅 July 2024
