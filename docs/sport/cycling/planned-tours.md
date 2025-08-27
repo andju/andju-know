@@ -16,12 +16,6 @@ published: true
 - [Trutnov - Kolín](https://bikerouter.de/#map=10/50.3139/15.9027/standard&lonlats=15.910901,50.564697;15.93009,50.457725;15.920048,50.379367;15.213146,50.024833&profile=trekking)
 - [Międzylesie 🇵🇱 - Břeclav 🇨🇿](https://bikerouter.de/#map=9/49.4580/16.6004/standard,route-quality&lonlats=16.655767,50.143673;16.522409,49.62696;16.588294,48.895373;16.893534,48.754739&profile=trekking)
 
-### 🇩🇪 Germany
-
-- Romantic Road (Gersthofen - Dombühl)
-	- [Day 1](https://bikerouter.de/#map=10/48.6860/10.7433/standard&lonlats=10.861037,48.42311;10.828966,48.42233;10.816357,48.430101;10.779374,48.717126;10.726486,48.766076;10.549241,48.800892;10.498426,48.846816&pois=10.779374,48.717125,Donauw%C3%B6rth;10.68885,48.787186,Harburg;10.488843,48.850903,N%C3%B6rdlingen;10.808919,48.534116,Burg%20Markt&profile=trekking)
-	- [Day 2](https://bikerouter.de/#map=10/49.0698/10.3738/standard&lonlats=10.498426,48.846822;10.472884,48.888805;10.474038,48.889961;10.319102,49.069185;10.291054,49.11494;10.29678,49.142255;10.331376,49.167858;10.32253,49.191412;10.29806,49.252472&pois=10.472888,48.888827,Wallerstein;10.316794,48.902656,Schloss%20Baldern;10.319206,49.069203,Dinkelsb%C3%BChl;10.331396,49.167887,Feuchtwangen;10.260412,49.28674,Schillingsf%C3%BCrst&profile=trekking)
-
 ### 🇵🇱 Poland
 
 - Opole - Poznań

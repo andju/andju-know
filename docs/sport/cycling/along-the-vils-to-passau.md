@@ -42,7 +42,7 @@ Continue along the Vils (with a short detour to Aldersbach) until you reach the 
 - [Vilshofen an der Donau](https://en.wikipedia.org/wiki/Vilshofen_an_der_Donau)
 - [Passau](https://tourism.passau.de/)
 
-### Food and accommodation
+### Food
 In the *Aldersbacher Bräustüberl*[^3] you can have a cold beer from the monastery brewery. *Altes Bräuhaus*[^4] in Passau serves excelent Bavarian dishes.
 
 [^1]: Gasthof Hopf, Kienraching 8, 84416 Taufkirchen (Vils)
