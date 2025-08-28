@@ -2,6 +2,7 @@
 # This one takes more action to handle formatting and theming
 
 site_name: andju-know
+site_url: https://andju.github.io/andju-know/
 theme:
   name: material
   features:
