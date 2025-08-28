@@ -2,17 +2,16 @@
 published: true
 ---
 # 🇪🇺 Four Countries
-
-> [!SUMMARY] Profile
-> ⏱️ 3 days 🇨🇿 Czech Republic 🇦🇹 Austria 🇸🇰 Slovakia 🇭🇺 Hungary 📅 May 2024
-> 
-> From [Břeclav 🇨🇿](https://www.openstreetmap.org/#map=16/48.75398/16.89325) (30 minutes by [train](https://www.cd.cz/)  from Brno)
-> 
-> To [Vasegerszeg 🇭🇺](https://www.openstreetmap.org/#map=16/47.37165/16.92413) (1.5 hours by [train](https://jegy.mav.hu/) from Győr)
-
 More than a 2 500 km journey through remote and scenic landscapes, it is a ride through the layered history of Central Europe. After the countries were united for over a hundred years, most of the 20. century was about their borders: First between fascism and democracy then between democracy and communism.
 
 See the remains of this past while you "rope jump" the borders of today.
+
+> [!SUMMARY] Profile
+> ⏱️ 3 days 📅 May 2024
+> 
+> Start: 🚉 [Břeclav 🇨🇿](https://www.openstreetmap.org/#map=16/48.75398/16.89325), 0:30h by [train](https://www.cd.cz/)  from Brno
+> 
+> Dest.: 🚉 [Vasegerszeg 🇭🇺](https://www.openstreetmap.org/#map=16/47.37165/16.92413), 1:30h by [train](https://jegy.mav.hu/) from Győr
 
 |                             | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | GPX                                                     | Distance | Ascend | Net Ascend |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | ------ | ---------- |

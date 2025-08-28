@@ -6,15 +6,14 @@ published: true
 ## Bavaria
 
 ### Dachau region breweries
+Beer & Bike: Experience the northeast of the Dachau region and taste the beer in 5 different breweries.
 
 > [!SUMMARY] Profile
 > 📅 May 2024
 > 
-> From Maisach (30 minutes by [train](https://www.bahn.de/) from Munich)
+> Start: 🚉 Maisach, 0:30h by [train](https://www.bahn.de/) from Munich
 > 
-> To Petershausen (40 minutes by [train](https://www.bahn.de/) from Munich)
-
-Beer & Bike: Experience the northeast of the Dachau region and taste the beer in 5 different breweries.
+> Dest.: 🚉 Petershausen, 0:40h by [train](https://www.bahn.de/) from Munich
 
 | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | GPX                                                                                     | Distance | Ascend | Net Ascend |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | ------ | ---------- |

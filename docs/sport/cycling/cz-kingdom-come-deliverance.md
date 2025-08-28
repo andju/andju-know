@@ -2,17 +2,16 @@
 published: true
 ---
 # 🇨🇿 Kingdom Come Deliverance
-
-> [!SUMMARY] Profile
-> ⏱️ 1-2 days 🇨🇿 Czech Republic 📅 June 2022
-> 
-> From [Český Šternberk zastávka](https://www.openstreetmap.org/#map=16/49.80843/14.92978) (2 hours by [train](https://www.cd.cz/)  from Prague)
-> 
-> To [Týnec n. Sázavou](https://www.openstreetmap.org/#map=16/49.83423/14.59328) (1.5 hours by [train](https://www.cd.cz/)  from Prague)
-
 The fantastic PC game Kingdom Come Deliverance was the motivation for this two-day bike tour. [KCD bike tour.kmz](KCD%20bike%20tour.kmz) (based on the map from [edgeoftheworld.cz](http://english.edgeoftheworld.cz/2018/02/23/kingdom-come-deliverance-map-compare/)) shows which parts of the game world you will see.
 
 But even non-players will enjoy the bike ride through the beautiful, scarcely populated and untouristed landscape. A wonderful off-the-beaten-path experience.
+
+> [!SUMMARY] Profile
+> ⏱️ 1-2 days 📅 June 2022
+> 
+> Start: 🚉 [Český Šternberk zastávka](https://www.openstreetmap.org/#map=16/49.80843/14.92978), 2:00h by [train](https://www.cd.cz/)  from Prague
+> 
+> Dest.: 🚉 [Týnec n. Sázavou](https://www.openstreetmap.org/#map=16/49.83423/14.59328), 1:30h by [train](https://www.cd.cz/)  from Prague
 
 |                          | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | GPX                                                                                            | Distance | Ascend | Net Ascend |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
@@ -40,22 +39,23 @@ If you want to do a day-trip, take a train from Chocerady back to Prague (1.5 ho
 ### Sights
 
 - [Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle): Great view
-- [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou):
+- [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou)
 	- Pirkštejn Castle
 	- Rataje Castle
-- Church of Užice: Was closed - if you want to see the inside, check for opening hours
-- Ruins of [Talmberk](https://en.wikipedia.org/wiki/Talmberk) Castle: If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
-- [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town)): 
+- Church of Užice[^4]
+- [Talmberk](https://en.wikipedia.org/wiki/Talmberk)
+	- Ruins of Castle: If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
+- [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town))
 	- [Monastery](https://en.wikipedia.org/wiki/S%C3%A1zava_Monastery "Sázava Monastery")
 	- St. Martin's church
 - [Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)
-	- Church of Rovná: Was closed - if you want to see the inside, check for opening hours
+	- Church of Rovná[^4]
 	- Church of Saint John of Nepomuk: Stands on the site of the former castle
 
 ### Food and accommodation
-While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna*[^4] near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h (e.g. in *Hospůdka Pod Hrádkem*[^5]).
+While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna*[^5] near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h (e.g. in *Hospůdka Pod Hrádkem*[^6]).
 
-Also accommodations are sparse - but fortunately *Hotel Ostende*[^6] offers good value for the price. Bicycle storage: In the courtyard.
+Also accommodations are sparse - but fortunately *Hotel Ostende*[^7] offers good value for the price. Bicycle storage: In the courtyard.
 
 ## Day 2: Chocerady - Týnec nad Sázavou
 Continue along the river Sazava.
@@ -112,8 +112,10 @@ Translated from [hradec1.cz🇨🇿](https://www.hradec1.cz/minulost-zanikle-osa
 
 [^3]: Exe City Park, Opletalova 960/33, 110 00 Nové Město
 
-[^4]: Sázavská Kozlovna, Gen. Vedrala Sázavského 420, 285 06 Sázava
+[^4]: Was closed - if you want to see the inside, check for opening hours
 
-[^5]: Hospůdka Pod Hrádkem, Chocerady 4, 257 24 Chocerady
+[^5]: Sázavská Kozlovna, Gen. Vedrala Sázavského 420, 285 06 Sázava
 
-[^6]: Hotel Ostende, Chocerady 83, 257 24 Chocerady
+[^6]: Hospůdka Pod Hrádkem, Chocerady 4, 257 24 Chocerady
+
+[^7]: Hotel Ostende, Chocerady 83, 257 24 Chocerady

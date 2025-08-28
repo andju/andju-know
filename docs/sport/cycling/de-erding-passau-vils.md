@@ -1,16 +1,15 @@
 ---
 published: true
 ---
-# 🇩🇪 Along the Vils
+# 🇩🇪 Erding - Passau (Vils)
+Pedal through the heart of Bavaria on a scenic ride along the tranquil bends of the river Vils and the majestic Danube.
 
 > [!SUMMARY] Profile
-> ⏱️ 2 days 🇩🇪 Germany 📅 July 2024
+> ⏱️ 2 days 📅 July 2024
 > 
-> From [Aufhausen (Erding)](https://www.openstreetmap.org/#map=16/48.27410/11.89414) (45 minutes by [train](https://www.bahn.de/) from Munich)
+> Start: 🚉 [Aufhausen (Erding)](https://www.openstreetmap.org/#map=16/48.27410/11.89414), 0:45h by [train](https://www.bahn.de/) from Munich
 > 
-> To [Passau](https://www.openstreetmap.org/#map=16/48.57373/13.45042)
-
-Pedal through the heart of Bavaria on a scenic ride along the tranquil bends of the river Vils and the majestic Danube.
+> Dest.: 🚉 [Passau](https://www.openstreetmap.org/#map=16/48.57373/13.45042), 2:00h by [train](https://www.bahn.de/) from Munich
 
 |                 | Website                                                                                                                                                                                                                                                                                                                                                            | GPX                                                                              | Distance | Ascend | Net Ascend |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | -------- | ------ | ---------- |
@@ -23,9 +22,11 @@ Cycle through the rural countryside until you start following the river in Taufk
 ### Sights
 
 - [Taufkirchen Palace](https://en.wikipedia.org/wiki/Wasserschloss_Taufkirchen)
-- [Velden (Vils)](https://de.wikipedia.org/wiki/Velden_(Vils)): [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_Velden_(Vils))
-- [Vilsbiburg](https://en.wikipedia.org/wiki/Vilsbiburg): Town square
-- [Reisbach](https://de.wikipedia.org/wiki/Reisbach): [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_(Reisbach))
+- [Velden (Vils)](https://de.wikipedia.org/wiki/Velden_(Vils))
+	- [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_Velden_(Vils))
+- [Vilsbiburg](https://en.wikipedia.org/wiki/Vilsbiburg) town square
+- [Reisbach](https://de.wikipedia.org/wiki/Reisbach)
+	- [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_(Reisbach))
 
 ### Food and accommodation
 *Gasthof Hopf*[^1] in Kienraching offers Bavarian dishes for a great price value.
@@ -38,7 +39,8 @@ Continue along the Vils (with a short detour to Aldersbach) until you reach the 
 ### Sights
 
 - Goderhof in [Kriestorf (Aldersbach)](https://de.wikipedia.org/wiki/Kriestorf_(Aldersbach))
-- [Aldersbach](https://en.wikipedia.org/wiki/Aldersbach): [Abbey](https://en.wikipedia.org/wiki/Aldersbach_Abbey) with Brewery
+- [Aldersbach](https://en.wikipedia.org/wiki/Aldersbach)
+	- [Abbey](https://en.wikipedia.org/wiki/Aldersbach_Abbey) with Brewery
 - [Vilshofen an der Donau](https://en.wikipedia.org/wiki/Vilshofen_an_der_Donau)
 - [Passau](https://tourism.passau.de/)
 

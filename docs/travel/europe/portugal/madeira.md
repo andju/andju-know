@@ -2,7 +2,9 @@
 published: true
 ---
 # Madeira
-⏱️6 Tage 📅 Februar 2020 🌐 [visitmadeira.com](https://visitmadeira.com/)
+
+> [!SUMMARY] Profil
+> ⏱️ 6 Tage 📅 Februar 2020 🌐 [visitmadeira.com](https://visitmadeira.com/)
 
 ## Wandern
 Auf Madeira gibt es sehr schöne Wanderungen. Vor allem entlang der Levada's (Wasserkanäle aus dem Inselinneren an die Küste). Wir hatten damals den [Rother Wanderführer für Madeira](https://www.rother.de/de/madeira-2.html) dabei. Jede Wanderung war auf ihre Art schön:
