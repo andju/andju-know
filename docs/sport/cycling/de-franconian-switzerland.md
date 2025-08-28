@@ -2,15 +2,14 @@
 published: true
 ---
 # 🇩🇪 Franconian Switzerland
+Castles and caves, picturesque half-timbered villages, beautiful countryside and tons of breweries: Franconian Switzerland is a beautiful piece of earth.
 
 > [!SUMMARY] Profile
-> ⏱️ 2 days 🇩🇪 Germany 📅 July 2023 🌐 [fraenkische-schweiz.com](https://www.fraenkische-schweiz.com/)
+> ⏱️ 2 days 📅 July 2023 🌐 [fraenkische-schweiz.com](https://www.fraenkische-schweiz.com/)
 > 
-> From [Pegnitz](https://www.openstreetmap.org/#map=16/49.75877/11.54768) (15 minutes by [train](https://www.bahn.de/)  from Bayreuth)
+> Start: 🚉 [Pegnitz](https://www.openstreetmap.org/#map=16/49.75877/11.54768), 0:15h by [train](https://www.bahn.de/)  from Bayreuth
 > 
-> To [Bamberg](https://www.openstreetmap.org/#map=16/49.89920/10.89551)
-
-Castles and caves, picturesque half-timbered villages, beautiful countryside and tons of breweries: Franconian Switzerland is a beautiful piece of earth.
+> Dest.: 🚉 [Bamberg](https://www.openstreetmap.org/#map=16/49.89920/10.89551) 
 
 |                    | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                | GPX                                                                                     | Distance | Ascend | Net Ascend |
 | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
@@ -36,7 +35,7 @@ The *ibis budget*[^6] offers small and functional, but clean rooms. It also has 
 The beautiful landscape and three major climbs will take your breath away. The way from the Castle Pottenstein down into the village is very steep - make sure your breaks are working.
 ### Sights
 
-- [Pottenstein](https://www.fraenkische-schweiz.com/detail/id=5f5772b45f7f9b38066ee640): 
+- [Pottenstein](https://www.fraenkische-schweiz.com/detail/id=5f5772b45f7f9b38066ee640)
 	- [Himmelsleiter](https://www.fraenkische-schweiz.com/detail/id=5f5773835f7f9b38066ef38b)
 	- [Castle](https://www.fraenkische-schweiz.com/detail/id=5f57732c5f7f9b38066ef01b)
 - [Tüchersfeld](https://www.fraenkische-schweiz.com/detail/id=5f5773925f7f9b38066ef40f)
@@ -59,7 +58,7 @@ If you are looking for a more sporty route, try [this one](https://brouter.m11n.
 - [Hollfeld](https://www.fraenkische-schweiz.com/detail/id=5f5772b95f7f9b38066ee692)
 - [Church of Litzendorf](https://www.fraenkische-schweiz.com/detail/id=5f57733b5f7f9b38066ef0b9)
 - [Seehof Palace](https://www.fraenkische-schweiz.com/detail/id=5f5773225f7f9b38066eefdb)
-- [Bamberg](https://www.bamberg.info/): The Old Town of Bamberg is an UNESCO World Heritage Site
+- Old Town of [Bamberg](https://www.bamberg.info/): UNESCO World Heritage Site
 
 ### Food and accommodation
 Like on day one, you will find many breweries and restaurants along the way.

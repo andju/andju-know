@@ -2,15 +2,14 @@
 published: true
 ---
 # 🇩🇪 Augsburg - Dinkelsbühl
+This scenic bike tour leads from the historic city of Augsburg along the Romantic Road to the medieval gem of Dinkelsbühl. The route offers a mix of beautiful landscapes, charming old towns, and cultural highlights.
 
 > [!SUMMARY] Profile
-> ⏱️ 2 days 🇩🇪 Germany 📅 August 2025
+> ⏱️ 2 days 📅 August 2025
 > 
-> From [Augsburg](https://www.openstreetmap.org/#map=16/48.36559/10.88681) (45 minutes by [train](https://www.bahn.de/) from Munich)
+> Start: 🚉 [Augsburg](https://www.openstreetmap.org/#map=16/48.36559/10.88681), 0:45h by [train](https://www.bahn.de/) from Munich
 > 
-> To [Dinkelsbühl](https://www.openstreetmap.org/#map=16/49.06916/10.31537) ([Wassertrüdingen](https://www.openstreetmap.org/#map=16/49.04380/10.60732), 1.5 hours by [train](https://www.bahn.de/) from Augsburg)
-
-This scenic bike tour leads from the historic city of Augsburg along the Romantic Road to the medieval gem of Dinkelsbühl. The route offers a mix of beautiful landscapes, charming old towns, and cultural highlights.
+> Dest.: 🏠 [Dinkelsbühl](https://www.openstreetmap.org/#map=16/49.06916/10.31537) (🚉 [Wassertrüdingen](https://www.openstreetmap.org/#map=16/49.04380/10.60732) , 1:30h by [train](https://www.bahn.de/) from Augsburg)
 
 |                                         | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | GPX                                                                                     | Distance         | Ascend             | Net Ascend        |
 | --------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- | ---------------- | ------------------ | ----------------- |
@@ -27,9 +26,9 @@ You can skip the detour to the Donaumeile in Donauwörth, if you don't need to b
 - [Augsburg](https://www.augsburg-tourismus.de/en/sights/highlights)
 - [Burg Markt](https://de.wikipedia.org/wiki/Burg_Markt)
 - [Donauwörth](https://en.wikipedia.org/wiki/Donauw%C3%B6rth)
-- [Harburg](https://en.wikipedia.org/wiki/Harburg,_Bavaria):
+- [Harburg](https://en.wikipedia.org/wiki/Harburg,_Bavaria)
 	- Old town
-	- Castle
+	- [Castle](https://en.wikipedia.org/wiki/Harburg_Castle)
 - [Nördlingen](https://en.wikipedia.org/wiki/N%C3%B6rdlingen)
 
 ### Food and accommodation
@@ -44,9 +43,9 @@ Leaving Nördlingen through the Baldinger Tor, the route continues through villa
 > [!info] Getting away from Dinkelsbühl
 > Dinkelsbühl has a train station, but it is not serviced (except for an occasional historical train).
 > 
-> One option would be to extend the route to [Dombühl](https://www.openstreetmap.org/#map=16/49.25210/10.29855), where regular trains to **Nürnberg** are leaving. Via Ansbach also to **Würzburg** and **Augsburg**. This route provides the opportunity to see [Feuchtwangen](https://www.openstreetmap.org/#map=16/49.16781/10.33133).
+> One option would be to extend the route to [Dombühl](https://bikerouter.de/#map=12/49.1609/10.3062/standard&lonlats=10.319121,49.069164;10.291054,49.11494;10.29678,49.142255;10.331376,49.167858;10.32253,49.191412;10.29806,49.252472&pois=10.472888,48.888827,Wallerstein;10.316794,48.902656,Schloss%20Baldern;10.319206,49.069203,Dinkelsb%C3%BChl;10.331396,49.167887,Feuchtwangen;10.260412,49.28674,Schillingsf%C3%BCrst&profile=trekking) (27 km | 127 hm | +36 hm), where regular trains to **Nürnberg** are leaving. Via Ansbach also to **Würzburg** and **Augsburg**. This route provides the opportunity to see [Feuchtwangen](https://en.wikipedia.org/wiki/Feuchtwangen).
 > 
-> For those **Stuttgart**-bound, [Crailsheim](https://www.openstreetmap.org/#map=16/49.13822/10.06431) is an option.
+> For those **Stuttgart**-bound, [Crailsheim](https://bikerouter.de/#map=13/49.1091/10.2084/standard&lonlats=10.319121,49.069164;10.065566,49.13758&pois=10.472888,48.888827,Wallerstein;10.316794,48.902656,Schloss%20Baldern;10.319206,49.069203,Dinkelsb%C3%BChl;10.331396,49.167887,Feuchtwangen;10.260412,49.28674,Schillingsf%C3%BCrst&profile=trekking) (27 km | 155 hm | -31 hm) is an option.
 > 
 > The route planned is extended to [Wassertrüdingen](https://www.openstreetmap.org/#map=16/49.04380/10.60732) from where **Augsburg** can be reached (via Gunzenhausen).
 > 
@@ -56,7 +55,7 @@ Leaving Nördlingen through the Baldinger Tor, the route continues through villa
 
 - [Wallerstein Castle](https://de.wikipedia.org/wiki/Schloss_Wallerstein)
 - [Dinkelsbühl](https://en.wikipedia.org/wiki/Dinkelsb%C3%BChl)
-- Optional:
+- Optional
 	- [Limeseum](https://limeseum.de/en)
 	- [Wassertrüdingen](https://de.wikipedia.org/wiki/Wassertr%C3%BCdingen)
 

@@ -2,16 +2,14 @@
 published: true
 ---
 # 🇵🇱 South Lower Silesia
-
+Cycle through the Central Sudetes in the south of Lower Silesia from a little town near the Czech border to Świdnica or Wrocław. The route weaves through rolling hills, forest trails, and quiet country roads, offering a blend of natural beauty and cultural landmarks.
 
 > [!SUMMARY] Profile
-> ⏱️ 2-3 days 🇵🇱 Poland 📅 June 2024
+> ⏱️ 2-3 days 📅 June 2024
 > 
-> From [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493) (2.5 hours by [train](https://www.cd.cz/) from Prague)
+> Start: 🚉 [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493), 2:30h by [train](https://www.cd.cz/) from Prague
 > 
-> To [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672) (1 hour by [train](https://kolejedolnoslaskie.pl/) from Wrocław)
-
-Cycle through the Central Sudetes in the south of Lower Silesia from a little town near the Czech border to Świdnica or Wrocław. The route weaves through rolling hills, forest trails, and quiet country roads, offering a blend of natural beauty and cultural landmarks.
+> Dest.: 🚉 [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672), 1:00h by [train](https://kolejedolnoslaskie.pl/) from Wrocław
 
 |                 | Website                                                                                                                                                                                                                                                                                                                                     | GPX                                                                                   | Distance | Ascend | Net Ascend |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
@@ -37,12 +35,12 @@ Traverse the remote roads and villages in the [Kłodzko Valley](https://en.wikip
 
 ### Sights
 
-- [Bystrzyca Kłodzka](https://en.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka): Old town
+- Old town of [Bystrzyca Kłodzka](https://en.wikipedia.org/wiki/Bystrzyca_K%C5%82odzka)
 - [Gorzanów Castle](https://en.wikipedia.org/wiki/Gorzan%C3%B3w_Castle)
-- [Polanica-Zdrój](https://en.wikipedia.org/wiki/Polanica-Zdr%C3%B3j):
+- [Polanica-Zdrój](https://en.wikipedia.org/wiki/Polanica-Zdr%C3%B3j)
 	- Town center along the river
 	- Spa Park
-- [Kłodzko](https://en.wikipedia.org/wiki/K%C5%82odzko):
+- [Kłodzko](https://en.wikipedia.org/wiki/K%C5%82odzko)
 	- [Church of the Assumption](https://en.wikipedia.org/wiki/Church_of_the_Assumption,_K%C5%82odzko)
 	- Gothic bridge
 	- [Kłodzko Fortress](https://en.wikipedia.org/wiki/K%C5%82odzko_Fortress)
