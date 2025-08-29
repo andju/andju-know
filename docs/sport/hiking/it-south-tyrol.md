@@ -54,6 +54,7 @@ published: true
 - [ ] [Forcella di Lech (2486m, 4h)](https://www.alpenvereinaktiv.com/de/tour/col-de-locia-forcella-di-lech-lago-lagazuoi-e-rifugio-scotoni-da/282277315/) 🍽️
 - [x] [Nuvolau (2575m, 3:20h)](https://www.alpenvereinaktiv.com/de/tour/escursione-ad-anello-dal-passo-falzarego-al-rifugio-nuvolau/117396078) 🍽️
 - [ ] [Col di Lana - gesprengter Berg (2465m, 3:45h)](https://www.alpenvereinaktiv.com/de/tour/auf-den-gesprengten-berg-col-di-lana-2.465-m-und-monte-sief-2.425-m-/14462939/)
+- [ ] [Tofana di Rozes (3177m, 4:30h)](https://www.alpenvereinaktiv.com/de/tour/dal-rifugio-dibona-alla-cima-della-tofana-di-rozes/249385919/)
 
 ## Pragser Tal
 
