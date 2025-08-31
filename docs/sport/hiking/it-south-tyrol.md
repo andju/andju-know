@@ -3,14 +3,22 @@ published: true
 ---
 # 🇮🇹 South Tyrol
 
-## Tauferer Tal
+## [Tauferer Tal](https://www.openstreetmap.org/way/513343598)
 
-### [Rein in Taufers (Riva di Tures)](https://www.openstreetmap.org/#map=14/46.94903/12.04960)
+### [Rein in Taufers (Riva di Tures)](https://www.openstreetmap.org/node/650210029)
 
 - [ ] [Dreieckspitze](https://www.alpenvereinaktiv.com/de/tour/dreieckspitze/63680066/) 
 - [ ] [Tristennöckl](https://www.alpenvereinaktiv.com/de/tour/tristennoeckl/804012460/)
 
-## Enneberger Tal
+## [Prags](https://www.openstreetmap.org/relation/47301)
+
+### Pragser Wildsee (Lago di Braies)
+
+- Herrstein und Großer Rosskopf
+	- [ ] [Kurz (2559m, 5:45h)](https://www.alltrails.com/de/route/italy/south-tyrol/lago-braies-sasso-del-signore-sasso-rosso)
+	- [ ] [Lang (2810m, 8:40h)](https://www.bergfex.it/sommer/suedtirol/touren/bergwandern/878725,dolomiten--seekofel-2810m--tiefblick-zum-see/) 🍽️
+
+## [Enneberger Tal](https://www.openstreetmap.org/way/1144347820)
 
 ### St. Vigil in Enneberg (San Vigilio di Marebbe)
 
@@ -21,10 +29,10 @@ published: true
 
 ### [Pederü](https://www.openstreetmap.org/#map=14/46.63889/12.02539)
 
-- [ ] [Kleine Gaisl (2859m)](https://www.alpenvereinaktiv.com/de/tour/kleine-gaisl-2859m-von-pederue/801683434/) ❗
+- [ ] [Kleine Gaisl (2859m)](https://www.alpenvereinaktiv.com/de/tour/kleine-gaisl-2859m-von-pederue/801683434/) ⚠
 - [ ] [Lavinores (2460m)](https://www.alpenvereinaktiv.com/de/tour/lavinores-2460m-ueberschreitung/801683378/)
 
-## Gadertal
+## [Gadertal](https://www.openstreetmap.org/way/338453012)
 
 ### St. Martin in Thurn (San Martino in Badia)
 
@@ -46,7 +54,7 @@ published: true
 
 - [ ] [Sassongher (2665m, 5:20h)](https://www.alpenvereinaktiv.com/de/tour/sassongher-da-la-villa/219051886/) 🍽️
 
-### Valparolapass (Passo di Valparola)
+## [Valparolapass (Passo di Valparola)](https://www.openstreetmap.org/node/1826357031)
 
 - Setsas (2571m)
 	- [ ] [Lang (6h)](https://www.alpenvereinaktiv.com/de/tour/seras/280545168/) 🍽️
@@ -56,10 +64,8 @@ published: true
 - [ ] [Col di Lana - gesprengter Berg (2465m, 3:45h)](https://www.alpenvereinaktiv.com/de/tour/auf-den-gesprengten-berg-col-di-lana-2.465-m-und-monte-sief-2.425-m-/14462939/)
 - [ ] [Tofana di Rozes (3177m, 4:30h)](https://www.alpenvereinaktiv.com/de/tour/dal-rifugio-dibona-alla-cima-della-tofana-di-rozes/249385919/)
 
-## Pragser Tal
+## Cordevoletal
 
-### Pragser Wildsee (Lago di Braies)
-
-- Herrstein und Großer Rosskopf
-	- [ ] [Kurz (2559m, 5:45h)](https://www.alltrails.com/de/route/italy/south-tyrol/lago-braies-sasso-del-signore-sasso-rosso)
-	- [ ] [Lang (2810m, 8:40h)](https://www.bergfex.it/sommer/suedtirol/touren/bergwandern/878725,dolomiten--seekofel-2810m--tiefblick-zum-see/) 🍽️
+- Monte Civetta
+	- [ ] [Via Normale](https://www.bergsteigen.com/touren/klettersteig/civetta-normalweg-via-normale/) ⚠
+	- [ ] [Via ferrata degli Alleghesi](https://www.bergsteigen.com/touren/klettersteig/via-ferrata-degli-alleghesi-civetta/) 🛑
