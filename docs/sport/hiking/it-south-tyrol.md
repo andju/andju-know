@@ -66,7 +66,7 @@ published: true
 
 ## Cordevole-Tal (Val Cordevole)
 
-- Monte Civetta: 🍽️ [Rifugio Coldai](https://rifugiocoldai.com/index_en.php)
-	- [ ] [Via Normale](https://www.bergsteigen.com/touren/klettersteig/civetta-normalweg-via-normale/): ⚠️ Via ferrata: B
-	- [ ] [Via ferrata degli Alleghesi](https://www.bergsteigen.com/touren/klettersteig/via-ferrata-degli-alleghesi-civetta/): ⚠️ Via ferrata: C
+- Monte Civetta (3220m): 🍽️ [Rifugio Coldai](https://rifugiocoldai.com/index_en.php)
+	- [ ] [Via Normale (10:45h)](https://www.bergsteigen.com/touren/klettersteig/civetta-normalweg-via-normale/): ⚠️ Via ferrata (B)
+	- [ ] [Via ferrata degli Alleghesi (11h)](https://www.bergsteigen.com/touren/klettersteig/via-ferrata-degli-alleghesi-civetta/): ⚠️ Via ferrata (C)
 	
