@@ -2,7 +2,12 @@
 published: true
 ---
 # 🇮🇹 South Tyrol and Dolomites
-[Map of the Dolomites](https://upload.wikimedia.org/wikipedia/commons/0/03/Karte_Dolomiten.png)
+
+Mountain range maps:
+- [Zillertal Alps](https://upload.wikimedia.org/wikipedia/commons/c/c2/Karte_Zillertaler_Alpen.png)
+- [Venediger Group](https://de.wikipedia.org/wiki/Venedigergruppe#/media/Datei:Karte_Venedigergruppe.png)
+- [Rieserferner Group](https://upload.wikimedia.org/wikipedia/commons/4/4c/Karte_Rieserfernergruppe.png)
+- [Dolomites](https://upload.wikimedia.org/wikipedia/commons/0/03/Karte_Dolomiten.png)
 
 ## [Tauferer Tal](https://www.openstreetmap.org/way/513343598)
 
