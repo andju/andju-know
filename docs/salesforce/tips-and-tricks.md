@@ -73,6 +73,18 @@ To attach a lot of files to a lot of records, you need to clarify whether they s
 - [Attachments](https://developer.salesforce.com/docs/atlas.en-us.dataLoader.meta/dataLoader/loader_attachments.htm) are uploaded into the `Attachment` object
 - [Files](https://help.salesforce.com/s/articleView?id=000382372&type=1) are uploaded into the `ContentVersion` object and related through the `ContentDocumentLink` object
 
+## Postman: Session expired or invalid
+When calling a REST API with Postman you might receive the following response, despite your access token being valid:
+
+```json
+[{"message":"Session expired or invalid","errorCode":"INVALID_SESSION_ID"}]
+```
+
+The reason is the URL entered in the environment variables `url` and `_endpoint`. This can be fixed by either ([source](https://trailhead.salesforce.com/trailblazer-community/feed/0D54V00007T4U1tSAF)):
+
+- Enable the setting `Follow Authorization header` for the call.
+- Set the correct URL for the environment variables `url` and `_endpoint`. The correct URL is the one ending with `.my.salesforce.com` resp. `.sandbox.my.salesforce.com` (shown on the login screen).
+
 ## Tools
 
 - [Salesforce Data Loader](https://developer.salesforce.com/tools/data-loader): Mass update data using CSV files
@@ -94,3 +106,4 @@ If the "New" button of a specific object (e. g. Accounts) is overridden (e.g. wi
 ```
 https://<YourDomain>.lightning.force.com/lightning/o/Account/new?nooverride=1
 ```
+
