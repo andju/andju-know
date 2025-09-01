@@ -42,7 +42,7 @@ Pass through countryside and villages before following the river March and turni
 
 - [Břeclav Castle](https://en.wikipedia.org/wiki/B%C5%99eclav#Sights)
 - Remains of the [Czechoslovak border fortifications](https://en.wikipedia.org/wiki/Czechoslovak_border_fortifications): Along the Slovakian side of the March
-- [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): ⚠️ I couldn't find any information whether it is forbidden, allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
+- [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): 🛑 I couldn't find any information whether it is allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
 ### Food and accommodation
 There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. *Bäckerei Karl Bauer*[^4] in Hohenau an der March has a breakfast menu or you can have a coffee at *Kaviareň Lavazza*[^5] in Malacky.
@@ -56,7 +56,7 @@ A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWM
 Continue along the March until you reach the Danube near Bratislava. From there continue over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
 
 > [!warning] Malacky to Jakubov
-> The cars drive quite fast on the road between Malacky and Jakubov.
+> The cars drive quite fast on the road between Malacky and Jakubov. If you want to avoid this part of the route, you can go back to Gajary and turn south to Suchohrad. Alternatively go south to Zohor and from there west to Vysoká pri Morave.
 
 ### Sights
 
