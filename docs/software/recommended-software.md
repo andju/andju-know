@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Recommended Software
+# Recommended software
 
 ## Media
 
@@ -23,6 +23,8 @@ Media player with a wide range of supported formats.
 Knowledge management and note software, similar to Microsoft OneNote or Evernote. It is based on the open Markdown format and easily extensible by plugins.
 
 ### paperless-ngx
-see [Document management](document-management.md)
+**Price:** free | **Platform:** Container | **Open Source:** Yes
+
+See [Document management](document-management.md)
 
 
