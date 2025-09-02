@@ -106,7 +106,7 @@ The second plan was a two day tour (without Lake Neusiedl) and three options for
 - Day 2
 	- [Vasegerszeg 🇭🇺](https://mapy.com/en/zakladni?planovani-trasy&rc=9n2lLxO5uFd-BxKhxSlGFxK-zW&rs=osm&rs=osm&rs=osm&ri=1135718320&ri=79392&ri=42577&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.9340736&y=47.8196361&z=9) (141 km | 197 hm | -12 hm)
 	- [Sopron 🇭🇺](https://mapy.com/en/zakladni?planovani-trasy&rc=9n2lLxO5uF9mW3JxMwdo9mKgnxMMt5&rs=osm&rs=osm&rs=osm&ri=1135718320&ri=168559&ri=27257&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=16.8304889&y=47.9986760&z=10) (108 km | 446 hm | +89 hm)
-	- [Győr 🇭🇺](https://mapy.com/en/zakladni?planovani-trasy&rc=9n2lLxO5uF97IJbxNtqF9o4OxxMOar&rs=osm&rs=osm&rs=osm&ri=1135718320&ri=94286034&ri=34790084&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=17.3514408&y=47.9967408&z=10)(107 km | 107 hm | -25 hm)
+	- [Győr 🇭🇺](https://mapy.com/en/zakladni?planovani-trasy&rc=9n2lLxO5uF97IJbxNtqF9o4OxxMOar&rs=osm&rs=osm&rs=osm&ri=1135718320&ri=94286034&ri=34790084&mrp=%7B%22c%22%3A121%2C%22dt%22%3A%22%22%2C%22d%22%3Atrue%7D&xc=%5B%5D&x=17.3514408&y=47.9967408&z=10) (107 km | 107 hm | -25 hm)
 
 Another option for a (much less challenging) two day tour is to start in Vienna 🇦🇹 - making it two countries:
 
