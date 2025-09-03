@@ -77,6 +77,7 @@ To attach a lot of files to a lot of records, you need to clarify whether they s
 
 - [Salesforce Data Loader](https://developer.salesforce.com/tools/data-loader): Mass update data using CSV files
 - [Salesforce Inspector reloaded](https://tprouvot.github.io/Salesforce-Inspector-reloaded/#installation): This browser add-on is like the Swiss Army Knife for Salesforce
+- [Workbench](https://workbench.developerforce.com/): Web interface for various API functionalities
 
 ## URL Hacks
 Functionality and tricks based on opening a specific URL in the browser. Keep in mind to replace the `<YourDomain>` part.
