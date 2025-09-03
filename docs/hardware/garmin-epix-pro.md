@@ -23,6 +23,11 @@ Software to keep track of your activities.
 - [Turtle Sport](https://turtlesport.sourceforge.io/EN/home.html): Visualize your various outdoor activities on a map. Version 2.0 seems to have problems showing heart rates. No new versions since 2017.
 
 ## Troubleshooting
+Helpful links:
+
+- [Owner's manual](https://www8.garmin.com/manuals/webhelp/GUID-E5C62F3F-DCE3-4197-8CA5-E419B2A55D12/EN-US/GUID-CA57BF17-793A-403C-B89E-F7B2E93D340A-homepage.html)
+- [Garmin Watch Optical Heart Rate Accuracy Tips](https://support.garmin.com/en-US/?faq=xQwjQjzUew4BF1GYcusE59)
+- [Can I Copy or Back Up My Information and Settings on My Garmin Device?](https://support.garmin.com/en-US/?faq=AXV7LuWgc73v21nq6nbDa6)
 
 ### Wrong altitude in the morning
 **Problem:** The watch calibrates the altitude every night. If your phone is not connected (e.g. in flight mode) and you slept at different altitudes in the last days (e.g. during travel) the altitude might be calibrated to a wrong level. This even happens if it was correct when you went to bed.
