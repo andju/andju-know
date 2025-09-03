@@ -22,8 +22,8 @@ Since diskspace is not released when files are deleted from volumes, this file c
 	2. Shrink the file: `DISKPART> compact vdisk`
 	3. Close the window : `DISKPART> exit`
 
-## Start the Podman machine for a scripted task
-Sometimes you want to start the podman machine in order to execute a task and end it, once the task completes. However, you don't want to stop the machine (and potentially other containers) if it was already running.
+## Start the Podman Machine for a scripted task
+Sometimes you want to start the Podman Machine in order to execute a task and end it, once the task completes. However, you don't want to stop the machine (and potentially other containers) if it was already running.
 
 ```shell
 @echo off
@@ -42,6 +42,21 @@ if %ERRORLEVEL% neq 0 (
     echo Podman machine is already running. Executing task...
     rem YOUR COMMAND HERE
 )
+```
+
+## Wait for the Docker Engine
+Start Docker Desktop and wait until the Docker Engine is ready ([source](https://www.reddit.com/r/docker/comments/os99ka/how_to_test_if_docker_desktop_engine_is_running/?rdt=37789)).
+
+```shell
+@echo off
+"%ProgramFiles%\Docker\Docker\Docker Desktop.exe"
+docker-compose ls >nul 2>nul
+if %errorlevel%==0 goto :EOF
+echo Waiting for Docker Engine to start . . .
+:waitloop
+timeout /t 10
+docker-compose ls >nul 2>nul
+if %errorlevel%==1 goto waitloop
 ```
 
 ## ROCm support
