@@ -11,7 +11,7 @@ Tools that will help you generate the package.xml file for a specific Org:
 
 - [Visual Studio Code extension](https://marketplace.visualstudio.com/items?itemName=VignaeshRamA.sfdx-package-xml-generator)
 - [Salesforce package.xml Builder](https://packagebuilder.herokuapp.com/)
-- Salesforce CLI command ([asagarwal.com](https://www.asagarwal.com/generate-package-xml-for-your-salesforce-org-with-a-single-command/)): `sf project generate manifest --from-org <salesforce-org-alias>`
+- Salesforce CLI command ([asagarwal.com](https://www.asagarwal.com/generate-package-xml-for-your-salesforce-org-with-a-single-command/)): `sf project generate manifest --from-org $salesforce_org_alias`
 
 Examples of generic package.xml files:
 
@@ -44,7 +44,8 @@ The following package.xml file will download the most important profile informat
         <name>CustomApplication</name>
     </types>
     <types>
-        <members>*</members> <!-- Works despite documentation. -->
+	    <!-- Wildcard works, despite documentation. -->
+        <members>*</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -110,15 +111,21 @@ The following package.xml file will download the most important profile informat
 </Package>
 ```
 
-## Deploy all changes since a git commit
-If you need to (re-)deploy all changes since a specific git commit (e.g. in case of a sandbox refresh), you can get a list of changed files with the following Powershell command:
-
-```powershell
-git diff --name-status <commit_hash> HEAD | Select-String '^[AM]' | ForEach-Object { $_.Line.Split("`t")[1] } | Where-Object { $_ -like 'force-app/main/default/*' }
-```
-
-You can use this information to create a package.xml file for deployment. Alternatively, the CLI plugin [SFDX-Git-Delta](https://github.com/scolladon/sfdx-git-delta "https://github.com/scolladon/sfdx-git-delta") will generate a ready-to-deploy package.xml file:
+## Changes since a git commit
+If you need to (re-)deploy all changes since a specific git commit (e.g. in case of a sandbox refresh), you can get a list of files changed with the following command:
 
 ```shell
-sf sgd source delta --to "HEAD" --from "<commit_hash>" --output-dir "."
+git diff --name-status $commit_hash HEAD -- force-app/main/default/
+```
+
+To get a list of added and modified files (to manually create a package.xml file for deployment):
+
+```shell
+git diff --diff-filter=AM --name-only $commit_hash HEAD -- force-app/main/default/
+```
+
+Alternatively, the CLI plugin [SFDX-Git-Delta](https://github.com/scolladon/sfdx-git-delta "https://github.com/scolladon/sfdx-git-delta") will generate a ready-to-deploy package.xml (and destructiveChanges.xml) file:
+
+```shell
+sf sgd source delta --to "HEAD" --from "$commit_hash" --output-dir "."
 ```
