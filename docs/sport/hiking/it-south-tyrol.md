@@ -3,14 +3,14 @@ published: true
 ---
 # 🇮🇹 South Tyrol and Dolomites
 
-Die Orte sind von Westen nach Osten und von Norden nach Süden sortiert.
+Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 Übersicht der Gebirge:
 
-- [Zillertal Alps](https://upload.wikimedia.org/wikipedia/commons/c/c2/Karte_Zillertaler_Alpen.png)
-- [Venediger Group](https://de.wikipedia.org/wiki/Venedigergruppe#/media/Datei:Karte_Venedigergruppe.png)
-- [Rieserferner Group](https://upload.wikimedia.org/wikipedia/commons/4/4c/Karte_Rieserfernergruppe.png)
-- [Dolomites](https://upload.wikimedia.org/wikipedia/commons/0/03/Karte_Dolomiten.png)
+- [Zillertaler Alpen](https://upload.wikimedia.org/wikipedia/commons/c/c2/Karte_Zillertaler_Alpen.png)
+- [Venedigergruppe](https://de.wikipedia.org/wiki/Venedigergruppe#/media/Datei:Karte_Venedigergruppe.png)
+- [Rieserfernergruppe](https://upload.wikimedia.org/wikipedia/commons/4/4c/Karte_Rieserfernergruppe.png)
+- [Dolomiten](https://upload.wikimedia.org/wikipedia/commons/0/03/Karte_Dolomiten.png)
 
 ## [Tauferer Tal](https://www.openstreetmap.org/way/513343598)
 
