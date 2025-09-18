@@ -3,7 +3,9 @@ published: true
 ---
 # 🇮🇹 South Tyrol and Dolomites
 
-Mountain range maps:
+Die Orte sind von Westen nach Osten und von Norden nach Süden sortiert.
+
+Übersicht der Gebirge:
 
 - [Zillertal Alps](https://upload.wikimedia.org/wikipedia/commons/c/c2/Karte_Zillertaler_Alpen.png)
 - [Venediger Group](https://de.wikipedia.org/wiki/Venedigergruppe#/media/Datei:Karte_Venedigergruppe.png)
@@ -36,7 +38,7 @@ Mountain range maps:
 
 ### [Pederü](https://www.openstreetmap.org/node/7533834607)
 
-- [ ] [Kleine Gaisl (2859m)](https://www.alpenvereinaktiv.com/de/tour/kleine-gaisl-2859m-von-pederue/801683434/): ⚠️ Route deviates from the path
+- [ ] [Kleine Gaisl (2859m)](https://www.alpenvereinaktiv.com/de/tour/kleine-gaisl-2859m-von-pederue/801683434/): ⚠️ Route weicht vom Weg ab
 - [ ] [Lavinores (2460m)](https://www.alpenvereinaktiv.com/de/tour/lavinores-2460m-ueberschreitung/801683378/)
 
 ## [Gadertal](https://www.openstreetmap.org/way/338453012)
@@ -59,6 +61,10 @@ Mountain range maps:
 ### [Abtei (Badia)](https://www.openstreetmap.org/relation/47255)
 
 - [ ] [Sassongher (2665m, 5:20h)](https://www.alpenvereinaktiv.com/de/tour/sassongher-da-la-villa/219051886/): 🍽️ [Rifugio Gardenacia](https://www.gardenacia.it/en/refuge-alta-badia)
+
+## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
+
+- [ ] [Rund um den Langkofel](https://www.alpenvereinaktiv.com/de/tour/wanderung-rund-um-den-langkofel-in-den-dolomiten/800331155/)
 
 ## [Valparolapass (Passo di Valparola)](https://www.openstreetmap.org/node/1826357031)
 
