@@ -64,7 +64,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 ## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
 
-- [ ] [Rund um den Langkofel](https://www.alpenvereinaktiv.com/de/tour/wanderung-rund-um-den-langkofel-in-den-dolomiten/800331155/)
+- [ ] [Rund um den Langkofel (2685m, 3:30h)](https://www.alpenvereinaktiv.com/de/tour/wanderung-rund-um-den-langkofel-in-den-dolomiten/800331155/): 🍽️ [Rifugio Alpino Toni Demetz](https://www.tonidemetz.it/de/), 🍽️ [Rifugio Vicenza](https://www.rifugiovicenza.com/de/), 🍽️ [Rifugio Emilio Comici](https://www.rifugiocomici.com/de/)
 
 ## [Valparolapass (Passo di Valparola)](https://www.openstreetmap.org/node/1826357031)
 
