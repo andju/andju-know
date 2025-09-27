@@ -62,6 +62,10 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 - [ ] [Sassongher (2665m, 5:20h)](https://www.alpenvereinaktiv.com/de/tour/sassongher-da-la-villa/219051886/): 🍽️ [Rifugio Gardenacia](https://www.gardenacia.it/en/refuge-alta-badia)
 
+## [Höhlensteintal](https://www.openstreetmap.org/way/1104752009)
+
+- [ ] [Dürrenstein (2839m, 3:30h)](https://www.hoehenrausch.de/berge/duerrenstein/)
+
 ## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
 
 - [ ] [Rund um den Langkofel (2685m, 3:30h)](https://www.alpenvereinaktiv.com/de/tour/wanderung-rund-um-den-langkofel-in-den-dolomiten/800331155/): 🍽️ [Rifugio Alpino Toni Demetz](https://www.tonidemetz.it/de/), 🍽️ [Rifugio Vicenza](https://www.rifugiovicenza.com/de/), 🍽️ [Rifugio Emilio Comici](https://www.rifugiocomici.com/de/)
