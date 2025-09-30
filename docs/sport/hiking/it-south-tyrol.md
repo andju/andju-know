@@ -65,6 +65,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 ## [Höhlensteintal](https://www.openstreetmap.org/way/1104752009)
 
 - [ ] [Dürrenstein (2839m, 3:30h)](https://www.hoehenrausch.de/berge/duerrenstein/)
+- [ ] [Monte Piano (2321m, 4h)](https://www.alpenvereinaktiv.com/de/tour/hoehlensteintal-monte-piano-piana-runde/296300905/): 🍽️ [Rifugio Monte Piana](https://www.montepiana.com/rifugiobosiger.htm)
 
 ## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
 
