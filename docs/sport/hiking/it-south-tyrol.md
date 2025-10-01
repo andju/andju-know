@@ -66,6 +66,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 - [ ] [Dürrenstein (2839m, 3:30h)](https://www.hoehenrausch.de/berge/duerrenstein/)
 - [ ] [Monte Piano (2321m, 4h)](https://www.alpenvereinaktiv.com/de/tour/hoehlensteintal-monte-piano-piana-runde/296300905/): 🍽️ [Rifugio Monte Piana](https://www.montepiana.com/rifugiobosiger.htm)
+- [ ] [Pala Nord Est (2300m, 3:30h)](https://www.alpenvereinaktiv.com/de/tour/monte-popena-basso-da-misurina/327502627/)
 
 ## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
 
@@ -86,4 +87,11 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 - Monte Civetta (3220m): 🍽️ [Rifugio Coldai](https://rifugiocoldai.com/index_en.php)
 	- [ ] [Via Normale (10:45h)](https://www.bergsteigen.com/touren/klettersteig/civetta-normalweg-via-normale/): ⚠️ Via ferrata (B)
 	- [ ] [Via ferrata degli Alleghesi (11h)](https://www.bergsteigen.com/touren/klettersteig/via-ferrata-degli-alleghesi-civetta/): ⚠️ Via ferrata (C)
-	
+
+## [Passo di Giau](https://www.openstreetmap.org/node/141490497)
+
+- [ ] [Monte Cernera und Monte Verdal (2657m, 3h)](https://www.alpenvereinaktiv.com/de/tour/monte-cernera-2.664m-e-monte-verdal-2.491m/274067369/)
+
+## [Boitetal (Valle del Boite)](https://www.openstreetmap.org/way/1282488674)
+
+- [ ] [Around Croda da Lago (2466m, 4h)](https://www.alpenvereinaktiv.com/de/tour/around-croda-da-lago/807950277): 🍽️[Rifugio Croda da Lago](https://www.crodadalago.it/en/)
