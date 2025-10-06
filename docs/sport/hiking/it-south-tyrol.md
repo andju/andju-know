@@ -51,7 +51,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 		- [ ] [Kurz (4:20h)](https://www.alpenvereinaktiv.com/de/tour/peitlerkofel/103398408/)
 - Campill
 	- [ ] [Zwischenkofel (2384m, 4:20h)](https://www.alpenvereinaktiv.com/de/tour/zwoelferkofel-im-gadertal/34814511)
-	- [x] [Sobutsch (2486m, 5h)](https://www.alpenvereinaktiv.com/de/tour/malga-e-cima-medalges-da-lungiaru/296841499): 🍽️ [Ütia Ciampcios](https://www.uetiaciampcios.com/welcome-de-1)
+	- [x] [Sobutsch (2486m, 5:45h)](https://www.alpenvereinaktiv.com/de/tour/malga-e-cima-medalges-da-lungiaru/296841499): 🍽️ [Ütia Ciampcios](https://www.uetiaciampcios.com/welcome-de-1)
 
 ### [Wengen (La Valle)](https://www.openstreetmap.org/relation/47289)
 
@@ -78,8 +78,8 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 	- [ ] [Lang (6h)](https://www.alpenvereinaktiv.com/de/tour/seras/280545168/): 🍽️ Rifugio Passo Valparola
 	- [ ] [Kurz (4:40h)](https://www.alpenvereinaktiv.com/de/tour/da-passo-valparola-alla-cima-settsass/216031142/)
 - [ ] [Forcella di Lech (2486m, 4h)](https://www.alpenvereinaktiv.com/de/tour/col-de-locia-forcella-di-lech-lago-lagazuoi-e-rifugio-scotoni-da/282277315/): 🍽️ [Rifugio Scotoni](https://www.scotoni.it/en/)
-- [x] [Nuvolau (2575m, 3:20h)](https://www.alpenvereinaktiv.com/de/tour/escursione-ad-anello-dal-passo-falzarego-al-rifugio-nuvolau/117396078): 🍽️ [Rifugio Scoiattoli](https://www.rifugioscoiattoli.it/eng/), 🍽️ [Rifugio Averau](https://www.rifugioaverau.it/en/)
-- [ ] [Col di Lana - gesprengter Berg (2465m, 3:45h)](https://www.alpenvereinaktiv.com/de/tour/auf-den-gesprengten-berg-col-di-lana-2.465-m-und-monte-sief-2.425-m-/14462939/)
+- [x] [Nuvolau (2575m, 4:40h)](https://www.alpenvereinaktiv.com/de/tour/escursione-ad-anello-dal-passo-falzarego-al-rifugio-nuvolau/117396078): 🍽️ [Rifugio Scoiattoli](https://www.rifugioscoiattoli.it/eng/), 🍽️ [Rifugio Averau](https://www.rifugioaverau.it/en/)
+- [x] [Col di Lana (2465m, 6:00h)](https://www.alpenvereinaktiv.com/de/tour/auf-den-gesprengten-berg-col-di-lana-2.465-m-und-monte-sief-2.425-m-/14462939/)
 - [ ] [Tofana di Rozes (3177m, 4:30h)](https://www.alpenvereinaktiv.com/de/tour/dal-rifugio-dibona-alla-cima-della-tofana-di-rozes/249385919/): 🍽️ [Rifugio Giussani](https://www.rifugiogiussani.com/en/)
 
 ## Cordevole-Tal (Val Cordevole)
@@ -90,7 +90,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 ## [Passo di Giau](https://www.openstreetmap.org/node/141490497)
 
-- [ ] [Monte Cernera und Monte Verdal (2657m, 3h)](https://www.alpenvereinaktiv.com/de/tour/monte-cernera-2.664m-e-monte-verdal-2.491m/274067369/)
+- [x] [Monte Cernera und Monte Verdal (2657m, 4:40h)](https://www.alpenvereinaktiv.com/de/tour/monte-cernera-2.664m-e-monte-verdal-2.491m/274067369/)
 
 ## [Boitetal (Valle del Boite)](https://www.openstreetmap.org/way/1282488674)
 
