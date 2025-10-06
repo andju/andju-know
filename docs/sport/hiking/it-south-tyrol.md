@@ -94,4 +94,5 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 
 ## [Boitetal (Valle del Boite)](https://www.openstreetmap.org/way/1282488674)
 
-- [ ] [Around Croda da Lago (2466m, 4h)](https://www.alpenvereinaktiv.com/de/tour/around-croda-da-lago/807950277): 🍽️[Rifugio Croda da Lago](https://www.crodadalago.it/en/)
+- [ ] [Around Croda da Lago (2466m, 4h)](https://www.alpenvereinaktiv.com/de/tour/around-croda-da-lago/807950277): 🍽️ [Rifugio Croda da Lago](https://www.crodadalago.it/en/)
+- [ ] [Monte Pelmo (3168m, 10:00h)](https://www.alpenvereinaktiv.com/de/tour/monte-pelmo-3168m-normalweg-ueber-ballband/14684495/): 🍽️ [Rifugio Venezia](https://www.rifugiovenezia.it/) ⚠️ Kletterstellen im II. Grad
