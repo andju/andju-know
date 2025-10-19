@@ -59,7 +59,3 @@ docker-compose ls >nul 2>nul
 if %errorlevel%==1 goto waitloop
 ```
 
-## ROCm support
-
-The podman-machine-default is created based on a [Fedora](https://de.wikipedia.org/wiki/Fedora_(Linux-Distribution)) image ([source](https://docs.podman.io/en/latest/markdown/podman-machine-init.1.html)).
-While the [ROCm documentation](https://rocm.docs.amd.com/projects/radeon/en/latest/docs/install/wsl/install-radeon.html)  states that only Ubuntu is supported with WSL, there is a [guide](https://rocm.docs.amd.com/projects/radeon/en/latest/docs/install/native_linux/install-radeon.html) how to install it on RHEL (which is closely related to Fedora).
