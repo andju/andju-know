@@ -35,6 +35,8 @@ To get the ID of the entry "Automotive" in `Account.Industry` run:
 String industryId = picklistValue('Account', 'Industry', 'Automotive');
 ```
 
+For more options (including a Flow-only implementations), check [medium.com](https://medium.com/metadata-wizard/how-to-get-picklist-labels-in-salesforce-flow-f0b79fed6266).
+
 ## Test setup: Create records and setup entries
 When trying to create records (e.g. Accounts, Opportunities) and "setup entries" (e.g. Users, Custom Settings) in the `@testSetup` method, you will encounter the `MIXED_DML_OPERATION` error. The reason is, that it is not allowed to alter records of these two types in the same transaction. More details can be found on [developer.salesforce.com](https://developer.salesforce.com/docs/atlas.en-us.198.0.apexcode.meta/apexcode/apex_dml_non_mix_sobjects.htm).
 
