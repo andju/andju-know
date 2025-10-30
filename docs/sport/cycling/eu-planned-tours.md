@@ -14,7 +14,7 @@ published: true
 ### 🇨🇿 Czech Republic
 
 - [Trutnov - Kolín](https://bikerouter.de/#map=10/50.2920/15.5807/standard&lonlats=15.910901%2C50.564697%7C15.93009%2C50.457725%7C15.920048%2C50.379367%7C15.213146%2C50.024833&profile=trekking)
-- [Międzylesie 🇵🇱 - Břeclav 🇨🇿](https://bikerouter.de/#map=9/49.4538/16.6429/standard&lonlats=16.655767%2C50.143673%7C16.522409%2C49.62696%7C16.588294%2C48.895373%7C16.893534%2C48.754739&profile=trekking)
+- [Międzylesie 🇵🇱 - Břeclav 🇨🇿](https://bikerouter.de/#map=9/49.4533/16.7265/standard&lonlats=16.655767%2C50.143673%7C16.73355%2C49.544685%7C16.608319%2C49.19503%7C16.624519%2C49.099397%7C16.588253%2C48.895373%7C16.636637%2C48.807091%7C16.893534%2C48.754739&pois=16.608265%2C49.195135%2CBrno%7C16.636635%2C48.807088%2CZamek+Mikulov%7C16.588272%2C48.895331%2CMusov&profile=trekking)
 
 ### 🇵🇱 Poland
 
