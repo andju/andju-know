@@ -46,7 +46,7 @@ Traverse the remote roads and villages in the [Kłodzko Valley](https://en.wikip
 	- [Kłodzko Fortress](https://en.wikipedia.org/wiki/K%C5%82odzko_Fortress)
 
 ### Food and accommodation
-There are no real breakfast options in Międzylesie, but *Lody z Międzylesia Rodzinna Manufaktura*[^5] offers good coffee. *Polskie Smaki*[^6] in Polanica-Zdrój offers polish classics in good quality.  *Kavosh*[^7] in Kłodzko offers solid coffee, cakes and ice cream. The restaurant of *Hotel Bardo*[^8] offers very good dinner.
+There are no real breakfast options in Międzylesie, but *Lody z Międzylesia Rodzinna Manufaktura*[^5] offers good coffee. *Polskie Smaki*[^6] in Polanica-Zdrój serves polish classics in good quality.  You can get solid coffee, cakes and ice cream at *Kavosh*[^7] in Kłodzko. The restaurant of *Hotel Bardo*[^8] offers a very good dinner.
 
 *Hotel Bardo*[^8] is also a great option to stay overnight - making it worth the steep ascend right before the end. The apartment was spacious and clean. Bicycle storage: On the patio of the apartment (which is inside a "gated community").
 
@@ -76,7 +76,7 @@ After leaving Pieszyce, you will share the road with increased car traffic. It d
 	- [Cathedral of St. Stanislaus and St. Wenceslaus](https://en.wikipedia.org/wiki/%C5%9Awidnica_Cathedral)
 
 ### Food and accommodation
-The *Kavosh*[^9] in Ząbkowice Śląskie provides your caffeine fix. *Restauracja WARS*[^10] in Pieszyce is strongly recommended: Excellent polish classics for an even better price. The menu is written on a chalkboard and the staff doesn't speak English: So launch your favorite translation app and enjoy! There are plenty of Restaurants in Świdnica. *Restauracja Wieża*[^11] in  offers very good pizzas.
+The *Kavosh*[^9] in Ząbkowice Śląskie provides your caffeine fix. *Restauracja WARS*[^10] in Pieszyce is strongly recommended: Excellent polish classics for an even better price. The menu is written on a chalkboard and the staff doesn't speak English: So launch your favorite translation app and enjoy! There are plenty of Restaurants in Świdnica. *Restauracja Wieża*[^11] offers very good pizzas.
 
 You can also stay in one of the spacious rooms of the former water tower in which *Restauracja Wieża*[^11] is located. Bicycle storage: Behind the locked entry door (after the restaurant was closed).
 
@@ -86,7 +86,7 @@ You can follow a more relaxed [route](https://bikerouter.de/#map=11/50.6760/16.6
 If you arrive in Świdnica and want to extend the route, you can cycle to [Książ Castle](https://en.wikipedia.org/wiki/Ksi%C4%85%C5%BC_Castle) following [this route](https://bikerouter.de/#map=14/50.8568/16.3900/standard,Waymarked_Trails-Cycling&lonlats=16.486461%2C50.839487%7C16.335463%2C50.869329%7C16.293804%2C50.843152&profile=trekking) (19 km | 198 hm | +163 hm - return same way).
 
 ## Day 3: Wrocław
-If you are still feeling sporty and have enough time left (there is still a whole city to see) you can [cycle](https://bikerouter.de/#map=11/50.9749/16.7620/standard&lonlats=16.486466%2C50.839498%7C16.503192%2C50.902062%7C16.777947%2C51.03941%7C16.798718%2C51.069595%7C17.037939%2C51.109387&profile=trekking) (65 km | 63 hm | -117 hm) to Wrocław. Everyone else takes the [train](https://kolejedolnoslaskie.pl/) (you can buy the tickets online).
+If you're still feeling sporty and have time to spare (remember, there's is a whole city to explore) you can [cycle](https://bikerouter.de/#map=11/50.9749/16.7620/standard&lonlats=16.486466%2C50.839498%7C16.503192%2C50.902062%7C16.777947%2C51.03941%7C16.798718%2C51.069595%7C17.037939%2C51.109387&profile=trekking) (65 km | 63 hm | -117 hm) to Wrocław. Everyone else takes the [train](https://kolejedolnoslaskie.pl/) (you can buy the tickets online).
 
 ### Sights
 There are plenty of things to see: You can check [visitwroclaw.eu](https://visitwroclaw.eu/en) for an overview. Also the free walking tour from [Walkative!](https://freewalkingtour.com/wroclaw/old-town-wroclaw/) is highly recommended. Here are some of Wrocławs sights:
@@ -102,7 +102,7 @@ There are plenty of things to see: You can check [visitwroclaw.eu](https://visit
 ### Food
 There are lots of restaurants for every taste and budget.
 
-*Gniazdo*[^12] provides good breakfast options. You can find a few local restaurants in the market halls (near the main entrance), one of them being *Polskie Jadło*[^13]. You will need a translation app for the menu and order it at the counter - but you are rewarded with great value for a small price. On the opposite side of the market halls you will find a few small coffee shops. *Cafe Targowa*[^14] is one that I can personally recommend. To try as many different types of Pierogi as possible, check *Pierogarnia Stary Młyn*[^15].
+*Gniazdo*[^12] provides good breakfast options. You can find a couple of local restaurants in the market halls (near the main entrance), one of them being *Polskie Jadło*[^13]. You will need a translation app for the menu and order it at the counter - but you are rewarded with great value for a small price. On the opposite side of the market halls you will find a few small coffee shops. *Cafe Targowa*[^14] is one that I can personally recommend. To try as many different types of Pierogi as possible, check *Pierogarnia Stary Młyn*[^15].
 
 [^1]: Café Imperial, Na Poříčí 1072/15, 110 00 Petrská čtvrť
 
