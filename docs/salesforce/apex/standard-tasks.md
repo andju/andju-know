@@ -4,7 +4,7 @@ published: true
 # Standard tasks
 Snippets that will execute and monitor standard (recurring) tasks.
 
-## Apex Tests
+## Run Apex Tests
 CLI command to run the test classes `Class1_Test` and `Class2_Test` (including code coverage):
 
 ```shell
@@ -17,7 +17,7 @@ SOQL query (on [ApexTestRunResult](https://developer.salesforce.com/docs/atlas.e
 SELECT Id, ClassesEnqueued, ClassesCompleted, MethodsCompleted, MethodsFailed, EndTime, Status FROM ApexTestRunResult WHERE AsyncApexJobId = ''
 ```
 
-## Batch Apex
+## Run Batch Apex
 Anonymous Apex to run the (batchable) class `BatchableApexClass` with a batch size of 200:
 
 ```java
