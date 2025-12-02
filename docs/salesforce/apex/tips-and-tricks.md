@@ -37,6 +37,15 @@ String industryId = picklistValue('Account', 'Industry', 'Automotive');
 
 For more options (including a Flow-only implementations), check [medium.com](https://medium.com/metadata-wizard/how-to-get-picklist-labels-in-salesforce-flow-f0b79fed6266).
 
+## Record Type ID
+To obtain the ID of a record type (by its developer name) without using a SOQL query (governor limits!), you can use the following command ([source](https://trailhead.salesforce.com/trailblazer-community/feed/0D54V00007T4EIeSAN)):
+
+```java
+Id prospectRt = SObjectType.Account.getRecordTypeInfosByDeveloperName().get('End_Customer').getRecordTypeId();
+```
+
+If you are trying to query a record type that does not exist (on the specified object) you will receive the error: `static can only be used on fields of a top level type`.
+
 ## Test setup: Create records and setup entries
 When trying to create records (e.g. Accounts, Opportunities) and "setup entries" (e.g. Users, Custom Settings) in the `@testSetup` method, you will encounter the `MIXED_DML_OPERATION` error. The reason is, that it is not allowed to alter records of these two types in the same transaction. More details can be found on [developer.salesforce.com](https://developer.salesforce.com/docs/atlas.en-us.198.0.apexcode.meta/apexcode/apex_dml_non_mix_sobjects.htm).
 
