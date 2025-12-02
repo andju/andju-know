@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-# Test callouts
+# Testing callouts
 The following mock classes help testing Apex code that makes (asynchronous) callouts, by tracking the requests that have been sent during the test. They allow you to assert that the request content is as expected.
 
 > [!important] Test setup
