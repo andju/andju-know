@@ -29,6 +29,15 @@ Helpful links:
 - [Garmin Watch Optical Heart Rate Accuracy Tips](https://support.garmin.com/en-US/?faq=xQwjQjzUew4BF1GYcusE59)
 - [Can I Copy or Back Up My Information and Settings on My Garmin Device?](https://support.garmin.com/en-US/?faq=AXV7LuWgc73v21nq6nbDa6)
 
+### Boot loop
+If the watch is stuck in a boot loop, it can be factory reset the following way (based on [androidauthority.com](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/)):
+
+1. Power off the watch by holding the *Light* button (top left) for up to thirty seconds.
+2. Press and hold the *Back* button (bottom right) and *Start/Stop* button (top right).
+3. Press the *Light* button briefly to power on the watch while holding the other buttons.
+4. On a beep, release the *Start/Stop* button.
+5. Once the second beep, release the *Back* button.
+
 ### Wrong altitude in the morning
 **Problem:** The watch calibrates the altitude every night. If your phone is not connected (e.g. in flight mode) and you slept at different altitudes in the last days (e.g. during travel) the altitude might be calibrated to a wrong level. This even happens if it was correct when you went to bed.
 
