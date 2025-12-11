@@ -27,7 +27,11 @@ Helpful links:
 
 - [Owner's manual](https://www8.garmin.com/manuals/webhelp/GUID-E5C62F3F-DCE3-4197-8CA5-E419B2A55D12/EN-US/GUID-CA57BF17-793A-403C-B89E-F7B2E93D340A-homepage.html)
 - [Garmin Watch Optical Heart Rate Accuracy Tips](https://support.garmin.com/en-US/?faq=xQwjQjzUew4BF1GYcusE59)
-- [Can I Copy or Back Up My Information and Settings on My Garmin Device?](https://support.garmin.com/en-US/?faq=AXV7LuWgc73v21nq6nbDa6)
+
+### Backup and restore
+When connected to a PC, the watch will mount as an MTP-device and its files can be copied to a backup location. A lot of things can be restored (e.g. after a factory reset) by copying the various .fit files in the backup to the folder `Newfiles` on the watch. The watch will automatically restore the information.
+
+The article "[Can I Copy or Back Up My Information and Settings on My Garmin Device?](https://support.garmin.com/en-US/?faq=AXV7LuWgc73v21nq6nbDa6)" describes the details. The restore functionality is not limited to the information mentioned in the article. E.g. Activities, HRV data, and sleep information can also be restored.
 
 ### Boot loop
 If the watch is stuck in a boot loop, it can be factory reset the following way (based on [androidauthority.com](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/)):
