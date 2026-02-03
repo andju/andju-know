@@ -33,9 +33,10 @@ I especially like that:
 ## Configuration and usage
 
 I recommend the following OCR Settings:
-	1. Output Type: `pdfa`
-	2. Language: `deu+eng`
-	3. Deskew: Experiment with this setting - for some documents it improves the quality, other are skewed a bit more.
+
+1. Output Type: `pdfa`
+2. Language: `deu+eng`
+3. Deskew: Experiment with this setting - for some documents it improves the quality, other are skewed a bit more.
 
 To get started, copy a document into the folder `consume`. It will be added to the document management and you can edit the metadata in the browser.
 
@@ -43,6 +44,7 @@ You can find further advice in this [this article 🇩🇪](https://itv4.de/pape
 
 ## Features
 Configure advanced features to make document handling and usage even simpler.
+
 ### Document splitting
 If your scanner has an automatic document feeder (ADF) to scan multiple pages at once, you can scan multiple pages and let paperless-ngx "split" them into separate documents.
 
@@ -62,6 +64,7 @@ PAPERLESS_CONSUMER_BARCODE_SCANNER=ZXING
 ```
 
 When you scan documents, put the QR-code page(s) where you want to split the documents.
+
 ### Double-sided documents
 If your scanner has an automatic document feeder (ADF) but does not support duplex-scanning, you can scan multiple documents on both sides and let paperless-ngx handle the merging.
 
@@ -81,6 +84,7 @@ The process is the following:
 > You can combine the functionality with [document splitting](#document-splitting).
 
 You can find more information on [paperless-ngx.com](https://docs.paperless-ngx.com/advanced_usage/#collate).
+
 ### Auto-login
 
 If you want to avoid typing user name and password every time you open paperless-ngx, you can configure automatic login.
