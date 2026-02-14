@@ -8,6 +8,7 @@ published: true
 The power of modern programming languages stems from the possibility to re-use functionality provided by other programmers. With Python they can be installed in form of packages. The more of these packages your project depends on, the more important dependency management becomes.
 
 While there are many different tools (uv, poetry, etc.), I haven't found one that fulfills my requirements:
+
 1. Be able to update the dependencies in my dev environment to their latest versions
 2. Pin a dependency to a specific version (if needed)
 3. A distribution file (sdist or wheel) should be locked to the dependency versions used at build time
@@ -17,22 +18,27 @@ For my personal projects I am using the following setup, based on [pip-tools](ht
 ## Preparation
 
 In the project folder, create:
+
 1. A virtual environment (`venv`).
 2. A `requirements.in` file with the project dependencies (in the format of a `requirements.txt` file). Do not specify dependency versions in this file, unless you need a specific one.
+3. Feel free to add additional .in files (e.g. `dev-requirements.in` for development-only dependencies).
+4. A `pyproject.toml` file with the content specified below (you will want to add additional information, like project name and version):
+
+`requirements.in`:
 
 ```
 pandas==3.0.0
 jupyter
 ```
 
-3. Feel free to add additional .in files (e.g. `dev-requirements.in` for development-only dependencies).
+`dev-requirements.in`:
 
 ```
 build
 pytest
 ```
 
-4. A `pyproject.toml` file with the following content (you will want to add additional information, like project name and version):
+`pyproject.toml`:
 
 ```toml
 [build-system]
@@ -51,8 +57,9 @@ dependencies = { file = ["requirements.txt"] }
 The solution is based on centrally defined PowerShell that can be called for any project. The project-specific settings are defined in an `.env` file in the root folder.
 
 Create a `.env` file in the project folder with the following content:
-	1. `VENV_DIR_NAME`: The name of the virtual environment folder (created in step 1 of the Preparation).
-	2. `REQUIREMENTS_FILES`: The (comma-separated) names of the .in files (created in step 2 of the Preparation).
+
+1. `VENV_DIR_NAME`: The name of the virtual environment folder (created in step 1 of the Preparation).
+2. `REQUIREMENTS_FILES`: The (comma-separated) names of the .in files (created in step 2 of the Preparation).
 
 ```env
 VENV_DIR_NAME=venv
@@ -97,14 +104,14 @@ To update the dependencies of a project, call the script from the project's root
 
 If you want to install the dependencies from existing .txt files without updating them (e.g. when moving to a new Computer), run the following command:
 
-```shell
+```powershell
 .\UpdateDependencies.ps1 -InstallOnly
 ```
 
 ### Build
 To build an sdist package run the following PowerShell script:
 
-```shell
+```powershell
 venv\scripts\Activate.ps1;
 python -m build -s;
 deactivate;
@@ -158,7 +165,7 @@ To update the dependencies of a project, call the script from the project's root
 
 If you want to deploy an already built distribution file, run the following command:
 
-```shell
+```powershell
 .\BuildAndDeployLocal.ps1 -DeployOnly
 ```
 
