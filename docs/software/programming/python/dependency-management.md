@@ -86,7 +86,7 @@ $InFiles = $EnvVar.REQUIREMENTS_FILES  -split ',';
 # Activate the venv.
 & ".\$($EnvVar.VENV_DIR_NAME)\Scripts\Activate.ps1";
 # Upgrade pip.
-python -m pip install --upgrade pip==25.3;
+python -m pip install --upgrade pip;
 # Upgrade pip-tools.
 pip install -U --require-virtualenv pip-tools;
 if (!$InstallOnly) {
