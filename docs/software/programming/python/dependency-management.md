@@ -20,9 +20,8 @@ For my personal projects I am using the following setup, based on [pip-tools](ht
 In the project folder, create:
 
 1. A virtual environment (`venv`).
-2. A `requirements.in` file with the project dependencies (in the format of a `requirements.txt` file). Do not specify dependency versions in this file, unless you need a specific one.
-3. Feel free to add additional .in files (e.g. `dev-requirements.in` for development-only dependencies).
-4. A `pyproject.toml` file with the content specified below (you will want to add additional information, like project name and version):
+2. A `requirements.in` file with the project dependencies (in the format of a `requirements.txt` file). Do not specify dependency versions in this file, unless you need a specific one. Feel free to add additional .in files (e.g. `dev-requirements.in` for development-only dependencies).
+3. A `pyproject.toml` file with the content specified below (you will want to add additional information, like project name and version):
 
 `requirements.in`:
 
@@ -54,7 +53,7 @@ dependencies = { file = ["requirements.txt"] }
 
 ## Generic
 
-The solution is based on centrally defined PowerShell that can be called for any project. The project-specific settings are defined in an `.env` file in the root folder.
+The solution is based on centrally defined PowerShell scripts that can be called for any project. The project-specific settings are defined in an `.env` file in the project's root folder.
 
 Create a `.env` file in the project folder with the following content:
 
@@ -177,7 +176,7 @@ The scripts can be added in PyCharm as [run/debug configurations﻿](https://www
 - Working directory: `$ProjectFileDir$`
 
 ## Visual Studio Code
-The functionality for building and locally deploying projects are defined as user tasks while the project-specific properties are defined as workspace settings.
+The functionality for building and locally deploying projects is defined as user tasks and the project-specific properties as workspace settings.
 ### settings.json
 Open `.vscode\settings.json` via: `Ctrl + Shift + P` > Preferences: Open Workspace Settings (JSON). Add the following entries:
 - `local_deployment_target`
