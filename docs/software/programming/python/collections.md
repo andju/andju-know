@@ -1,7 +1,8 @@
 ---
 published: true
 ---
-# Python Collections
+# Collections
+An overview of Python collections and their properties:
 
 | **Name**                                                                                              | Type     | **Mutable** | **Ordered** | **Compares Order** |      **Hashable**      | **Comments**                                |
 | ----------------------------------------------------------------------------------------------------- | -------- | :---------: | :---------: | :----------------: | :--------------------: | ------------------------------------------- |

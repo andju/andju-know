@@ -60,7 +60,7 @@ while i < len(denominator):
     i += 1
 ```
 
-## Function Decorator
+## Function decorator
 
 ```python
 import functools
