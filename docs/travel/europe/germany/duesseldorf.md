@@ -3,6 +3,7 @@ published: true
 ---
 # Düsseldorf
 Off the beaten path destinations in and around Düsseldorf:
+
 - Düsseldorf
 	- [x] Kaiserswerth
 - West of Düsseldorf
@@ -30,4 +31,5 @@ Off the beaten path destinations in and around Düsseldorf:
 	- [ ] Koblenz
 
 Links:
+
 - [Ausflugsziele Düsseldorf in der Umgebung](https://travel-du.de/4619/ausflugsziele-duesseldorf-umgebung/)
