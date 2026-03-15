@@ -21,7 +21,7 @@ Examples of generic package.xml files:
 - [Salesforce Diaries](https://salesforcediaries.com/2019/09/09/xml-package-to-retrieve-metadata-from-org/)
 
 > [!caution] Large package.xml files
-> The Metadata API [limits](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_metadata.htm) the number of files in the retrieve-result is to 10 000.
+> The Metadata API [limits](https://developer.salesforce.com/docs/atlas.en-us.salesforce_app_limits_cheatsheet.meta/salesforce_app_limits_cheatsheet/salesforce_app_limits_platform_metadata.htm) the retrieve-result to 10 000 files and 600 MB (or 39 MB if downloaded as zip-file).
 
 ### Profiles
 If a package.xml file includes only the type Profiles, it won't download the complete profile files: Sections like `pageAccesses`, `fieldPermissions` and `tabVisibilities` will be missing. In order for these to be included, additional metadata needs to be downloaded.
