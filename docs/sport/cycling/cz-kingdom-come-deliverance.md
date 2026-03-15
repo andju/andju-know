@@ -58,7 +58,8 @@ While it's great that the area is untouristed, finding a place to eat can be tri
 Also accommodations are sparse - but fortunately *Hotel Ostende*[^7] offers good value for the price. Bicycle storage: In the courtyard.
 
 ## Day 2: Chocerady - Týnec nad Sázavou
-Continue along the river Sazava.
+Another day, another (optional) "warm-up" climb to a Castle. After that, you're ready to follow the gentle curves of the Sázava river.
+
 ### Sights
 - [Komorní Hrádek Chateau](https://en.wikipedia.org/wiki/Komorn%C3%AD_Hr%C3%A1dek): Started as a castle built by Radzig Kobyla. You can only see the outside, since it is used by the military.
 - Ruins of [Zlenice Castle](https://cs.wikipedia.org/wiki/Zlenice_(hrad))
