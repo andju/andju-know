@@ -10,7 +10,7 @@ Off the beaten path destinations in and around Düsseldorf:
 	- [ ] Schloss Dyck
 	- [ ] Bolten Brauerei (oldest brewery in the world)
 	- [ ] [Liedberg](http://schloss-liedberg.de/ort-liedberg.html)
-	- [x] Tongeren (Belgien)
+	- [x] Tongeren 🇧🇪
 - East of Düsseldorf
 	- [ ] [Schloss Burg](https://de.wikipedia.org/wiki/Schloss_Burg)
 	- [x] Gruiten Dorf
