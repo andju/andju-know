@@ -29,3 +29,9 @@ After right-clicking on an image in an entry (and moving the mouse) or attemptin
 
 #### Workaround
 Disable hardware acceleration by starting the application with `java -Dsun.java2d.noddraw=true -jar datacrow-client-5.0.0.jar` ([source](https://superuser.com/questions/373290/disable-java-hardware-acceleration-in-windows)).
+
+## 🪲 OpenCL applications crash on startup
+Some applications that uses OpenCL crash on startup (confirmed for Adrenalin graphics driver versions 26.5.2 and later).
+
+### [Darktable](https://www.darktable.org/)
+The Workaround is to launch the program with `darktable.exe --disable-opencl` .
