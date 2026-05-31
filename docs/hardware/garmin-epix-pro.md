@@ -46,3 +46,8 @@ If the watch is stuck in a boot loop, it can be factory reset the following way 
 **Problem:** The watch calibrates the altitude every night. If your phone is not connected (e.g. in flight mode) and you slept at different altitudes in the last days (e.g. during travel) the altitude might be calibrated to a wrong level. This even happens if it was correct when you went to bed.
 
 **Solution:** Calibrate the altitude [manually](https://www8.garmin.com/manuals/webhelp/GUID-E5C62F3F-DCE3-4197-8CA5-E419B2A55D12/EN-US/GUID-BC734846-01A7-4F33-86D4-DFBDBC06CDB4.html)  (Use DEM). It works best if you are doing this before you go to sleep, outside and on ground level. You might have to open Garmin Connect on your phone during the calibration.
+
+### Crash and re-boot
+**Problem:** The watch re-boots after e.g. disconnecting the charging cable or when starting an activity.
+
+**Solution:** This behavior may have multiple root causes. However, I successfully resolved it in two cases by deleting activity (.fit) files from the watch. In both cases, there were about 100 activities stored on the device.
