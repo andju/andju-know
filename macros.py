@@ -95,7 +95,7 @@ def define_env(env):
             A markdown-formatted bullet list of links as a string.
         """
         items = page.parent.children if page.parent else navigation.items
-        lines = []
+        lines = ["---"]
         for item in items:
             if item.is_page and item != page:
                 url = resolve_url(item, page)
@@ -104,4 +104,5 @@ def define_env(env):
                 target = first_page(item)
                 url = resolve_url(target, page) if target else "#"
                 lines.append(f"- [{resolve_title(item)}]({url})")
+        lines.append("---")
         return "\n".join(lines)
