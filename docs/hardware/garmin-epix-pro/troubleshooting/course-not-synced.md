@@ -2,12 +2,12 @@
 published: true
 ---
 # Course not synced
-You plan a route, tap **Send to Device**, the app cheerfully tells you it will be on your watch after the next sync - and then nothing. The watch is connected. Notifications work. The sync animation runs. But `Navigation → Courses` stays exactly as empty as it was yesterday. No error, no warning, no clue.
+You plan a course (or a structured training), tap **Send to Device**, the app cheerfully tells you it will be on your watch after the next sync - and then nothing. The watch is connected. Notifications work. The sync animation runs. But `Navigation → Courses` stays exactly as empty as it was yesterday. No error, no warning, no clue.
 
 If you use a Garmin watch deliberately _offline_ - sync to Garmin Connect disabled - you are more likely to run into this situation.
 
 > [!info] Synchronization
-> Garmin does not document the internals of its sync pipeline, so the mechanism described here is inferred from reproducible external behavior - not from source code. The fix, however, is reproducible, and that is what counts at 6 a.m. when the route is supposed to be on your wrist.
+> Garmin does not document the internals of its sync pipeline, so the mechanism described here is inferred from reproducible external behavior - not from source code. The fix, however, is reproducible, and that is what counts at 06:00 when the course is supposed to be on your wrist.
 
 ## How Synchronization works
 The important thing to understand: **"Send to Device" is not a direct transfer.** Nothing is pushed the moment you tap it. The item is placed in a queue, and that queue is only drained during a regular device sync - the same sync session that pulls new activity files off the watch, updates settings, and pushes the weather.
@@ -24,6 +24,18 @@ The failure mode is the _silent_ disconnect. When you walk away under the same c
 There is a second deduction worth spelling out: **this state survives force-closing the app or rebooting the phone.** If it did not, killing the app would fix it — and it doesn't. So the wedged sync state is not merely in memory; it lives in the app's local, per-account device data. Which is precisely why the fix below works and the usual advice (toggle Bluetooth, restart the phone, restart the watch) does not.
 
 ## How to Fix It
-To fix this issue, **Log out of the Garmin Connect app, then log back in**. After logging in, the app will drop you into a **"searching for your device"** screen. You do not need it - your watch is already paired at the operating-system level and registered to your account. **Close the app and reopen it**, and it will come up with the device already in place.
+To fix this issue, you need to **make the sync fail**. Once you see the "Sync Failed" message, you can try to send the course again.
 
-Logging out tears down the local account session together with the cached device state and its pending transfer queue; logging back in rebuilds a clean one, and the next sync delivers everything you sent in the meantime.
+It is worth trying to **log out of the Garmin Connect app, then log back in**. After logging in, the app will drop you into a **"searching for your device"** screen. You do not need it - your watch is already paired at the operating-system level and registered to your account. **Close the app and reopen it**, and it will come up with the device already in place.
+
+> [!info] Why logging out should work
+> Logging out tears down the local account session together with the cached device state and its pending transfer queue; logging back in rebuilds a clean one, and the next sync delivers everything you sent in the meantime.
+
+The much heavier approach (that always worked so far), is:
+
+1. Log out of the Garmin Connect app
+2. In the Bluetooth settings of your phone: Delete the paired connection to the watch 
+3. Uninstall the Garmin Connect app
+4. Reboot your phone
+5. Reboot the watch
+6. Install the Garmin Connect app and follow the instructions to pair the watch
