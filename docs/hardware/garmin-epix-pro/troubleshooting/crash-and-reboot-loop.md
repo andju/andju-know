@@ -28,6 +28,10 @@ The theory is straightforward: as the number of `.fit` files builds up, somethin
 If you're dealing with random reboots and haven't checked your on-device activity count in a while, it's a five-minute troubleshooting step that's worth trying before anything more drastic.
 
 ## End a Boot Loop by Factory Reset
+
+> [!danger] Data loss
+> A factory reset will erase data stored on the watch, so use this only as a last resort once you've backed up what you can.
+
 If the reboots have escalated to the point where the watch is stuck in a continuous boot loop and won't respond normally, you can force a factory reset using a button combination. This method comes from [androidauthority.com](https://www.androidauthority.com/garmin-smartwatches-bootloop-issue-3520875/):
 
 1. Power off the watch by holding the **Light** button (top left) for up to thirty seconds.
@@ -35,5 +39,3 @@ If the reboots have escalated to the point where the watch is stuck in a continu
 3. Press the **Light** button briefly to power on the watch while holding the other buttons.
 4. On a beep, release the **Start/Stop** button.
 5. Once the second beep, release the **Back** button.
-
-Keep in mind that a factory reset will erase data stored on the watch, so use this only as a last resort once you've backed up what you can.
