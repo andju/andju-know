@@ -80,3 +80,5 @@ plugins:
   - mkdocs-simple-hooks:
       hooks:
         on_page_markdown: "docs.hooks:fix_markdown_spacing"
+  - macros:
+      module_name: macros
