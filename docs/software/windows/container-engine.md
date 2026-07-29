@@ -1,5 +1,6 @@
 ---
 published: true
+render_macros: false
 ---
 # Container engine
 A container engine (based on WSL2) allows to run software in an isolated environment. I recommend either [Docker](https://docs.docker.com/desktop/setup/install/windows-install/) or [Podman](https://developers.redhat.com/articles/2023/09/27/how-install-and-use-podman-desktop-windows).
