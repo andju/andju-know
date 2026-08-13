@@ -109,16 +109,20 @@ Include the entire paperless-ngx folder in your backup strategy. The documents (
 
 #### Database backup (Document exporter)
  The easiest way to backup the database, is to use the [document exporter](https://docs.paperless-ngx.com/administration/#exporter). The following command creates the backup `pgbackup.zip` in the folder `export`:
+ 
 ```shell
 podman compose exec -T webserver document_exporter ../export --data-only -z -zn pgbackup
 ```
+
 To restore the backup, extract the file `pgbackup.zip` into the folder `export` and run:
+
 ```shell
 podman compose exec -T webserver document_importer ../export --data-only
 ```
 
 #### Database backup (Volume)
 Another way is to backup the entire volume containing the database. Assuming the volume is named `paperless_pgdata` and you want to backup into the subfolder `backup`, you run:
+
 ```shell
 podman run --rm -v "paperless_pgdata:/data" -v "%~dp0/backup:/backup-dir" ubuntu tar cvzf /backup-dir/pgdata.tar.gz /data
 ```
@@ -137,6 +141,8 @@ New versions of PostgreSQL are not compatible with old data files. Therefore you
 6. Update the image: `podman compose pull`
 7. Start paperless-ngx: `podman compose up -d`
 8. Restore the database as described in [Database backup (Document exporter)](#database-backup-document-exporter))
+
+If paperless-ngx reports a *Bad Request (400)* error after the database update, clear existing sessions by deleting the broker cache volume (usually paperless_redisdata) in Podman.
 
 ### Direct database access
 If you used the `docker-compose.yml` file from my repository, it includes `pgadmin`. This makes it possible to directly access the paperless-ngx database:
