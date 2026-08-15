@@ -21,7 +21,7 @@ Cycle through the rural countryside until you start following the river in Taufk
 
 ### Sights
 
-- [Taufkirchen Palace](https://en.wikipedia.org/wiki/Wasserschloss_Taufkirchen)
+- [Taufkirchen Castle](https://en.wikipedia.org/wiki/Wasserschloss_Taufkirchen)
 - [Velden (Vils)](https://de.wikipedia.org/wiki/Velden_(Vils))
 	- [Marketplace](https://de.wikipedia.org/wiki/Marktplatz_Velden_(Vils))
 - [Vilsbiburg](https://en.wikipedia.org/wiki/Vilsbiburg) town square

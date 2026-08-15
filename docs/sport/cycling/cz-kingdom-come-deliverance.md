@@ -13,21 +13,13 @@ But even non-players will enjoy the bike ride through the beautiful, scarcely po
 > 
 > Dest.: 🚉 [Týnec n. Sázavou](https://www.openstreetmap.org/#map=16/49.83423/14.59328), 1:30h by [train](https://www.cd.cz/)  from Prague
 
-|                          | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 | GPX                                                                                            | Distance | Ascend | Net Ascend |
-| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
-| Day 1: Chocerady         | [bikerouter.de](https://bikerouter.de/#map=13/49.8527/14.8961/standard&lonlats=14.929849%2C49.809199%7C14.926348%2C49.808534%7C14.943509%2C49.816503%7C14.945869%2C49.817718%7C14.944367%2C49.828104%7C14.954109%2C49.842418%7C14.95839%2C49.841961%7C14.989343%2C49.857336%7C14.972895%2C49.872054%7C14.955515%2C49.866534%7C14.896592%2C49.876999%7C14.906827%2C49.87516%7C14.895272%2C49.870222%7C14.857271%2C49.888676%7C14.859513%2C49.895934%7C14.845115%2C49.896113%7C14.804203%2C49.870517&pois=14.954646%2C49.840973%2CPirkstein%7C14.957432%2C49.842063%2CUpper+Castle%7C14.973858%2C49.872278%2CUzhitz%7C14.955335%2C49.866564%2CTalmberg%7C14.897367%2C49.877076%2CSasau+Monastery%7C14.895243%2C49.870217%2CSt.+Martin%7C14.859567%2C49.895934%2CRovna%7C14.845075%2C49.896103%2CSkalitz&profile=trekking) | [:material-file-download:](Český%20Šternberk%20-_%20Chocerady%20-%2041.5%20km,%20507%20hm.gpx) | 41.5 km  | 507 hm | -24 hm     |
-| Day 2: Týnec nad Sázavou | [bikerouter.de](https://bikerouter.de/#map=13/49.8593/14.6991/osm-mapnik-german_style&lonlats=14.80415%2C49.870577%7C14.799287%2C49.867591%7C14.794335%2C49.872395%7C14.744784%2C49.884555%7C14.691682%2C49.861228%7C14.596681%2C49.835533%7C14.592526%2C49.834172&profile=trekking)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | [:material-file-download:](Chocerady%20-_%20Petzerad%20-%2025.2%20km,%20220%20hm.gpx)          | 25.5 km  | 220 hm | -11 hm     |
+|                          | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   | GPX                                                                                            | Distance | Ascend | Net Ascend |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | -------- | ------ | ---------- |
+| Day 1: Chocerady         | [bikerouter.de](https://bikerouter.de/#map=12/49.8526/14.8961/standard&lonlats=14.929849,49.809199;14.926348,49.808534;14.943509,49.816503;14.945869,49.817718;14.944367,49.828104;14.954109,49.842418;14.95839,49.841961;14.989343,49.857336;14.972895,49.872054;14.955515,49.866534;14.896592,49.876999;14.906827,49.87516;14.895272,49.870222;14.857271,49.888676;14.859513,49.895934;14.845115,49.896113;14.804203,49.870517&pois=14.954646,49.840973,Pirk%C5%A1tejn+Castle;14.957432,49.842063,Rataje+Castle;14.973858,49.872278,U%C5%BEice+Church;14.955335,49.866564,Talmberk;14.897367,49.877076,S%C3%A1zava+Monastery;14.895243,49.870217,St.+Martin+Church;14.859567,49.895934,Rovn%C3%A1;14.845075,49.896103,St%C5%99%C3%ADbrn%C3%A1+Skalice&profile=trekking) | [:material-file-download:](Český%20Šternberk%20-_%20Chocerady%20-%2041.5%20km,%20507%20hm.gpx) | 41.5 km  | 507 hm | -24 hm     |
+| Day 2: Týnec nad Sázavou | [bikerouter.de](https://bikerouter.de/#map=13/49.8594/14.6992/standard&lonlats=14.80415,49.870577;14.799287,49.867591;14.794335,49.872395;14.744784,49.884555;14.691682,49.861228;14.596681,49.835533;14.592526,49.834172&profile=trekking)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | [:material-file-download:](Chocerady%20-_%20Petzerad%20-%2025.2%20km,%20220%20hm.gpx)          | 25.5 km  | 220 hm | -11 hm     |
  
 ## Day 0: Prague
-The "Golden City" became one of the most important cities under Charles IV. Today it is one of the most beautiful European cities.
-
-### Sights
-There are plenty of sights as well as guide books, blogs and websites describing them.
-
-### Food and accommodation
-Even though there are plenty of eating places in the city, there are many tourist traps (multi-language menus are a bad sign). A good restaurant in the city is *Restaurace Pod Petřínem*[^1]. You can also head out to the neighborhood of Žižkov which is less-touristy. Here you will find e.g. the restaurant *U Sadu*[^2].
-
-The *Exe City Park*[^3] hotel is conveniently located across the street from the main station, offers nice rooms and good breakfast. Bicycle storage: In an empty (locked) conference room.
+See [Prague](prague.md).
 
 ## Day 1: Český Šternberk - Chocerady
 Start with a "warm-up" by cylcing up to Český Šternberk Castle before entering the game world.
@@ -38,24 +30,24 @@ If you want to do a day-trip, take a train from Chocerady back to Prague (1.5 ho
 
 ### Sights
 
-- [Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle): Great view
+- [Český Šternberk Castle](https://en.wikipedia.org/wiki/%C4%8Cesk%C3%BD_%C5%A0ternberk_Castle) with its great view
 - [Rataje nad Sázavou](https://en.wikipedia.org/wiki/Rataje_nad_S%C3%A1zavou)
 	- Pirkštejn Castle
 	- Rataje Castle
-- Church of Užice[^4]
+- Užice Church[^1]
 - [Talmberk](https://en.wikipedia.org/wiki/Talmberk)
-	- Ruins of Castle: If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
+	- Ruins of the Castle: If you want to see the ruins, the path passes by a beekeeper's house. The bees might seem a bit scary, but they are not aggressive. Plus: You can buy honey.
 - [Sázava](https://en.wikipedia.org/wiki/S%C3%A1zava_(town))
 	- [Monastery](https://en.wikipedia.org/wiki/S%C3%A1zava_Monastery "Sázava Monastery")
-	- St. Martin's church
+	- St. Martin Church
 - [Stříbrná Skalice](https://en.wikipedia.org/wiki/St%C5%99%C3%ADbrn%C3%A1_Skalice)
-	- Church of Rovná[^4]
-	- Church of Saint John of Nepomuk: Stands on the site of the former castle
+	- Rovná Church[^1]
+	- Saint John of Nepomuk Church: Stands on the site of the former castle
 
 ### Food and accommodation
-While it's great that the area is untouristed, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna*[^5] near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h (e.g. in *Hospůdka Pod Hrádkem*[^6]).
+While it's great that the area is non-touristy, finding a place to eat can be tricky. You can have lunch at *Sázavská Kozlovna*[^2] near the train station in Sázava and I recommend going for dinner in Chocerady before ~19:00h (e.g. in *Hospůdka Pod Hrádkem*[^3]).
 
-Also accommodations are sparse - but fortunately *Hotel Ostende*[^7] offers good value for the price. Bicycle storage: In the courtyard.
+Also accommodations are sparse - but fortunately *Hotel Ostende*[^4] offers good value for the price. Bicycle storage: In the courtyard.
 
 ## Day 2: Chocerady - Týnec nad Sázavou
 Another day, another (optional) "warm-up" climb to a Castle. After that, you're ready to follow the gentle curves of the Sázava river.
@@ -107,16 +99,11 @@ Translated from [hradec1.cz🇨🇿](https://www.hradec1.cz/minulost-zanikle-osa
 > 
 > As can be seen from the list of data, we have not preserved much about this extinct medieval village, later the settlement and recently in solitude, so it is necessary to constantly remember these fragments. If you would like to learn more about Přibyslavice, get the publication Sázavsko number 13, where the above-mentioned article by Soni Hendrychová is published, or visit the current Přibyslavice straight away. One never knows whether he will see what he sees today in a few years. An example is the experience of the author of the article, who did the first prospection of Přibyslavice in 2006, when it could be noticed in the field disproportionately more than a year later, when the forest road passing through the settlement was extended from two to four meters and objects a year ago buried.
 
-[^1]: Restaurace Pod Petřínem, Hellichova 5, 118 00 Malá Strana
+[^1]: Was closed - if you want to see the inside, check for opening hours
 
-[^2]: U Sadu, Škroupovo nám. 1282/5, 130 00 Praha 3-Žižkov
+[^2]: Sázavská Kozlovna, Gen. Vedrala Sázavského 420, 285 06 Sázava
 
-[^3]: Exe City Park, Opletalova 960/33, 110 00 Nové Město
+[^3]: Hospůdka Pod Hrádkem, Chocerady 4, 257 24 Chocerady
 
-[^4]: Was closed - if you want to see the inside, check for opening hours
+[^4]: Hotel Ostende, Chocerady 83, 257 24 Chocerady
 
-[^5]: Sázavská Kozlovna, Gen. Vedrala Sázavského 420, 285 06 Sázava
-
-[^6]: Hospůdka Pod Hrádkem, Chocerady 4, 257 24 Chocerady
-
-[^7]: Hotel Ostende, Chocerady 83, 257 24 Chocerady
