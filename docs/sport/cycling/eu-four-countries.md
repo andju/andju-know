@@ -42,7 +42,7 @@ Pass through countryside and villages before following the river March and turni
 
 - [Břeclav Castle](https://en.wikipedia.org/wiki/B%C5%99eclav#Sights)
 - Remains of the [Czechoslovak border fortifications](https://en.wikipedia.org/wiki/Czechoslovak_border_fortifications): Along the Slovakian side of the March
-- [Vŕšok](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): 🛑 I couldn't find any information whether it is allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
+- [Vŕšok Watch Tower](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): 🛑 I couldn't find any information whether it is allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
 ### Food and accommodation
 There are not many options for food along the route - I recommend to have breakfast in Brno. *Dobrota kafe*[^3] in Břeclav offers very good coffee and sweet pastries. *Bäckerei Karl Bauer*[^4] in Hohenau an der March has a breakfast menu or you can have a coffee at *Kaviareň Lavazza*[^5] in Malacky.
@@ -60,11 +60,11 @@ Continue along the March until you reach the Danube near Bratislava. From there 
 
 ### Sights
 
-- [Marchegg Palace](https://de.wikipedia.org/wiki/Schloss_Marchegg)
+- [Marchegg Castle](https://de.wikipedia.org/wiki/Schloss_Marchegg)
 - [Hof Palace](https://en.wikipedia.org/wiki/Schloss_Hof)
 - [Freedom Cycling Bridge](https://de.wikipedia.org/wiki/Fahrradbr%C3%BCcke_der_Freiheit)
 - [Devín Castle](https://en.wikipedia.org/wiki/Dev%C3%ADn_Castle)
-- [New Palace in Kittsee](https://de.wikipedia.org/wiki/Neues_Schloss_Kittsee)
+- [Kittsee Castle](https://de.wikipedia.org/wiki/Neues_Schloss_Kittsee)
 
 ### Food and accommodation
 Before Marchegg and after Bratislava are almost no restaurants. *Gasthaus Nagl-Hager*[^7] offers good, traditional food. The *Stadtgasthaus am Nyikospark*[^8] also serves Austrian food - a bit more expensive, but very good.

@@ -7,7 +7,7 @@ Cycle through the Central Sudetes in the south of Lower Silesia from a little to
 > [!SUMMARY] Profile
 > ⏱️ 2-3 days 📅 June 2024
 > 
-> Start: 🚉 [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493), 2:30h by [train](https://www.cd.cz/) from Prague
+> Start: 🚉 [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493), 2:30h by [train](https://www.cd.cz/) from Prague 🇨🇿
 > 
 > Dest.: 🚉 [Świdnica](https://www.openstreetmap.org/#map=16/50.83942/16.48672), 1:00h by [train](https://kolejedolnoslaskie.pl/) from Wrocław
 
@@ -17,11 +17,11 @@ Cycle through the Central Sudetes in the south of Lower Silesia from a little to
 | Day 2: Świdnica | [bikerouter.de](https://bikerouter.de/#map=11/50.6760/16.6481/standard&lonlats=16.740686%2C50.512146%7C16.719818%2C50.547786%7C16.807207%2C50.586338%7C16.809841%2C50.58894%7C16.810758%2C50.588877%7C16.786509%2C50.596996%7C16.782308%2C50.605807%7C16.674347%2C50.611792%7C16.581974%2C50.713309%7C16.511496%2C50.762731%7C16.486463%2C50.839494&profile=trekking)                     | [:material-file-download:](Wartha%20-_%20Schweidnitz%20-%2062.4%20km,%20313%20hm.gpx) | 62 km    | 313 hm | -104 hm    |
  
 ## Day 0: Międzylesie
-While staying in Prague is an option (*Café Imperial*[^1] and *Restaurace U Bansethů*[^2] are very good places to eat), you can also sleep (a bit longer) in this quiet, but charming village.
+While staying in [Prague](prague.md) is an option, you can also sleep (a bit longer) in this quiet, but charming village.
 
 ### Sights
 
-- [Międzylesie Palace](https://de.wikipedia.org/wiki/Schloss_Mittelwalde)
+- [Międzylesie Castle](https://de.wikipedia.org/wiki/Schloss_Mittelwalde)
 
 ### Food and accommodation
 For dinner, the castle *Zamek Międzylesie*[^3] has an excellent restaurant. The venison dishes are particularly good.
@@ -29,7 +29,6 @@ For dinner, the castle *Zamek Międzylesie*[^3] has an excellent restaurant. The
 While it also offers rooms to stay, they seem to be booked out constantly.
 
 Another option to sleep in an historic monument is *Sukiennice Międzylesie*[^4] - which was once part of the cloth halls. On [polska-org.pl](https://polska-org.pl/515138,Miedzylesie,Zajazd_Sukiennice.html) you can find historic postcards depicting it. On [this one](https://polska-org.pl/8718979,foto.html?idEntity=515138) it is the first four windows of the large building on the left. Don't be put off by how run-down it looks outside: The rooms are modern and clean. Bicycle storage: Locked bicycle room next to the parking lot.
-
 ## Day 1: Międzylesie - Bardo
 Traverse the remote roads and villages in the [Kłodzko Valley](https://en.wikipedia.org/wiki/K%C5%82odzko_Valley), set amidst the pretty Sudetes.
 
@@ -67,7 +66,7 @@ After leaving Pieszyce, you will share the road with increased car traffic. It d
 ### Sights
 
 - [Ząbkowice Śląskie](https://en.wikipedia.org/wiki/Z%C4%85bkowice_%C5%9Al%C4%85skie)
-	- Ruins of [Ząbkowice Śląskie Palace](https://pl.wikipedia.org/wiki/Zamek_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
+	- Ruins of [Ducal Castle](https://pl.wikipedia.org/wiki/Zamek_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
 	- [Leaning clock tower](https://pl.wikipedia.org/wiki/Krzywa_Wie%C5%BCa_w_Z%C4%85bkowicach_%C5%9Al%C4%85skich)
 - Ruins of [Rudnica Palace](https://pl.wikipedia.org/wiki/Pa%C5%82ac_w_Rudnicy)
 - [Świdnica](https://en.wikipedia.org/wiki/%C5%9Awidnica)

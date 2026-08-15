@@ -22,7 +22,7 @@ You can use the opportunity to see Bayreuth - where history, art, and music meet
 ### Sights
 You can find many things to see on [bayreuth-tourismus.de](https://www.bayreuth-tourismus.de/en/places-of-interest/). Here are the most important ones:
 
-- [New Palace and Park](https://www.bayreuth-tourismus.de/en/places-of-interest/stage-set-for-margravine-wilhelmine/new-palace-and-park/)
+- [New Palace with Park](https://www.bayreuth-tourismus.de/en/places-of-interest/stage-set-for-margravine-wilhelmine/new-palace-and-park/)
 - [Margravial Opera House](https://www.bayreuth-tourismus.de/en/the-margravial-opera-house/)
 - [The Festival Opera House](https://www.bayreuth-tourismus.de/en/places-of-interest/stage-set-for-richard-wagner/the-festival-opera-house/)
 
@@ -56,7 +56,7 @@ If you are looking for a more sporty route, try [this one](https://brouter.m11n.
 ### Sights
 
 - [Hollfeld](https://www.fraenkische-schweiz.com/detail/id=5f5772b95f7f9b38066ee692)
-- [Church of Litzendorf](https://www.fraenkische-schweiz.com/detail/id=5f57733b5f7f9b38066ef0b9)
+- [Litzendorf Church](https://www.fraenkische-schweiz.com/detail/id=5f57733b5f7f9b38066ef0b9)
 - [Seehof Palace](https://www.fraenkische-schweiz.com/detail/id=5f5773225f7f9b38066eefdb)
 - Old Town of [Bamberg](https://www.bamberg.info/): UNESCO World Heritage Site
 
