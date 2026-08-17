@@ -6,7 +6,7 @@ More than a 2 500 km journey through remote and scenic landscapes, it is a ride 
 
 See the remains of this past while you "rope jump" the borders of today.
 
-The tour can be an extension of the [🇨‍🇿 Traversing Moravia](cz-traversing-moravia.md) tour.
+This tour can be an extension of [🇨‍🇿 Traversing Moravia](cz-traversing-moravia.md).
 
 > [!SUMMARY] Profile
 > ⏱️ 3 days 📅 May 2024

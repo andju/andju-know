@@ -6,7 +6,7 @@ Most visitors of the Czech Republic head for Bohemia and Prague - while Moravia 
 
 Along the way the landscape shifts from forested uplands to the open to the rolling farmland of the so-called Moravian Tuscany - South Moravia's wine country. It finishes in the Lednice-Valtice estate, a vast designed landscape of palace, park and follies. It is one region, but you will feel as though you have crossed several.
 
-You can extend the tour with [🇪🇺 Four Countries](eu-four-countries.md). It also starts in the same place as the [🇵🇱 South Lower Silesia](pl-south-lower-silesia.md) tour.
+You can extend the tour with [🇪🇺 Four Countries](eu-four-countries.md). It also starts in the same place as [🇵🇱 South Lower Silesia](pl-south-lower-silesia.md).
 
 > [!SUMMARY] Profile
 > ⏱️ 3-4 days 📅 August 2026
