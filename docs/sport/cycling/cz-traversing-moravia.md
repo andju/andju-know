@@ -23,7 +23,7 @@ You can extend the tour with [🇪🇺 Four Countries](eu-four-countries.md). It
 | Day 4: Břeclav         | [bikerouter.de](https://bikerouter.de/#map=12/48.8313/16.8375/standard&lonlats=16.823091,48.907791;16.8042,48.802571;16.804522,48.801457;16.832289,48.804358;16.876097,48.760256;16.878286,48.760215;16.880904,48.759235;16.890967,48.754898;16.89237,48.754569&pois=16.803742,48.802678,Lednice+Castle;16.832294,48.804355,Januv+Castle;16.876097,48.760256,B%C5%99eclav+Castle&profile=trekking)                                                                                                                                                                                                                                                                                                                                                                                                               | [:material-file-download:](Velké%20Pavlovice%20-%20Břeclav%20-%2028,5%20km,%20elev.%20gain%2014%20m.gpx)    | 29 km    | 14 hm  | -18 hm     |
 
 ## Day 0: Międzylesie 🇵🇱
-While staying in [Prague](prague.md) is an option, you can also sleep (a bit longer) in the quiet, but charming village of [Międzylesie](pl-south-lower-silesia.md#day-miedzylesie).
+While staying in [Prague](prague.md) is an option, you can also sleep (a bit longer) in the quiet, but charming village of [Międzylesie](pl-south-lower-silesia.md#day-0-miedzylesie).
 
 ## Day 1: Międzylesie 🇵🇱 - Olomouc
 After crossing the border through the southern foothills of the Glatz Snow Mountains, the route follows the Morava. Meandering through valleys, forests and villages, it turns from a small stream to a river.
