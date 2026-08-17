@@ -6,6 +6,8 @@ More than a 2 500 km journey through remote and scenic landscapes, it is a ride 
 
 See the remains of this past while you "rope jump" the borders of today.
 
+The tour can be an extension of the [🇨‍🇿 Traversing Moravia](cz-traversing-moravia.md) tour.
+
 > [!SUMMARY] Profile
 > ⏱️ 3 days 📅 May 2024
 > 
@@ -16,8 +18,8 @@ See the remains of this past while you "rope jump" the borders of today.
 |                             | Website                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              | GPX                                                     | Distance | Ascend | Net Ascend |
 | --------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | ------ | ---------- |
 | Day 1: Malacky 🇸🇰         | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9nCOBxRSh5duQ5RPfh-xQ.DS9nJiPxQYOd5KWxQEjybR9xPyIUmmExPgGvlj53je&rs=pubt&rs=base&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&ri=15211075&ri=1701294&ri=1040841757&ri=1105217035&ri=1006893825&ri=&ri=1067194785&ri=1185535896&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8989769&y=48.6133874&z=11)                                                                                                                                                                                          | [:material-file-download:](Four-country-tour-Day-1.gpx) | 53.8 km  | 53 hm  | -3 hm      |
-| Day 2: Neusiedl am See 🇦🇹 | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9nVXpxPcUO9nHOPxPWBx9mvGRxPMNYfJygeAfjUHHf5qfR6gelfHlkfdxPDMbmZExO5UTfWggXkQTfXMk4nxOOpBmvnxOCoO9ndA1x69pU3SSx6e8a9mv3JxNl16&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015717051&ri=&ri=136217338&ri=&ri=1105217038&ri=&ri=&ri=35206841&ri=1190195917&ri=35206901&ri=&ri=1175986187&ri=1005953902&ri=12076879&ri=20362070&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8738959&y=48.2264083&z=10) | [:material-file-download:](Four-country-tour-Day-2.gpx) | 103.4 km | 103 hm | -49 hm     |
-| Day 3: Vasegerszeg 🇭🇺     | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9mv3BxNl-eeEPcqG54elWhgqreS5caixN6Y0h0PxMebc5BCxMNgTkI3xLvaTfbufj5CgCHf5DBV3G-xKm4ElhsboNl3FxK1QiVXf4Q&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=20362070&ri=&ri=1026780806&ri=1240076368&ri=149352757&ri=12012980&ri=40335368&ri=110347850&ri=&ri=&ri=1204567273&ri=1205853876&ri=79392&ri=25052301&ri=127028636&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8691041&y=47.7131910&z=10)                                | [:material-file-download:](Four-country-tour-Day-3.gpx) | 90.7 km  | 173 hm | +39 hm     |
+| Day 2: Neusiedl am See 🇦🇹 | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9nVXpxPcUO9nHOPxPWBx9mvGRxPMNYfJygeAfjUHHf5qfR6gelfHlkfdxPDMbmZExO5UTfWggXkQTfXMk4nxOOpBmvnxOCoO9ndA1x69pU3SSx6e8a9mv3JxNl16&rs=osm&rs=osm&rs=coor&rs=osm&rs=coor&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&ri=136310013&ri=1015717051&ri=&ri=136217338&ri=&ri=1105217038&ri=&ri=&ri=35206841&ri=1190195917&ri=35206901&ri=&ri=1175986187&ri=1005953902&ri=12076879&ri=20362070&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8738959&y=48.2264083&z=10) | [:material-file-download:](Four-country-tour-Day-2.gpx) | 103 km   | 103 hm | -49 hm     |
+| Day 3: Vasegerszeg 🇭🇺     | [mapy.com](https://mapy.com/en/turisticka?planovani-trasy&rc=9mv3BxNl-eeEPcqG54elWhgqreS5caixN6Y0h0PxMebc5BCxMNgTkI3xLvaTfbufj5CgCHf5DBV3G-xKm4ElhsboNl3FxK1QiVXf4Q&rs=osm&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&rs=coor&rs=coor&rs=osm&rs=osm&rs=osm&rs=osm&rs=osm&ri=20362070&ri=&ri=1026780806&ri=1240076368&ri=149352757&ri=12012980&ri=40335368&ri=110347850&ri=&ri=&ri=1204567273&ri=1205853876&ri=79392&ri=25052301&ri=127028636&mrp=%7B%22c%22%3A121%7D&xc=%5B%5D&x=16.8691041&y=47.7131910&z=10)                                | [:material-file-download:](Four-country-tour-Day-3.gpx) | 91 km    | 173 hm | +39 hm     |
  
 ## Day 0: Brno 🇨🇿
 If you want to arrive a day earlier, I recommend to stay in Brno.
@@ -40,7 +42,7 @@ Pass through countryside and villages before following the river March and turni
 
 ### Sights
 
-- [Břeclav Castle](https://en.wikipedia.org/wiki/B%C5%99eclav#Sights)
+- [Břeclav Castle](https://cs.wikipedia.org/wiki/B%C5%99eclav_(z%C3%A1mek))
 - Remains of the [Czechoslovak border fortifications](https://en.wikipedia.org/wiki/Czechoslovak_border_fortifications): Along the Slovakian side of the March
 - [Vŕšok Watch Tower](https://mapy.com/sk/zakladni?source=osm&id=1067194785&x=16.9681849&y=48.4500894&z=17): 🛑 I couldn't find any information whether it is allowed or even safe to climb the Vŕšok. I strongly recommend **not** to do it.
 
@@ -56,7 +58,7 @@ A more sporty [route](https://en.mapy.cz/turisticka?planovani-trasy&rc=9mP-NxSWM
 Continue along the March until you reach the Danube near Bratislava. From there continue over (mostly) flat land to Lake Neusiedl. The longest part of the tour is rewarded with a fast downhill, right before the end.
 
 > [!warning] Malacky to Jakubov
-> The cars drive quite fast on the road between Malacky and Jakubov. If you want to avoid this part of the route, you can go back to Gajary and turn south to Suchohrad. Alternatively go south to Zohor and from there west to Vysoká pri Morave.
+> The cars drive quite fast on road 503 between Malacky and Jakubov. If you want to avoid this part of the route, you can go back to Gajary and turn south to Suchohrad. Alternatively go south to Zohor and from there west to Vysoká pri Morave.
 
 ### Sights
 

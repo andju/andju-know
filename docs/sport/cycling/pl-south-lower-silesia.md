@@ -4,6 +4,8 @@ published: true
 # 🇵🇱 South Lower Silesia
 Cycle through the Central Sudetes in the south of Lower Silesia from a little town near the Czech border to Świdnica or Wrocław. The route weaves through rolling hills, forest trails, and quiet country roads, offering a blend of natural beauty and cultural landmarks.
 
+The tour starts in the same place as the [🇨‍🇿 Traversing Moravia](cz-traversing-moravia.md) tour.
+
 > [!SUMMARY] Profile
 > ⏱️ 2-3 days 📅 June 2024
 > 
@@ -29,6 +31,10 @@ For dinner, the castle *Zamek Międzylesie*[^3] has an excellent restaurant. The
 While it also offers rooms to stay, they seem to be booked out constantly.
 
 Another option to sleep in an historic monument is *Sukiennice Międzylesie*[^4] - which was once part of the cloth halls. On [polska-org.pl](https://polska-org.pl/515138,Miedzylesie,Zajazd_Sukiennice.html) you can find historic postcards depicting it. On [this one](https://polska-org.pl/8718979,foto.html?idEntity=515138) it is the first four windows of the large building on the left. Don't be put off by how run-down it looks outside: The rooms are modern and clean. Bicycle storage: Locked bicycle room next to the parking lot.
+
+> [!NOTE] Update (August 2026)
+> Zamek Międzylesie offers an excelent breakfast - ask at the receiption when you check in.
+
 ## Day 1: Międzylesie - Bardo
 Traverse the remote roads and villages in the [Kłodzko Valley](https://en.wikipedia.org/wiki/K%C5%82odzko_Valley), set amidst the pretty Sudetes.
 
