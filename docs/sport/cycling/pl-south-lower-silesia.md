@@ -7,7 +7,7 @@ Cycle through the Central Sudetes in the south of Lower Silesia from a little to
 The tour starts in the same place as [🇨🇿 Traversing Moravia](cz-traversing-moravia.md).
 
 > [!SUMMARY] Profile
-> ⏱️ 2-3 days 📅 June 2024
+> ⏱️ 2-3 days 📅 June 2025
 > 
 > Start: 🚉 [Międzylesie](https://www.openstreetmap.org/#map=16/50.14448/16.65493), 2:30h by [train](https://www.cd.cz/) from Prague 🇨🇿
 > 
