@@ -4,6 +4,7 @@ published: true
 # 🇩🇪 Day Tours
 
 ## Bavaria
+Bavaria, in southern Germany, is famous for its picturesque landscapes, charming villages, historic towns, and rich cultural traditions.
 
 ### Dachau region breweries
 Beer & Bike: Experience the northeast of the Dachau region and taste the beer in 5 different breweries.
