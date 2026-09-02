@@ -5,6 +5,7 @@ published: true
 
 | Name                                                       | Days | km  | hm   | Year |
 | ---------------------------------------------------------- | ---- | --- | ---- | ---- |
+| [Day Tours](cz-day-tours.md)                               |      |     |      |      |
 | [Kingdom Come Deliverance](cz-kingdom-come-deliverance.md) | 2    | 68  | 727  | 2022 |
 | [Traversing Moravia](cz-traversing-moravia.md)             | 4    | 293 | 1075 | 2026 |
 
