@@ -67,6 +67,7 @@ Alle Orte sind von (1) Westen nach Osten und (2) Norden nach Süden sortiert.
 - [ ] [Dürrenstein (2839m, 3:30h)](https://www.hoehenrausch.de/berge/duerrenstein/)
 - [ ] [Monte Piano (2321m, 4h)](https://www.alpenvereinaktiv.com/de/tour/hoehlensteintal-monte-piano-piana-runde/296300905/): 🍽️ [Rifugio Monte Piana](https://www.montepiana.com/rifugiobosiger.htm)
 - [ ] [Pala Nord Est (2300m, 3:30h)](https://www.alpenvereinaktiv.com/de/tour/monte-popena-basso-da-misurina/327502627/)
+- [ ] [Sextner Stein (2539m, 5:30h)](https://www.alpenvereinaktiv.com/de/tour/vom-rienztal-ueber-das-wildgrabenjoch-zur-dreizinnenhuette/217632784): 🍽️ [Rifugio Antonio Locatelli - S. Innerkofler](https://www.dreizinnenhuette.com/antonio-locatelli-hut.php)
 
 ## [Sellajoch (Passo Sella)](https://www.openstreetmap.org/node/272338771)
 
