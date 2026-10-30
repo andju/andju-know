@@ -10,22 +10,36 @@ The watch behaves normally most of the time, but under specific triggers it rebo
 - **Disconnecting the charging cable:** You unplug the watch and instead of returning to the watch face, it restarts (potentially into a [boot loop](fix-crash-and-reboot-loop.md#end-a-boot-loop-by-factory-reset)).
 - **Starting an activity:** You select a sport profile and hit the start button, and the watch reboots instead of beginning to record.
 
-## Too Many Stored Activity Files
-Like most software bugs, this one can have multiple root causes, and Garmin's firmware is complex enough that no single explanation covers every case. But there's a pattern worth checking first: **a large backlog of unsynced or unarchived `.fit` activity files sitting on the watch.**
-
-In multiple cases, this reboot issue was resolved by manually deleting old activity files directly from the device. Usually, the watch had accumulated roughly **100 stored activities** before the problem started.
+## Too Many Stored .fit Files
+Like most software bugs, this one can have multiple root causes, and Garmin's firmware is complex enough that no single explanation covers every case. But there's a pattern worth checking first: **a large number of `.fit` files sitting on the watch.**
 
 The theory is straightforward: as the number of `.fit` files builds up, something in the watch's internal handling of that storage - indexing, reading, or writing during charge-cycle or activity-start events - gets bogged down or hits an edge case, triggering a crash and reboot.
 
+Further troubleshooting showed that it's not only the activity files that count towards the limit, but **all `.fit` files on the watch**. In addition, starting with firmware version **26.09**, the `.fit` files in the following folders are no longer cleaned up automatically if they haven't been synced with Garmin Connect:
+
+| Folder             | What it (most likely) stores                                                                                                                                                                                                                                                                                                                       |
+| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `GARMIN/SkinTemp/` | Overnight **skin temperature** readings used for Garmin's skin temperature feature.                                                                                                                                                                                                                                                                |
+| `GARMIN/Sleep/`    | **Sleep tracking** data recorded on the watch.                                                                                                                                                                                                                                                                                                     |
+| `GARMIN/SlpDisr/`  | **Unconfirmed.** The name most likely abbreviates _sleep disruption(s)_. A plausible candidate is the overnight [breathing variations](https://www8.garmin.com/manuals/webhelp/GUID-E5C62F3F-DCE3-4197-8CA5-E419B2A55D12/EN-US/GUID-636632DF-E3E8-4C15-936A-CFB7EA2B5C39.html) data, which the Epix measures with its pulse oximeter during sleep. |
+
+Normally each of these folders contains only **six files**. If the cleanup doesn't happen, they grow by one file per night and quietly push the total `.fit` count towards the point where the reboots start.
+
 ## How to Fix It
 
-1. **Connect the watch to your computer via USB** and open the drive in a file browser.
-2. **Navigate to the activity folder**, typically found at: `GARMIN/ACTIVITY/`
+1. **Connect the watch to your computer via USB** and open the drive in a file browser. Make sure that the USB Mode of the watch is set to MTP.
+2. **Check the number of `.fit` files** in these folders:
+    - `GARMIN/ACTIVITY/` - your recorded activities
+    - `GARMIN/SkinTemp/`
+    - `GARMIN/Sleep/`
+    - `GARMIN/SlpDisr/`
 3. **Back up the `.fit` files locally** by copying them to a folder on your computer before deleting anything.
-4. **Delete the `.fit` files** for old activities you've backed up. You don't need to remove everything - just clear out the bulk of the backlog.
+4. **Delete the `.fit` files** you've backed up:
+    - In `ACTIVITY`, remove old activities. You don't need to remove everything - just clear out the bulk of the backlog.
+    - In `SkinTemp`, `Sleep` and `SlpDisr`, keep the six most recent files and delete the older ones.
 5. **Safely eject and disconnect** the watch, then test the behavior that used to trigger the reboot (unplug the charger, start an activity).
 
-If you're dealing with random reboots and haven't checked your on-device activity count in a while, it's a five-minute troubleshooting step that's worth trying before anything more drastic.
+If you're dealing with random reboots and haven't checked your on-device `.fit` file count in a while, it's a five-minute troubleshooting step that's worth trying before anything more drastic.
 
 ## End a Boot Loop by Factory Reset
 
